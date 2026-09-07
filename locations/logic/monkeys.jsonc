@@ -1,0 +1,2897 @@
+// Generated from ae2_archipelago revision unknown. Do not edit manually.
+[
+  {
+    "name": "Liberty Island",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "George",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|1",
+                "visibility_rules": "$is_location_active|1"
+              },
+              {
+                "name": "Libby",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|2",
+                "visibility_rules": "$is_location_active|2"
+              },
+              {
+                "name": "Tomkey Kruise",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|3",
+                "visibility_rules": "$is_location_active|3"
+              },
+              {
+                "name": "Chill",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|4",
+                "visibility_rules": "$is_location_active|4"
+              },
+              {
+                "name": "Henry",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|5",
+                "visibility_rules": "$is_location_active|5"
+              },
+              {
+                "name": "Harley Q. Win",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|6",
+                "visibility_rules": "$is_location_active|6"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Breezy Village",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Dozy",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|7",
+                "visibility_rules": "$is_location_active|7"
+              },
+              {
+                "name": "Baboondini",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|8",
+                "visibility_rules": "$is_location_active|8"
+              },
+              {
+                "name": "Walter",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|9",
+                "visibility_rules": "$is_location_active|9"
+              },
+              {
+                "name": "Jon",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|10",
+                "visibility_rules": "$is_location_active|10"
+              },
+              {
+                "name": "Crusty",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|11",
+                "visibility_rules": "$is_location_active|11"
+              },
+              {
+                "name": "Balboa",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|12",
+                "visibility_rules": "$is_location_active|12"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Port Calm",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Dannyboy",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|13",
+                "visibility_rules": "$is_location_active|13"
+              },
+              {
+                "name": "Seanyboy",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|14",
+                "visibility_rules": "$is_location_active|14"
+              },
+              {
+                "name": "Chili",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|15",
+                "visibility_rules": "$is_location_active|15"
+              },
+              {
+                "name": "Beday",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|16",
+                "visibility_rules": "$is_location_active|16"
+              },
+              {
+                "name": "Florence",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|17",
+                "visibility_rules": "$is_location_active|17"
+              },
+              {
+                "name": "Punto",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|18",
+                "visibility_rules": "$is_location_active|18"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Indoors",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Lilo",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|19",
+                "visibility_rules": "$is_location_active|19"
+              },
+              {
+                "name": "Manuel",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|20",
+                "visibility_rules": "$is_location_active|20"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Viva Apespania",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Pogo",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|21",
+                "visibility_rules": "$is_location_active|21"
+              },
+              {
+                "name": "Slope",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|22",
+                "visibility_rules": "$is_location_active|22"
+              },
+              {
+                "name": "Billy",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|23",
+                "visibility_rules": "$is_location_active|23"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Village",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Ole",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|24",
+                "visibility_rules": "$is_location_active|24"
+              },
+              {
+                "name": "Chutney",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|25",
+                "visibility_rules": "$is_location_active|25"
+              },
+              {
+                "name": "Wiz",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|26",
+                "visibility_rules": "$is_location_active|26"
+              },
+              {
+                "name": "Birgit",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|27",
+                "visibility_rules": "$is_location_active|27"
+              },
+              {
+                "name": "Lily",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|28",
+                "visibility_rules": "$is_location_active|28"
+              },
+              {
+                "name": "Trip",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|29",
+                "visibility_rules": "$is_location_active|29"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bullring",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Toro",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|30",
+                "visibility_rules": "$is_location_active|30"
+              },
+              {
+                "name": "Annie",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|31",
+                "visibility_rules": "$is_location_active|31"
+              },
+              {
+                "name": "Luis",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|32",
+                "visibility_rules": "$is_location_active|32"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Blue Monkey Battle!",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Blue Monkey",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|33",
+                "visibility_rules": "$is_location_active|33"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Castle Frightmare",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Arthur",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|34",
+                "visibility_rules": "$is_location_active|34"
+              },
+              {
+                "name": "Virgil",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|35",
+                "visibility_rules": "$is_location_active|35"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Inside",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "The Invisible Monkey",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|36",
+                "visibility_rules": "$is_location_active|36"
+              },
+              {
+                "name": "Monk Quixote",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|37",
+                "visibility_rules": "$is_location_active|37"
+              },
+              {
+                "name": "Van",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|38",
+                "visibility_rules": "$is_location_active|38"
+              },
+              {
+                "name": "Simon",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|39",
+                "visibility_rules": "$is_location_active|39"
+              },
+              {
+                "name": "Pierce",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|40",
+                "visibility_rules": "$is_location_active|40"
+              },
+              {
+                "name": "Jumpy",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|41",
+                "visibility_rules": "$is_location_active|41"
+              },
+              {
+                "name": "Viv",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|42",
+                "visibility_rules": "$is_location_active|42"
+              },
+              {
+                "name": "Count Monkula",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|43",
+                "visibility_rules": "$is_location_active|43"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dungeon",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Hyde",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|44",
+                "visibility_rules": "$is_location_active|44"
+              },
+              {
+                "name": "Stein",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|45",
+                "visibility_rules": "$is_location_active|45"
+              },
+              {
+                "name": "Nana",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|46",
+                "visibility_rules": "$is_location_active|46"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vita-Z Factory",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Vic",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|47",
+                "visibility_rules": "$is_location_active|47"
+              },
+              {
+                "name": "Bob",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|48",
+                "visibility_rules": "$is_location_active|48"
+              },
+              {
+                "name": "Snap",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|49",
+                "visibility_rules": "$is_location_active|49"
+              },
+              {
+                "name": "Al",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|50",
+                "visibility_rules": "$is_location_active|50"
+              },
+              {
+                "name": "Chomp",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|51",
+                "visibility_rules": "$is_location_active|51"
+              },
+              {
+                "name": "Arnie",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|52",
+                "visibility_rules": "$is_location_active|52"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mech Tunnel",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Phil G.",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|53",
+                "visibility_rules": "$is_location_active|53"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mech Arena",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Bobby",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|54",
+                "visibility_rules": "$is_location_active|54"
+              },
+              {
+                "name": "Skippy",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|55",
+                "visibility_rules": "$is_location_active|55"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Casino City",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Pelvis",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|56",
+                "visibility_rules": "$is_location_active|56"
+              },
+              {
+                "name": "Jessica",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|57",
+                "visibility_rules": "$is_location_active|57"
+              },
+              {
+                "name": "Vincent",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|58",
+                "visibility_rules": "$is_location_active|58"
+              },
+              {
+                "name": "Shaft",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|59",
+                "visibility_rules": "$is_location_active|59"
+              },
+              {
+                "name": "Jackson",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|60",
+                "visibility_rules": "$is_location_active|60"
+              },
+              {
+                "name": "Oozy",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|61",
+                "visibility_rules": "$is_location_active|61"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bar",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Simian Seagal",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|62",
+                "visibility_rules": "$is_location_active|62"
+              },
+              {
+                "name": "Leo",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|63",
+                "visibility_rules": "$is_location_active|63"
+              },
+              {
+                "name": "Ulysses",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|64",
+                "visibility_rules": "$is_location_active|64"
+              },
+              {
+                "name": "Clint Apewood",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|65",
+                "visibility_rules": "$is_location_active|65"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Circus",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Raymond",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|66",
+                "visibility_rules": "$is_location_active|66"
+              },
+              {
+                "name": "Vindy",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|67",
+                "visibility_rules": "$is_location_active|67"
+              },
+              {
+                "name": "Pierrot",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|68",
+                "visibility_rules": "$is_location_active|68"
+              },
+              {
+                "name": "Jester",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|69",
+                "visibility_rules": "$is_location_active|69"
+              },
+              {
+                "name": "Bubbles",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|70",
+                "visibility_rules": "$is_location_active|70"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ninja Hideout",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Snooz",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|71",
+                "visibility_rules": "$is_location_active|71"
+              },
+              {
+                "name": "Twiggy",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|72",
+                "visibility_rules": "$is_location_active|72"
+              },
+              {
+                "name": "Harry Karry",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|73",
+                "visibility_rules": "$is_location_active|73"
+              },
+              {
+                "name": "Chan",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|74",
+                "visibility_rules": "$is_location_active|74"
+              },
+              {
+                "name": "Duncan",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|75",
+                "visibility_rules": "$is_location_active|75"
+              },
+              {
+                "name": "Somnia",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|76",
+                "visibility_rules": "$is_location_active|76"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Second Room",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Hideyoshi",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|77",
+                "visibility_rules": "$is_location_active|77"
+              },
+              {
+                "name": "Takashi",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|78",
+                "visibility_rules": "$is_location_active|78"
+              },
+              {
+                "name": "Rapido",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|79",
+                "visibility_rules": "$is_location_active|79"
+              },
+              {
+                "name": "Jim",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|80",
+                "visibility_rules": "$is_location_active|80"
+              },
+              {
+                "name": "Bon-o",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|81",
+                "visibility_rules": "$is_location_active|81"
+              },
+              {
+                "name": "Boxer",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|82",
+                "visibility_rules": "$is_location_active|82"
+              },
+              {
+                "name": "Chuck",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|83",
+                "visibility_rules": "$is_location_active|83"
+              },
+              {
+                "name": "Shiho",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|84",
+                "visibility_rules": "$is_location_active|84"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Third Room",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Ledski",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|85",
+                "visibility_rules": "$is_location_active|85"
+              },
+              {
+                "name": "Harvey",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|86",
+                "visibility_rules": "$is_location_active|86"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yellow Monkey Battle!",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Yellow Monkey",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|87",
+                "visibility_rules": "$is_location_active|87"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Snowball Mountain",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Bernie",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|88",
+                "visibility_rules": "$is_location_active|88"
+              },
+              {
+                "name": "Zebedee",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|89",
+                "visibility_rules": "$is_location_active|89"
+              },
+              {
+                "name": "Jibber",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|90",
+                "visibility_rules": "$is_location_active|90"
+              },
+              {
+                "name": "Threedee",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|91",
+                "visibility_rules": "$is_location_active|91"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Christmas Tree",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Monkey Claus",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|92",
+                "visibility_rules": "$is_location_active|92"
+              },
+              {
+                "name": "Chill",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|93",
+                "visibility_rules": "$is_location_active|93"
+              },
+              {
+                "name": "Parka",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|94",
+                "visibility_rules": "$is_location_active|94"
+              },
+              {
+                "name": "Raver",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|95",
+                "visibility_rules": "$is_location_active|95"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ski Hill",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Elodie",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|96",
+                "visibility_rules": "$is_location_active|96"
+              },
+              {
+                "name": "Davee",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|97",
+                "visibility_rules": "$is_location_active|97"
+              },
+              {
+                "name": "Big Bopper",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|98",
+                "visibility_rules": "$is_location_active|98"
+              },
+              {
+                "name": "Jimmy",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|99",
+                "visibility_rules": "$is_location_active|99"
+              },
+              {
+                "name": "Eddie the Falcon",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|100",
+                "visibility_rules": "$is_location_active|100"
+              },
+              {
+                "name": "Zippy",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|101",
+                "visibility_rules": "$is_location_active|101"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lookout Valley",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Olivia",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|102",
+                "visibility_rules": "$is_location_active|102"
+              },
+              {
+                "name": "Ally",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|103",
+                "visibility_rules": "$is_location_active|103"
+              },
+              {
+                "name": "Ty",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|104",
+                "visibility_rules": "$is_location_active|104"
+              },
+              {
+                "name": "Livingstone",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|105",
+                "visibility_rules": "$is_location_active|105"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Jungle",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Louis",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|106",
+                "visibility_rules": "$is_location_active|106"
+              },
+              {
+                "name": "Lily",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|107",
+                "visibility_rules": "$is_location_active|107"
+              },
+              {
+                "name": "Gunn",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|108",
+                "visibility_rules": "$is_location_active|108"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cave",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Gill",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|109",
+                "visibility_rules": "$is_location_active|109"
+              },
+              {
+                "name": "Chris",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|110",
+                "visibility_rules": "$is_location_active|110"
+              },
+              {
+                "name": "Simian Tell",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|111",
+                "visibility_rules": "$is_location_active|111"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Blue Baboon",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Helmut",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|112",
+                "visibility_rules": "$is_location_active|112"
+              },
+              {
+                "name": "Sandy",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|113",
+                "visibility_rules": "$is_location_active|113"
+              },
+              {
+                "name": "Gloria",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|114",
+                "visibility_rules": "$is_location_active|114"
+              },
+              {
+                "name": "Michelle",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|115",
+                "visibility_rules": "$is_location_active|115"
+              },
+              {
+                "name": "Erin",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|116",
+                "visibility_rules": "$is_location_active|116"
+              },
+              {
+                "name": "Brad",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|117",
+                "visibility_rules": "$is_location_active|117"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bananarang Room",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Mulder",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|118",
+                "visibility_rules": "$is_location_active|118"
+              },
+              {
+                "name": "Rik",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|119",
+                "visibility_rules": "$is_location_active|119"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ship",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Montague",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|120",
+                "visibility_rules": "$is_location_active|120"
+              },
+              {
+                "name": "Shorty",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|121",
+                "visibility_rules": "$is_location_active|121"
+              },
+              {
+                "name": "Speedo",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|122",
+                "visibility_rules": "$is_location_active|122"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Changing Hut",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Sooz",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|123",
+                "visibility_rules": "$is_location_active|123"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pink Monkey Battle!",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Pink Monkey",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|124",
+                "visibility_rules": "$is_location_active|124"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Enter the Monkey",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Jean Paul",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|125",
+                "visibility_rules": "$is_location_active|125"
+              },
+              {
+                "name": "Simeski",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|126",
+                "visibility_rules": "$is_location_active|126"
+              },
+              {
+                "name": "Barry",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|127",
+                "visibility_rules": "$is_location_active|127"
+              },
+              {
+                "name": "Chan",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|128",
+                "visibility_rules": "$is_location_active|128"
+              },
+              {
+                "name": "Marshall",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|129",
+                "visibility_rules": "$is_location_active|129"
+              },
+              {
+                "name": "Wesley",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|130",
+                "visibility_rules": "$is_location_active|130"
+              },
+              {
+                "name": "Chaz",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|131",
+                "visibility_rules": "$is_location_active|131"
+              },
+              {
+                "name": "Daimion",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|132",
+                "visibility_rules": "$is_location_active|132"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Inside",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Bruce Monkee",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|133",
+                "visibility_rules": "$is_location_active|133"
+              },
+              {
+                "name": "Miyazaki",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|134",
+                "visibility_rules": "$is_location_active|134"
+              },
+              {
+                "name": "Johnny",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|135",
+                "visibility_rules": "$is_location_active|135"
+              },
+              {
+                "name": "Naseem",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|136",
+                "visibility_rules": "$is_location_active|136"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wall",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Ming",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|137",
+                "visibility_rules": "$is_location_active|137"
+              },
+              {
+                "name": "Ryan",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|138",
+                "visibility_rules": "$is_location_active|138"
+              },
+              {
+                "name": "Martin",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|139",
+                "visibility_rules": "$is_location_active|139"
+              },
+              {
+                "name": "Jools",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|140",
+                "visibility_rules": "$is_location_active|140"
+              },
+              {
+                "name": "James",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|141",
+                "visibility_rules": "$is_location_active|141"
+              },
+              {
+                "name": "John Ook",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|142",
+                "visibility_rules": "$is_location_active|142"
+              },
+              {
+                "name": "Goku",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|143",
+                "visibility_rules": "$is_location_active|143"
+              },
+              {
+                "name": "Daniel C. Ooke",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|144",
+                "visibility_rules": "$is_location_active|144"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Simian Citadel",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Sly",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|145",
+                "visibility_rules": "$is_location_active|145"
+              },
+              {
+                "name": "Norman",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|146",
+                "visibility_rules": "$is_location_active|146"
+              },
+              {
+                "name": "Alex",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|147",
+                "visibility_rules": "$is_location_active|147"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Whale",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Jonah",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|148",
+                "visibility_rules": "$is_location_active|148"
+              },
+              {
+                "name": "Mermonkey",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|149",
+                "visibility_rules": "$is_location_active|149"
+              },
+              {
+                "name": "Colin",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|150",
+                "visibility_rules": "$is_location_active|150"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Submarine",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Nicky",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|151",
+                "visibility_rules": "$is_location_active|151"
+              },
+              {
+                "name": "Vaughan",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|152",
+                "visibility_rules": "$is_location_active|152"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Fountain",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Dave",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|153",
+                "visibility_rules": "$is_location_active|153"
+              },
+              {
+                "name": "Gonzales",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|154",
+                "visibility_rules": "$is_location_active|154"
+              },
+              {
+                "name": "Daley",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|155",
+                "visibility_rules": "$is_location_active|155"
+              },
+              {
+                "name": "Ollie",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|156",
+                "visibility_rules": "$is_location_active|156"
+              },
+              {
+                "name": "Dolph",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|157",
+                "visibility_rules": "$is_location_active|157"
+              },
+              {
+                "name": "Tommy",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|158",
+                "visibility_rules": "$is_location_active|158"
+              },
+              {
+                "name": "Grace",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|159",
+                "visibility_rules": "$is_location_active|159"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bullring",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Jim",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|160",
+                "visibility_rules": "$is_location_active|160"
+              },
+              {
+                "name": "Rex",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|161",
+                "visibility_rules": "$is_location_active|161"
+              },
+              {
+                "name": "Brucie",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|162",
+                "visibility_rules": "$is_location_active|162"
+              },
+              {
+                "name": "Woody",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|163",
+                "visibility_rules": "$is_location_active|163"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Panic Pyramid",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Piz",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|164",
+                "visibility_rules": "$is_location_active|164"
+              },
+              {
+                "name": "Stu",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|165",
+                "visibility_rules": "$is_location_active|165"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Booby Traps",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Stevie",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|166",
+                "visibility_rules": "$is_location_active|166"
+              },
+              {
+                "name": "Jimbo",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|167",
+                "visibility_rules": "$is_location_active|167"
+              },
+              {
+                "name": "Roberts",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|168",
+                "visibility_rules": "$is_location_active|168"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Moving Platforms #1",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Uri",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|169",
+                "visibility_rules": "$is_location_active|169"
+              },
+              {
+                "name": "Eric",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|170",
+                "visibility_rules": "$is_location_active|170"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Boulders",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Curley",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|171",
+                "visibility_rules": "$is_location_active|171"
+              },
+              {
+                "name": "Chimpette",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|172",
+                "visibility_rules": "$is_location_active|172"
+              },
+              {
+                "name": "Dane",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|173",
+                "visibility_rules": "$is_location_active|173"
+              },
+              {
+                "name": "Slim",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|174",
+                "visibility_rules": "$is_location_active|174"
+              },
+              {
+                "name": "Cleo",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|175",
+                "visibility_rules": "$is_location_active|175"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Moving Platforms #2",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Spud",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|176",
+                "visibility_rules": "$is_location_active|176"
+              },
+              {
+                "name": "Anthony",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|177",
+                "visibility_rules": "$is_location_active|177"
+              },
+              {
+                "name": "Becky",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|178",
+                "visibility_rules": "$is_location_active|178"
+              },
+              {
+                "name": "Gordon",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|179",
+                "visibility_rules": "$is_location_active|179"
+              },
+              {
+                "name": "Sphinx",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|180",
+                "visibility_rules": "$is_location_active|180"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "White Monkey Battle!",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "White Monkey",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|181",
+                "visibility_rules": "$is_location_active|181"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pirate Isle",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Pugwash",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|182",
+                "visibility_rules": "$is_location_active|182"
+              },
+              {
+                "name": "Burt",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|183",
+                "visibility_rules": "$is_location_active|183"
+              },
+              {
+                "name": "Hawkins",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|184",
+                "visibility_rules": "$is_location_active|184"
+              },
+              {
+                "name": "Kelly",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|185",
+                "visibility_rules": "$is_location_active|185"
+              },
+              {
+                "name": "Stephenson",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|186",
+                "visibility_rules": "$is_location_active|186"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cave Entrance",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Mel",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|187",
+                "visibility_rules": "$is_location_active|187"
+              },
+              {
+                "name": "Dick",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|188",
+                "visibility_rules": "$is_location_active|188"
+              },
+              {
+                "name": "Bradley",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|189",
+                "visibility_rules": "$is_location_active|189"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Boat",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Tabasco",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|190",
+                "visibility_rules": "$is_location_active|190"
+              },
+              {
+                "name": "Bonzo",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|191",
+                "visibility_rules": "$is_location_active|191"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mine",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Scratchy",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|192",
+                "visibility_rules": "$is_location_active|192"
+              },
+              {
+                "name": "Vic",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|193",
+                "visibility_rules": "$is_location_active|193"
+              },
+              {
+                "name": "Indy",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|194",
+                "visibility_rules": "$is_location_active|194"
+              },
+              {
+                "name": "Bobby",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|195",
+                "visibility_rules": "$is_location_active|195"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dungeon",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Freddie",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|196",
+                "visibility_rules": "$is_location_active|196"
+              },
+              {
+                "name": "Denis",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|197",
+                "visibility_rules": "$is_location_active|197"
+              },
+              {
+                "name": "Oliver",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|198",
+                "visibility_rules": "$is_location_active|198"
+              },
+              {
+                "name": "Captain Ook",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|199",
+                "visibility_rules": "$is_location_active|199"
+              },
+              {
+                "name": "Jeffrey",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|200",
+                "visibility_rules": "$is_location_active|200"
+              },
+              {
+                "name": "Lee",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|201",
+                "visibility_rules": "$is_location_active|201"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Land of the Apes",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Spa",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Rupert",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|202",
+                "visibility_rules": "$is_location_active|202"
+              },
+              {
+                "name": "Craig",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|203",
+                "visibility_rules": "$is_location_active|203"
+              },
+              {
+                "name": "Hear No Evil",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|204",
+                "visibility_rules": "$is_location_active|204"
+              },
+              {
+                "name": "Brian",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|205",
+                "visibility_rules": "$is_location_active|205"
+              },
+              {
+                "name": "Smell No Evil",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|206",
+                "visibility_rules": "$is_location_active|206"
+              },
+              {
+                "name": "Speak No Evil",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|207",
+                "visibility_rules": "$is_location_active|207"
+              },
+              {
+                "name": "Bones",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|208",
+                "visibility_rules": "$is_location_active|208"
+              },
+              {
+                "name": "Mr Frosty",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|209",
+                "visibility_rules": "$is_location_active|209"
+              },
+              {
+                "name": "Lynn",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|210",
+                "visibility_rules": "$is_location_active|210"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Icicles",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Lars",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|211",
+                "visibility_rules": "$is_location_active|211"
+              },
+              {
+                "name": "Stone",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|212",
+                "visibility_rules": "$is_location_active|212"
+              },
+              {
+                "name": "Seb",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|213",
+                "visibility_rules": "$is_location_active|213"
+              },
+              {
+                "name": "Torvill",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|214",
+                "visibility_rules": "$is_location_active|214"
+              },
+              {
+                "name": "Dean",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|215",
+                "visibility_rules": "$is_location_active|215"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ski Hill",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Monkski",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|216",
+                "visibility_rules": "$is_location_active|216"
+              },
+              {
+                "name": "Robinson",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|217",
+                "visibility_rules": "$is_location_active|217"
+              },
+              {
+                "name": "Murray",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|218",
+                "visibility_rules": "$is_location_active|218"
+              },
+              {
+                "name": "Linz",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|219",
+                "visibility_rules": "$is_location_active|219"
+              },
+              {
+                "name": "Philippe",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|220",
+                "visibility_rules": "$is_location_active|220"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Mona",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|221",
+                "visibility_rules": "$is_location_active|221"
+              },
+              {
+                "name": "Patrick",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|222",
+                "visibility_rules": "$is_location_active|222"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Lost World",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Homer",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|223",
+                "visibility_rules": "$is_location_active|223"
+              },
+              {
+                "name": "Sam",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|224",
+                "visibility_rules": "$is_location_active|224"
+              },
+              {
+                "name": "Grant",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|225",
+                "visibility_rules": "$is_location_active|225"
+              },
+              {
+                "name": "Mervin",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|226",
+                "visibility_rules": "$is_location_active|226"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pterodacytls",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Terry",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|227",
+                "visibility_rules": "$is_location_active|227"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pterodactyls",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Murdoch",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|228",
+                "visibility_rules": "$is_location_active|228"
+              },
+              {
+                "name": "Monko Polo",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|229",
+                "visibility_rules": "$is_location_active|229"
+              },
+              {
+                "name": "Emma",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|230",
+                "visibility_rules": "$is_location_active|230"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Trees",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Stumpy",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|231",
+                "visibility_rules": "$is_location_active|231"
+              },
+              {
+                "name": "Baz",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|232",
+                "visibility_rules": "$is_location_active|232"
+              },
+              {
+                "name": "Des",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|233",
+                "visibility_rules": "$is_location_active|233"
+              },
+              {
+                "name": "Christy",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|234",
+                "visibility_rules": "$is_location_active|234"
+              },
+              {
+                "name": "Stanley",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|235",
+                "visibility_rules": "$is_location_active|235"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "T-Rex",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Lewis",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|236",
+                "visibility_rules": "$is_location_active|236"
+              },
+              {
+                "name": "Prince",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|237",
+                "visibility_rules": "$is_location_active|237"
+              },
+              {
+                "name": "Lunch",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|238",
+                "visibility_rules": "$is_location_active|238"
+              },
+              {
+                "name": "Ovett",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|239",
+                "visibility_rules": "$is_location_active|239"
+              },
+              {
+                "name": "Babe",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|240",
+                "visibility_rules": "$is_location_active|240"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Red Monkey Battle!",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Red Monkey",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|241",
+                "visibility_rules": "$is_location_active|241"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Skyscraper City",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Final Room",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Brendan",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|242",
+                "visibility_rules": "$is_location_active|242"
+              },
+              {
+                "name": "Ali",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|243",
+                "visibility_rules": "$is_location_active|243"
+              },
+              {
+                "name": "Jim",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|244",
+                "visibility_rules": "$is_location_active|244"
+              },
+              {
+                "name": "Ricardo",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|245",
+                "visibility_rules": "$is_location_active|245"
+              },
+              {
+                "name": "Douglas",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|246",
+                "visibility_rules": "$is_location_active|246"
+              },
+              {
+                "name": "Cameron",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|247",
+                "visibility_rules": "$is_location_active|247"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Slider",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|248",
+                "visibility_rules": "$is_location_active|248"
+              },
+              {
+                "name": "Spank",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|249",
+                "visibility_rules": "$is_location_active|249"
+              },
+              {
+                "name": "Din",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|250",
+                "visibility_rules": "$is_location_active|250"
+              },
+              {
+                "name": "Sue",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|251",
+                "visibility_rules": "$is_location_active|251"
+              },
+              {
+                "name": "Dum Dum",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|252",
+                "visibility_rules": "$is_location_active|252"
+              },
+              {
+                "name": "Jitter",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|253",
+                "visibility_rules": "$is_location_active|253"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lobby",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Robson",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|254",
+                "visibility_rules": "$is_location_active|254"
+              },
+              {
+                "name": "Spud II",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|255",
+                "visibility_rules": "$is_location_active|255"
+              },
+              {
+                "name": "Cole",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|256",
+                "visibility_rules": "$is_location_active|256"
+              },
+              {
+                "name": "Ty",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|257",
+                "visibility_rules": "$is_location_active|257"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sewer",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Slacker",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|258",
+                "visibility_rules": "$is_location_active|258"
+              },
+              {
+                "name": "Kengo",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|259",
+                "visibility_rules": "$is_location_active|259"
+              },
+              {
+                "name": "Rory",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|260",
+                "visibility_rules": "$is_location_active|260"
+              },
+              {
+                "name": "Eubank",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|261",
+                "visibility_rules": "$is_location_active|261"
+              },
+              {
+                "name": "Miller",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|262",
+                "visibility_rules": "$is_location_active|262"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tank",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Spacey",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|263",
+                "visibility_rules": "$is_location_active|263"
+              },
+              {
+                "name": "Ivor",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|264",
+                "visibility_rules": "$is_location_active|264"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Code C.H.I.M.P.",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Kiki",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|265",
+                "visibility_rules": "$is_location_active|265"
+              },
+              {
+                "name": "Cole",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|266",
+                "visibility_rules": "$is_location_active|266"
+              },
+              {
+                "name": "Mimi",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|267",
+                "visibility_rules": "$is_location_active|267"
+              },
+              {
+                "name": "Tanjobi",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|268",
+                "visibility_rules": "$is_location_active|268"
+              },
+              {
+                "name": "Major",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|269",
+                "visibility_rules": "$is_location_active|269"
+              },
+              {
+                "name": "Ebiike",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|270",
+                "visibility_rules": "$is_location_active|270"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Base Entrance",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Corporal",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|271",
+                "visibility_rules": "$is_location_active|271"
+              },
+              {
+                "name": "Sloth",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|272",
+                "visibility_rules": "$is_location_active|272"
+              },
+              {
+                "name": "Heston",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|273",
+                "visibility_rules": "$is_location_active|273"
+              },
+              {
+                "name": "Buzz",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|274",
+                "visibility_rules": "$is_location_active|274"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Treadmills",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Matt",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|275",
+                "visibility_rules": "$is_location_active|275"
+              },
+              {
+                "name": "Gaelle",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|276",
+                "visibility_rules": "$is_location_active|276"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Moving Platforms",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Arnold",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|277",
+                "visibility_rules": "$is_location_active|277"
+              },
+              {
+                "name": "Sylvester",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|278",
+                "visibility_rules": "$is_location_active|278"
+              },
+              {
+                "name": "Sandra",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|279",
+                "visibility_rules": "$is_location_active|279"
+              },
+              {
+                "name": "Boots",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|280",
+                "visibility_rules": "$is_location_active|280"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Magnetic Panels",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Sinclair",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|281",
+                "visibility_rules": "$is_location_active|281"
+              },
+              {
+                "name": "Keeble",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|282",
+                "visibility_rules": "$is_location_active|282"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tank",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "General",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|283",
+                "visibility_rules": "$is_location_active|283"
+              },
+              {
+                "name": "Laura",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|284",
+                "visibility_rules": "$is_location_active|284"
+              },
+              {
+                "name": "The Cleaner",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|285",
+                "visibility_rules": "$is_location_active|285"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Giant Yellow Monkey Battle!",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Yellow Monkey",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|286",
+                "visibility_rules": "$is_location_active|286"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Moon Base",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Wheel",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Lardy",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|287",
+                "visibility_rules": "$is_location_active|287"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Robot",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Tom",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|288",
+                "visibility_rules": "$is_location_active|288"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Magnetic Panels",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Bruce",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|289",
+                "visibility_rules": "$is_location_active|289"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mech Arena",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Han",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|290",
+                "visibility_rules": "$is_location_active|290"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Neil Apestrong",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|291",
+                "visibility_rules": "$is_location_active|291"
+              },
+              {
+                "name": "Chelsea",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|292",
+                "visibility_rules": "$is_location_active|292"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rotating Magnets",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "SAL-01",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|293",
+                "visibility_rules": "$is_location_active|293"
+              },
+              {
+                "name": "Kubrick",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|294",
+                "visibility_rules": "$is_location_active|294"
+              },
+              {
+                "name": "Chewy",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|295",
+                "visibility_rules": "$is_location_active|295"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Moving Platforms",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Obi Ook Kenobi",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|296",
+                "visibility_rules": "$is_location_active|296"
+              },
+              {
+                "name": "Darth Apester",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|297",
+                "visibility_rules": "$is_location_active|297"
+              },
+              {
+                "name": "Luke Apewalker",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|298",
+                "visibility_rules": "$is_location_active|298"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Inside Climb",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Neo",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|299",
+                "visibility_rules": "$is_location_active|299"
+              },
+              {
+                "name": "Tsubasa",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|300",
+                "visibility_rules": "$is_location_active|300"
+              },
+              {
+                "name": "Boba",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|301",
+                "visibility_rules": "$is_location_active|301"
+              },
+              {
+                "name": "Lister",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|302",
+                "visibility_rules": "$is_location_active|302"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "UFO Arena",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "G. Ookas",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|303",
+                "visibility_rules": "$is_location_active|303"
+              },
+              {
+                "name": "Scully",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|304",
+                "visibility_rules": "$is_location_active|304"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Armoured Monkey Arena",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Kai",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|305",
+                "visibility_rules": "$is_location_active|305"
+              },
+              {
+                "name": "Yoshi",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|306",
+                "visibility_rules": "$is_location_active|306"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Showdown with Specter!",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Specter",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|307",
+                "visibility_rules": "$is_location_active|307"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Final Showdown with Specter!",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "children": [
+      {
+        "name": "Entry",
+        "children": [
+          {
+            "name": "Monkeys",
+            "sections": [
+              {
+                "name": "Specter",
+                "item_count": 1,
+                "access_rules": "$can_reach_monkey|308",
+                "visibility_rules": "setting_final_specter_goal"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

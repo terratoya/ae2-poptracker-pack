@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Level Select",
+    "location_size": 48,
+    "location_border_thickness": 3,
+    "img": "images/maps/level_select.png"
+  }
+]

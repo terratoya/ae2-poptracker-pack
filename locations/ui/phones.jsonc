@@ -1,0 +1,349 @@
+// Generated from ae2_archipelago revision unknown. Do not edit manually.
+[
+  {
+    "name": "Liberty Island - Phones",
+    "chest_unopened_img": "images/locations/phone.png",
+    "chest_opened_img": "images/locations/phone_checked.png",
+    "visibility_rules": "setting_message_phones",
+    "sections": [
+      {
+        "ref": "Phone Logic/Liberty Island/Entry/Phones/Gadget Tutorial"
+      },
+      {
+        "ref": "Phone Logic/Liberty Island/Entry/Phones/Jumping Tutorial"
+      },
+      {
+        "ref": "Phone Logic/Liberty Island/Entry/Phones/Double Jump Tutorial"
+      },
+      {
+        "ref": "Phone Logic/Liberty Island/Entry/Phones/Cookie Tutorial"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 180,
+        "y": 170,
+        "size": 32
+      }
+    ]
+  },
+  {
+    "name": "Breezy Village - Phones",
+    "chest_unopened_img": "images/locations/phone.png",
+    "chest_opened_img": "images/locations/phone_checked.png",
+    "visibility_rules": "setting_message_phones",
+    "sections": [
+      {
+        "ref": "Phone Logic/Breezy Village/Entry/Phones/Gadget Select Tutorial"
+      },
+      {
+        "ref": "Phone Logic/Breezy Village/Entry/Phones/Aqua-Blue Pants Monkeys"
+      },
+      {
+        "ref": "Phone Logic/Breezy Village/Entry/Phones/Monkey Bars Tutorial"
+      },
+      {
+        "ref": "Phone Logic/Breezy Village/Entry/Phones/Double Jump Reminder"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 405,
+        "y": 170,
+        "size": 32
+      }
+    ]
+  },
+  {
+    "name": "Port Calm - Phones",
+    "chest_unopened_img": "images/locations/phone.png",
+    "chest_opened_img": "images/locations/phone_checked.png",
+    "visibility_rules": "setting_message_phones",
+    "sections": [
+      {
+        "ref": "Phone Logic/Port Calm/Entry/Phones/Water Net Tutorial"
+      },
+      {
+        "ref": "Phone Logic/Port Calm/Entry/Phones/Pipotchi"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 630,
+        "y": 170,
+        "size": 32
+      }
+    ]
+  },
+  {
+    "name": "Viva Apespania - Phones",
+    "chest_unopened_img": "images/locations/phone.png",
+    "chest_opened_img": "images/locations/phone_checked.png",
+    "visibility_rules": "setting_message_phones",
+    "sections": [
+      {
+        "ref": "Phone Logic/Viva Apespania/Entry/Phones/Blue Pants Monkeys"
+      },
+      {
+        "ref": "Phone Logic/Viva Apespania/Village/Phones/Gadget Select Reminder"
+      },
+      {
+        "ref": "Phone Logic/Viva Apespania/Bullring/Phones/Life Tutorial"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 855,
+        "y": 170,
+        "size": 32
+      }
+    ]
+  },
+  {
+    "name": "Castle Frightmare - Phones",
+    "chest_unopened_img": "images/locations/phone.png",
+    "chest_opened_img": "images/locations/phone_checked.png",
+    "visibility_rules": "setting_message_phones",
+    "sections": [
+      {
+        "ref": "Phone Logic/Castle Frightmare/Entry/Phones/White Pants Monkeys"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1305,
+        "y": 170,
+        "size": 32
+      }
+    ]
+  },
+  {
+    "name": "Vita-Z Factory - Phones",
+    "chest_unopened_img": "images/locations/phone.png",
+    "chest_opened_img": "images/locations/phone_checked.png",
+    "visibility_rules": "setting_message_phones",
+    "sections": [
+      {
+        "ref": "Phone Logic/Vita-Z Factory/Entry/Phones/Climbing Tutorial"
+      },
+      {
+        "ref": "Phone Logic/Vita-Z Factory/Mech Tunnel/Phones/Pipobot Tutorial"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1530,
+        "y": 170,
+        "size": 32
+      }
+    ]
+  },
+  {
+    "name": "Casino City - Phones",
+    "chest_unopened_img": "images/locations/phone.png",
+    "chest_opened_img": "images/locations/phone_checked.png",
+    "visibility_rules": "setting_message_phones",
+    "sections": [
+      {
+        "ref": "Phone Logic/Casino City/Entry/Phones/Black Pants Monkeys"
+      },
+      {
+        "ref": "Phone Logic/Casino City/Entry/Phones/Special Pellets"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 180,
+        "y": 390,
+        "size": 32
+      }
+    ]
+  },
+  {
+    "name": "Ninja Hideout - Phones",
+    "chest_unopened_img": "images/locations/phone.png",
+    "chest_opened_img": "images/locations/phone_checked.png",
+    "visibility_rules": "setting_message_phones",
+    "sections": [
+      {
+        "ref": "Phone Logic/Ninja Hideout/Entry/Phones/R.C. Car Respawn Tutorial"
+      },
+      {
+        "ref": "Phone Logic/Ninja Hideout/Second Room/Phones/Tiptoe Tutorial"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 405,
+        "y": 390,
+        "size": 32
+      }
+    ]
+  },
+  {
+    "name": "Snowball Mountain - Phones",
+    "chest_unopened_img": "images/locations/phone.png",
+    "chest_opened_img": "images/locations/phone_checked.png",
+    "visibility_rules": "setting_message_phones",
+    "sections": [
+      {
+        "ref": "Phone Logic/Snowball Mountain/Christmas Tree/Phones/Slippery Ice"
+      },
+      {
+        "ref": "Phone Logic/Snowball Mountain/Ski Hill/Phones/Snowmobile Tutorial"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 855,
+        "y": 390,
+        "size": 32
+      }
+    ]
+  },
+  {
+    "name": "Lookout Valley - Phones",
+    "chest_unopened_img": "images/locations/phone.png",
+    "chest_opened_img": "images/locations/phone_checked.png",
+    "visibility_rules": "setting_message_phones",
+    "sections": [
+      {
+        "ref": "Phone Logic/Lookout Valley/Entry/Phones/Red Pants Monkeys"
+      },
+      {
+        "ref": "Phone Logic/Lookout Valley/Entry/Phones/Boat Tutorial"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1080,
+        "y": 390,
+        "size": 32
+      }
+    ]
+  },
+  {
+    "name": "The Blue Baboon - Phones",
+    "chest_unopened_img": "images/locations/phone.png",
+    "chest_opened_img": "images/locations/phone_checked.png",
+    "visibility_rules": "setting_message_phones",
+    "sections": [
+      {
+        "ref": "Phone Logic/The Blue Baboon/Ship/Phones/Submarine Tutorial"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1305,
+        "y": 390,
+        "size": 32
+      }
+    ]
+  },
+  {
+    "name": "Simian Citadel - Phones",
+    "chest_unopened_img": "images/locations/phone.png",
+    "chest_opened_img": "images/locations/phone_checked.png",
+    "visibility_rules": "setting_message_phones",
+    "sections": [
+      {
+        "ref": "Phone Logic/Simian Citadel/Bullring/Phones/Green Pants Monkeys"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 405,
+        "y": 610,
+        "size": 32
+      }
+    ]
+  },
+  {
+    "name": "Panic Pyramid - Phones",
+    "chest_unopened_img": "images/locations/phone.png",
+    "chest_opened_img": "images/locations/phone_checked.png",
+    "visibility_rules": "setting_message_phones",
+    "sections": [
+      {
+        "ref": "Phone Logic/Panic Pyramid/Moving Platforms #1/Phones/Moving Platform"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 630,
+        "y": 610,
+        "size": 32
+      }
+    ]
+  },
+  {
+    "name": "Pirate Isle - Phones",
+    "chest_unopened_img": "images/locations/phone.png",
+    "chest_opened_img": "images/locations/phone_checked.png",
+    "visibility_rules": "setting_message_phones",
+    "sections": [
+      {
+        "ref": "Phone Logic/Pirate Isle/Boat/Phones/Boat Reminder"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1080,
+        "y": 610,
+        "size": 32
+      }
+    ]
+  },
+  {
+    "name": "The Lost World - Phones",
+    "chest_unopened_img": "images/locations/phone.png",
+    "chest_opened_img": "images/locations/phone_checked.png",
+    "visibility_rules": "setting_message_phones",
+    "sections": [
+      {
+        "ref": "Phone Logic/The Lost World/Entry/Phones/Dinosaurs"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1530,
+        "y": 610,
+        "size": 32
+      }
+    ]
+  },
+  {
+    "name": "Skyscraper City - Phones",
+    "chest_unopened_img": "images/locations/phone.png",
+    "chest_opened_img": "images/locations/phone_checked.png",
+    "visibility_rules": "setting_message_phones",
+    "sections": [
+      {
+        "ref": "Phone Logic/Skyscraper City/Tank/Phones/Tank Tutorial"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 405,
+        "y": 830,
+        "size": 32
+      }
+    ]
+  }
+]

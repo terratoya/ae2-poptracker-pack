@@ -1,0 +1,3160 @@
+// Generated from ae2_archipelago revision unknown. Do not edit manually.
+[
+  {
+    "name": "Gotcha Box #1-100",
+    "chest_unopened_img": "images/locations/gatchabox.png",
+    "chest_opened_img": "images/locations/gotcha_box_checked.png",
+    "visibility_rules": "$is_gotcha_box_range_active|1|100",
+    "sections": [
+      {
+        "ref": "Gotcha Box Logic/Items/Item #1"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #2"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #3"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #4"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #5"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #6"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #7"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #8"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #9"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #10"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #11"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #12"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #13"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #14"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #15"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #16"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #17"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #18"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #19"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #20"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #21"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #22"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #23"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #24"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #25"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #26"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #27"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #28"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #29"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #30"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #31"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #32"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #33"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #34"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #35"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #36"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #37"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #38"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #39"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #40"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #41"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #42"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #43"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #44"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #45"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #46"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #47"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #48"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #49"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #50"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #51"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #52"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #53"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #54"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #55"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #56"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #57"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #58"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #59"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #60"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #61"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #62"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #63"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #64"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #65"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #66"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #67"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #68"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #69"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #70"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #71"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #72"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #73"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #74"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #75"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #76"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #77"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #78"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #79"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #80"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #81"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #82"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #83"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #84"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #85"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #86"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #87"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #88"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #89"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #90"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #91"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #92"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #93"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #94"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #95"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #96"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #97"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #98"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #99"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #100"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1636,
+        "y": 150,
+        "size": 26
+      }
+    ]
+  },
+  {
+    "name": "Gotcha Box #101-200",
+    "chest_unopened_img": "images/locations/gatchabox.png",
+    "chest_opened_img": "images/locations/gotcha_box_checked.png",
+    "visibility_rules": "$is_gotcha_box_range_active|101|200",
+    "sections": [
+      {
+        "ref": "Gotcha Box Logic/Items/Item #101"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #102"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #103"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #104"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #105"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #106"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #107"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #108"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #109"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #110"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #111"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #112"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #113"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #114"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #115"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #116"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #117"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #118"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #119"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #120"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #121"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #122"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #123"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #124"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #125"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #126"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #127"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #128"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #129"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #130"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #131"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #132"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #133"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #134"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #135"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #136"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #137"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #138"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #139"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #140"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #141"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #142"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #143"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #144"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #145"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #146"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #147"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #148"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #149"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #150"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #151"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #152"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #153"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #154"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #155"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #156"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #157"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #158"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #159"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #160"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #161"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #162"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #163"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #164"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #165"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #166"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #167"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #168"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #169"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #170"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #171"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #172"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #173"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #174"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #175"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #176"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #177"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #178"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #179"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #180"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #181"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #182"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #183"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #184"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #185"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #186"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #187"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #188"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #189"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #190"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #191"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #192"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #193"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #194"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #195"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #196"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #197"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #198"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #199"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #200"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1668,
+        "y": 150,
+        "size": 26
+      }
+    ]
+  },
+  {
+    "name": "Gotcha Box #201-300",
+    "chest_unopened_img": "images/locations/gatchabox.png",
+    "chest_opened_img": "images/locations/gotcha_box_checked.png",
+    "visibility_rules": "$is_gotcha_box_range_active|201|300",
+    "sections": [
+      {
+        "ref": "Gotcha Box Logic/Items/Item #201"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #202"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #203"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #204"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #205"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #206"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #207"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #208"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #209"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #210"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #211"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #212"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #213"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #214"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #215"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #216"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #217"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #218"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #219"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #220"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #221"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #222"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #223"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #224"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #225"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #226"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #227"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #228"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #229"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #230"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #231"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #232"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #233"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #234"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #235"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #236"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #237"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #238"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #239"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #240"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #241"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #242"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #243"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #244"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #245"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #246"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #247"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #248"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #249"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #250"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #251"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #252"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #253"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #254"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #255"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #256"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #257"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #258"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #259"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #260"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #261"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #262"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #263"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #264"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #265"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #266"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #267"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #268"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #269"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #270"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #271"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #272"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #273"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #274"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #275"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #276"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #277"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #278"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #279"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #280"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #281"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #282"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #283"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #284"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #285"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #286"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #287"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #288"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #289"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #290"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #291"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #292"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #293"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #294"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #295"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #296"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #297"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #298"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #299"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #300"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1700,
+        "y": 150,
+        "size": 26
+      }
+    ]
+  },
+  {
+    "name": "Gotcha Box #301-400",
+    "chest_unopened_img": "images/locations/gatchabox.png",
+    "chest_opened_img": "images/locations/gotcha_box_checked.png",
+    "visibility_rules": "$is_gotcha_box_range_active|301|400",
+    "sections": [
+      {
+        "ref": "Gotcha Box Logic/Items/Item #301"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #302"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #303"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #304"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #305"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #306"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #307"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #308"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #309"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #310"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #311"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #312"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #313"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #314"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #315"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #316"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #317"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #318"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #319"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #320"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #321"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #322"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #323"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #324"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #325"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #326"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #327"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #328"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #329"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #330"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #331"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #332"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #333"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #334"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #335"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #336"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #337"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #338"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #339"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #340"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #341"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #342"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #343"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #344"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #345"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #346"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #347"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #348"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #349"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #350"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #351"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #352"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #353"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #354"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #355"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #356"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #357"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #358"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #359"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #360"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #361"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #362"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #363"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #364"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #365"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #366"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #367"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #368"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #369"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #370"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #371"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #372"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #373"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #374"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #375"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #376"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #377"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #378"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #379"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #380"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #381"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #382"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #383"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #384"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #385"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #386"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #387"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #388"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #389"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #390"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #391"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #392"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #393"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #394"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #395"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #396"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #397"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #398"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #399"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #400"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1732,
+        "y": 150,
+        "size": 26
+      }
+    ]
+  },
+  {
+    "name": "Gotcha Box #401-500",
+    "chest_unopened_img": "images/locations/gatchabox.png",
+    "chest_opened_img": "images/locations/gotcha_box_checked.png",
+    "visibility_rules": "$is_gotcha_box_range_active|401|500",
+    "sections": [
+      {
+        "ref": "Gotcha Box Logic/Items/Item #401"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #402"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #403"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #404"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #405"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #406"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #407"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #408"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #409"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #410"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #411"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #412"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #413"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #414"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #415"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #416"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #417"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #418"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #419"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #420"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #421"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #422"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #423"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #424"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #425"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #426"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #427"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #428"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #429"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #430"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #431"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #432"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #433"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #434"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #435"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #436"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #437"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #438"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #439"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #440"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #441"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #442"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #443"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #444"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #445"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #446"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #447"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #448"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #449"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #450"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #451"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #452"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #453"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #454"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #455"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #456"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #457"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #458"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #459"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #460"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #461"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #462"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #463"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #464"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #465"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #466"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #467"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #468"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #469"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #470"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #471"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #472"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #473"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #474"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #475"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #476"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #477"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #478"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #479"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #480"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #481"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #482"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #483"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #484"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #485"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #486"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #487"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #488"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #489"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #490"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #491"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #492"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #493"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #494"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #495"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #496"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #497"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #498"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #499"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #500"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1764,
+        "y": 150,
+        "size": 26
+      }
+    ]
+  },
+  {
+    "name": "Gotcha Box #501-600",
+    "chest_unopened_img": "images/locations/gatchabox.png",
+    "chest_opened_img": "images/locations/gotcha_box_checked.png",
+    "visibility_rules": "$is_gotcha_box_range_active|501|600",
+    "sections": [
+      {
+        "ref": "Gotcha Box Logic/Items/Item #501"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #502"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #503"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #504"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #505"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #506"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #507"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #508"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #509"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #510"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #511"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #512"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #513"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #514"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #515"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #516"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #517"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #518"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #519"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #520"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #521"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #522"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #523"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #524"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #525"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #526"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #527"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #528"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #529"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #530"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #531"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #532"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #533"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #534"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #535"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #536"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #537"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #538"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #539"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #540"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #541"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #542"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #543"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #544"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #545"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #546"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #547"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #548"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #549"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #550"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #551"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #552"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #553"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #554"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #555"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #556"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #557"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #558"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #559"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #560"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #561"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #562"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #563"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #564"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #565"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #566"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #567"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #568"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #569"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #570"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #571"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #572"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #573"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #574"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #575"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #576"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #577"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #578"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #579"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #580"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #581"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #582"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #583"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #584"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #585"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #586"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #587"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #588"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #589"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #590"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #591"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #592"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #593"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #594"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #595"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #596"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #597"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #598"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #599"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #600"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1636,
+        "y": 186,
+        "size": 26
+      }
+    ]
+  },
+  {
+    "name": "Gotcha Box #601-700",
+    "chest_unopened_img": "images/locations/gatchabox.png",
+    "chest_opened_img": "images/locations/gotcha_box_checked.png",
+    "visibility_rules": "$is_gotcha_box_range_active|601|700",
+    "sections": [
+      {
+        "ref": "Gotcha Box Logic/Items/Item #601"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #602"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #603"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #604"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #605"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #606"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #607"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #608"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #609"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #610"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #611"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #612"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #613"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #614"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #615"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #616"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #617"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #618"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #619"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #620"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #621"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #622"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #623"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #624"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #625"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #626"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #627"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #628"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #629"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #630"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #631"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #632"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #633"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #634"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #635"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #636"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #637"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #638"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #639"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #640"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #641"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #642"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #643"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #644"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #645"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #646"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #647"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #648"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #649"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #650"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #651"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #652"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #653"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #654"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #655"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #656"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #657"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #658"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #659"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #660"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #661"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #662"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #663"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #664"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #665"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #666"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #667"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #668"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #669"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #670"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #671"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #672"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #673"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #674"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #675"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #676"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #677"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #678"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #679"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #680"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #681"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #682"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #683"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #684"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #685"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #686"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #687"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #688"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #689"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #690"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #691"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #692"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #693"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #694"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #695"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #696"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #697"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #698"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #699"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #700"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1668,
+        "y": 186,
+        "size": 26
+      }
+    ]
+  },
+  {
+    "name": "Gotcha Box #701-800",
+    "chest_unopened_img": "images/locations/gatchabox.png",
+    "chest_opened_img": "images/locations/gotcha_box_checked.png",
+    "visibility_rules": "$is_gotcha_box_range_active|701|800",
+    "sections": [
+      {
+        "ref": "Gotcha Box Logic/Items/Item #701"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #702"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #703"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #704"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #705"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #706"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #707"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #708"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #709"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #710"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #711"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #712"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #713"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #714"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #715"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #716"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #717"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #718"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #719"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #720"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #721"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #722"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #723"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #724"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #725"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #726"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #727"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #728"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #729"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #730"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #731"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #732"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #733"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #734"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #735"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #736"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #737"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #738"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #739"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #740"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #741"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #742"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #743"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #744"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #745"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #746"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #747"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #748"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #749"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #750"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #751"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #752"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #753"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #754"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #755"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #756"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #757"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #758"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #759"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #760"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #761"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #762"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #763"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #764"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #765"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #766"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #767"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #768"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #769"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #770"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #771"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #772"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #773"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #774"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #775"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #776"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #777"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #778"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #779"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #780"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #781"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #782"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #783"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #784"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #785"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #786"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #787"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #788"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #789"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #790"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #791"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #792"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #793"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #794"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #795"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #796"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #797"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #798"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #799"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #800"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1700,
+        "y": 186,
+        "size": 26
+      }
+    ]
+  },
+  {
+    "name": "Gotcha Box #801-900",
+    "chest_unopened_img": "images/locations/gatchabox.png",
+    "chest_opened_img": "images/locations/gotcha_box_checked.png",
+    "visibility_rules": "$is_gotcha_box_range_active|801|900",
+    "sections": [
+      {
+        "ref": "Gotcha Box Logic/Items/Item #801"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #802"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #803"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #804"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #805"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #806"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #807"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #808"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #809"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #810"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #811"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #812"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #813"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #814"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #815"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #816"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #817"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #818"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #819"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #820"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #821"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #822"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #823"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #824"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #825"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #826"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #827"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #828"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #829"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #830"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #831"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #832"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #833"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #834"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #835"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #836"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #837"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #838"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #839"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #840"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #841"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #842"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #843"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #844"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #845"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #846"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #847"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #848"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #849"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #850"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #851"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #852"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #853"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #854"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #855"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #856"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #857"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #858"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #859"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #860"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #861"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #862"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #863"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #864"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #865"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #866"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #867"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #868"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #869"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #870"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #871"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #872"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #873"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #874"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #875"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #876"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #877"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #878"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #879"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #880"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #881"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #882"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #883"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #884"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #885"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #886"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #887"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #888"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #889"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #890"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #891"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #892"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #893"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #894"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #895"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #896"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #897"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #898"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #899"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #900"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1732,
+        "y": 186,
+        "size": 26
+      }
+    ]
+  },
+  {
+    "name": "Gotcha Box #901-999",
+    "chest_unopened_img": "images/locations/gatchabox.png",
+    "chest_opened_img": "images/locations/gotcha_box_checked.png",
+    "visibility_rules": "$is_gotcha_box_range_active|901|999",
+    "sections": [
+      {
+        "ref": "Gotcha Box Logic/Items/Item #901"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #902"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #903"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #904"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #905"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #906"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #907"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #908"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #909"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #910"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #911"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #912"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #913"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #914"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #915"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #916"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #917"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #918"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #919"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #920"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #921"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #922"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #923"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #924"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #925"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #926"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #927"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #928"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #929"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #930"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #931"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #932"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #933"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #934"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #935"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #936"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #937"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #938"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #939"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #940"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #941"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #942"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #943"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #944"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #945"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #946"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #947"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #948"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #949"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #950"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #951"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #952"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #953"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #954"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #955"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #956"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #957"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #958"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #959"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #960"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #961"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #962"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #963"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #964"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #965"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #966"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #967"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #968"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #969"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #970"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #971"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #972"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #973"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #974"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #975"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #976"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #977"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #978"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #979"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #980"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #981"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #982"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #983"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #984"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #985"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #986"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #987"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #988"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #989"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #990"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #991"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #992"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #993"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #994"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #995"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #996"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #997"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #998"
+      },
+      {
+        "ref": "Gotcha Box Logic/Items/Item #999"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1764,
+        "y": 186,
+        "size": 26
+      }
+    ]
+  }
+]

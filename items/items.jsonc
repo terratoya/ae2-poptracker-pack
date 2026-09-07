@@ -1,0 +1,90 @@
+[
+  // Core gadgets and progression items from the Ape Escape 2 Archipelago world.
+  { "name": "Monkey Net", "type": "toggle", "img": "images/items/timenet.png", "codes": "monkey_net" },
+  { "name": "Stun Club", "type": "toggle", "img": "images/items/stunclub.png", "codes": "stun_club" },
+  { "name": "Monkey Radar", "type": "toggle", "img": "images/items/monkeyradar.png", "codes": "monkey_radar" },
+  { "name": "Water Net", "type": "toggle", "img": "images/items/waternet.png", "codes": "water_net" },
+  { "name": "Dash Hoop", "type": "toggle", "img": "images/items/superhoop.png", "codes": "dash_hoop" },
+  { "name": "Catapult", "type": "toggle", "img": "images/items/slingbackshooter.png", "codes": "catapult" },
+  { "name": "Sky Flyer", "type": "toggle", "img": "images/items/skyflyer.png", "codes": "sky_flyer" },
+  { "name": "R.C. Car", "type": "toggle", "img": "images/items/rccar.png", "codes": "rc_car" },
+  { "name": "Bananarang", "type": "toggle", "img": "images/items/bananarang.png", "codes": "bananarang" },
+  { "name": "Water Cannon", "type": "toggle", "img": "images/items/watercannon.png", "codes": "water_cannon" },
+  { "name": "Electro Magnet", "type": "toggle", "img": "images/items/electromagnet.png", "codes": "electro_magnet" },
+  { "name": "Power Punch", "type": "toggle", "img": "images/items/magicpunch.png", "codes": "power_punch" },
+  { "name": "Pipotchi", "type": "toggle", "img": "images/items/pipochi.png", "codes": "pipotchi" },
+  { "name": "See-All Scope", "type": "toggle", "img": "images/items/seeall.png", "codes": "see_all_scope" },
+  {
+    "name": "Progressive Catapult",
+    "type": "progressive",
+    "allow_disabled": true,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "name": "Progressive Catapult (Catapult)",
+        "img": "images/items/slingbackshooter.png",
+        "codes": "progressive_catapult",
+        "inherit_codes": true
+      },
+      {
+        "name": "Progressive Catapult (Air Crawl)",
+        "img": "images/items/aircrawlitem.png",
+        "codes": "progressive_catapult_2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  { "name": "Air Crawl", "type": "toggle", "img": "images/items/aircrawlitem.png", "codes": "air_crawl" },
+  {
+    "name": "World Keys",
+    "type": "consumable",
+    "img": "images/items/channelkey.png",
+    "codes": "world_key",
+    "max_quantity": 99,
+    "initial_quantity": 0,
+    "overlay_background": "#1b1b1b"
+  },
+  {
+    "name": "Gotcha Box Restocks",
+    "type": "consumable",
+    "img": "images/locations/gatchabox.png",
+    "codes": "gotcha_box_restock",
+    "max_quantity": 99,
+    "initial_quantity": 0,
+    "overlay_background": "#1b1b1b"
+  },
+  // Slot settings are displayed separately and synchronized on AP connection.
+  {
+    "name": "Logic Difficulty",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "initial_stage_idx": 0,
+    "stages": [
+      { "name": "Logic Difficulty: Normal", "img": "images/items/normal.png", "codes": "logic_normal", "inherit_codes": false },
+      { "name": "Logic Difficulty: Hard", "img": "images/items/hard.png", "codes": "logic_hard", "inherit_codes": false },
+      { "name": "Logic Difficulty: Expert", "img": "images/items/expert.png", "codes": "logic_expert", "inherit_codes": false }
+    ]
+  },
+  { "name": "Hidden Monkey Logic", "type": "toggle", "img": "images/items/hidden.png", "codes": "setting_hidden_monkeys" },
+  { "name": "Air Crawl Logic", "type": "toggle", "img": "images/items/aircrawl.png", "codes": "setting_air_crawl" },
+  {
+    "name": "Air Crawl Behaviour",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "initial_stage_idx": 0,
+    "stages": [
+      { "name": "Air Crawl Behaviour: Default", "img": "images/items/airdefault.png", "codes": "air_crawl_behaviour_default", "inherit_codes": false },
+      { "name": "Air Crawl Behaviour: Patched", "img": "images/items/airpatched.png", "codes": "air_crawl_behaviour_patched", "inherit_codes": false },
+      { "name": "Air Crawl Behaviour: Item", "img": "images/items/airitem.png", "codes": "air_crawl_behaviour_item", "inherit_codes": false },
+      { "name": "Air Crawl Behaviour: Progressive", "img": "images/items/airprogressive.png", "codes": "air_crawl_behaviour_progressive", "inherit_codes": false }
+    ]
+  },
+  { "name": "Damage Boost Logic", "type": "toggle", "initial_active_state": true, "img": "images/items/damageboost.png", "codes": "setting_damage_boost" },
+  { "name": "Boost Jump Logic", "type": "toggle", "img": "images/items/jump.png", "codes": "setting_boost_jump" },
+  { "name": "Boost Fly Logic", "type": "toggle", "img": "images/items/fly.png", "codes": "setting_boost_fly" },
+  { "name": "Long Jump Logic", "type": "toggle", "img": "images/items/longjump.png", "codes": "setting_long_jump" },
+  { "name": "Message Phone Locations", "type": "toggle", "img": "images/locations/phone.png", "codes": "setting_message_phones" },
+  { "name": "Final Specter Goal", "type": "toggle", "img": "images/items/specter.png", "codes": "setting_final_specter_goal" }
+]

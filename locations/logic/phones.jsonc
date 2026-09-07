@@ -1,0 +1,501 @@
+// Generated from ae2_archipelago revision unknown. Do not edit manually.
+[
+  {
+    "name": "Phone Logic",
+    "chest_unopened_img": "images/locations/phone.png",
+    "chest_opened_img": "images/locations/phone_checked.png",
+    "children": [
+      {
+        "name": "Liberty Island",
+        "children": [
+          {
+            "name": "Entry",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "Gadget Tutorial",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1001",
+                    "visibility_rules": "$is_location_active|1001"
+                  },
+                  {
+                    "name": "Jumping Tutorial",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1002",
+                    "visibility_rules": "$is_location_active|1002"
+                  },
+                  {
+                    "name": "Double Jump Tutorial",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1003",
+                    "visibility_rules": "$is_location_active|1003"
+                  },
+                  {
+                    "name": "Cookie Tutorial",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1004",
+                    "visibility_rules": "$is_location_active|1004"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Breezy Village",
+        "children": [
+          {
+            "name": "Entry",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "Gadget Select Tutorial",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1005",
+                    "visibility_rules": "$is_location_active|1005"
+                  },
+                  {
+                    "name": "Aqua-Blue Pants Monkeys",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1006",
+                    "visibility_rules": "$is_location_active|1006"
+                  },
+                  {
+                    "name": "Monkey Bars Tutorial",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1007",
+                    "visibility_rules": "$is_location_active|1007"
+                  },
+                  {
+                    "name": "Double Jump Reminder",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1008",
+                    "visibility_rules": "$is_location_active|1008"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Port Calm",
+        "children": [
+          {
+            "name": "Entry",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "Water Net Tutorial",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1009",
+                    "visibility_rules": "$is_location_active|1009"
+                  },
+                  {
+                    "name": "Pipotchi",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1010",
+                    "visibility_rules": "$is_location_active|1010"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Viva Apespania",
+        "children": [
+          {
+            "name": "Entry",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "Blue Pants Monkeys",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1011",
+                    "visibility_rules": "$is_location_active|1011"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Village",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "Gadget Select Reminder",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1012",
+                    "visibility_rules": "$is_location_active|1012"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Bullring",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "Life Tutorial",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1013",
+                    "visibility_rules": "$is_location_active|1013"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Castle Frightmare",
+        "children": [
+          {
+            "name": "Entry",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "White Pants Monkeys",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1014",
+                    "visibility_rules": "$is_location_active|1014"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Vita-Z Factory",
+        "children": [
+          {
+            "name": "Entry",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "Climbing Tutorial",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1015",
+                    "visibility_rules": "$is_location_active|1015"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Mech Tunnel",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "Pipobot Tutorial",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1016",
+                    "visibility_rules": "$is_location_active|1016"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Casino City",
+        "children": [
+          {
+            "name": "Entry",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "Black Pants Monkeys",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1017",
+                    "visibility_rules": "$is_location_active|1017"
+                  },
+                  {
+                    "name": "Special Pellets",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1018",
+                    "visibility_rules": "$is_location_active|1018"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ninja Hideout",
+        "children": [
+          {
+            "name": "Entry",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "R.C. Car Respawn Tutorial",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1019",
+                    "visibility_rules": "$is_location_active|1019"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Second Room",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "Tiptoe Tutorial",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1020",
+                    "visibility_rules": "$is_location_active|1020"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Snowball Mountain",
+        "children": [
+          {
+            "name": "Christmas Tree",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "Slippery Ice",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1021",
+                    "visibility_rules": "$is_location_active|1021"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Ski Hill",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "Snowmobile Tutorial",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1022",
+                    "visibility_rules": "$is_location_active|1022"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lookout Valley",
+        "children": [
+          {
+            "name": "Entry",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "Red Pants Monkeys",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1023",
+                    "visibility_rules": "$is_location_active|1023"
+                  },
+                  {
+                    "name": "Boat Tutorial",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1024",
+                    "visibility_rules": "$is_location_active|1024"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "The Blue Baboon",
+        "children": [
+          {
+            "name": "Ship",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "Submarine Tutorial",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1025",
+                    "visibility_rules": "$is_location_active|1025"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Simian Citadel",
+        "children": [
+          {
+            "name": "Bullring",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "Green Pants Monkeys",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1026",
+                    "visibility_rules": "$is_location_active|1026"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Panic Pyramid",
+        "children": [
+          {
+            "name": "Moving Platforms #1",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "Moving Platform",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1027",
+                    "visibility_rules": "$is_location_active|1027"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pirate Isle",
+        "children": [
+          {
+            "name": "Boat",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "Boat Reminder",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1028",
+                    "visibility_rules": "$is_location_active|1028"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "The Lost World",
+        "children": [
+          {
+            "name": "Entry",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "Dinosaurs",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1029",
+                    "visibility_rules": "$is_location_active|1029"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Skyscraper City",
+        "children": [
+          {
+            "name": "Tank",
+            "children": [
+              {
+                "name": "Phones",
+                "visibility_rules": "setting_message_phones",
+                "sections": [
+                  {
+                    "name": "Tank Tutorial",
+                    "item_count": 1,
+                    "access_rules": "$can_reach_phone|1030",
+                    "visibility_rules": "$is_location_active|1030"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "other_item_grid": {
+    "type": "itemgrid",
+    "item_margin": "4,4",
+    "h_alignment": "left",
+    "item_size": 48,
+    "rows": [
+      [
+        "pipotchi",
+        "see_all_scope",
+        "world_key"
+      ],
+      [
+        "gotcha_box_restock",
+        "progressive_catapult"
+      ]
+    ]
+  }
+}

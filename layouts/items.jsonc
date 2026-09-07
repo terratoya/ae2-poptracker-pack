@@ -1,0 +1,40 @@
+{
+  "main_item_grid": {
+    "type": "itemgrid",
+    "item_margin": "4,4",
+    "h_alignment": "left",
+    "item_size": 48,
+    "rows": [
+      [
+        "monkey_net",
+        "stun_club",
+        "monkey_radar",
+        "water_net",
+        "dash_hoop",
+        "catapult"
+      ],
+      [
+        "sky_flyer",
+        "rc_car",
+        "bananarang",
+        "water_cannon",
+        "electro_magnet",
+        "power_punch"
+      ]
+    ]
+  },
+  "other_item_grid": {
+    "type": "itemgrid",
+    "item_margin": "4,4",
+    "h_alignment": "left",
+    "item_size": 48,
+    "rows": [
+      [
+        "pipotchi",
+        "see_all_scope",
+        "world_key",
+        "gotcha_box_restock"
+      ]
+    ]
+  }
+}

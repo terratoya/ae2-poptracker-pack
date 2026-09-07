@@ -1,0 +1,1347 @@
+// Generated from ae2_archipelago revision unknown. Do not edit manually.
+[
+  {
+    "name": "Liberty Island - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Liberty Island/Entry/Monkeys/George"
+      },
+      {
+        "ref": "Liberty Island/Entry/Monkeys/Libby"
+      },
+      {
+        "ref": "Liberty Island/Entry/Monkeys/Tomkey Kruise"
+      },
+      {
+        "ref": "Liberty Island/Entry/Monkeys/Chill"
+      },
+      {
+        "ref": "Liberty Island/Entry/Monkeys/Henry"
+      },
+      {
+        "ref": "Liberty Island/Entry/Monkeys/Harley Q. Win"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Liberty Island",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 125,
+        "y": 120
+      }
+    ]
+  },
+  {
+    "name": "Breezy Village - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Breezy Village/Entry/Monkeys/Dozy"
+      },
+      {
+        "ref": "Breezy Village/Entry/Monkeys/Baboondini"
+      },
+      {
+        "ref": "Breezy Village/Entry/Monkeys/Walter"
+      },
+      {
+        "ref": "Breezy Village/Entry/Monkeys/Jon"
+      },
+      {
+        "ref": "Breezy Village/Entry/Monkeys/Crusty"
+      },
+      {
+        "ref": "Breezy Village/Entry/Monkeys/Balboa"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Breezy Village",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 350,
+        "y": 120
+      }
+    ]
+  },
+  {
+    "name": "Port Calm - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Port Calm/Entry/Monkeys/Dannyboy"
+      },
+      {
+        "ref": "Port Calm/Entry/Monkeys/Seanyboy"
+      },
+      {
+        "ref": "Port Calm/Entry/Monkeys/Chili"
+      },
+      {
+        "ref": "Port Calm/Entry/Monkeys/Beday"
+      },
+      {
+        "ref": "Port Calm/Entry/Monkeys/Florence"
+      },
+      {
+        "ref": "Port Calm/Entry/Monkeys/Punto"
+      },
+      {
+        "ref": "Port Calm/Indoors/Monkeys/Lilo"
+      },
+      {
+        "ref": "Port Calm/Indoors/Monkeys/Manuel"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Port Calm",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 575,
+        "y": 120
+      }
+    ]
+  },
+  {
+    "name": "Viva Apespania - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Viva Apespania/Entry/Monkeys/Pogo"
+      },
+      {
+        "ref": "Viva Apespania/Entry/Monkeys/Slope"
+      },
+      {
+        "ref": "Viva Apespania/Entry/Monkeys/Billy"
+      },
+      {
+        "ref": "Viva Apespania/Village/Monkeys/Ole"
+      },
+      {
+        "ref": "Viva Apespania/Village/Monkeys/Chutney"
+      },
+      {
+        "ref": "Viva Apespania/Village/Monkeys/Wiz"
+      },
+      {
+        "ref": "Viva Apespania/Village/Monkeys/Birgit"
+      },
+      {
+        "ref": "Viva Apespania/Village/Monkeys/Lily"
+      },
+      {
+        "ref": "Viva Apespania/Village/Monkeys/Trip"
+      },
+      {
+        "ref": "Viva Apespania/Bullring/Monkeys/Toro"
+      },
+      {
+        "ref": "Viva Apespania/Bullring/Monkeys/Annie"
+      },
+      {
+        "ref": "Viva Apespania/Bullring/Monkeys/Luis"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Viva Apespania",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 800,
+        "y": 120
+      }
+    ]
+  },
+  {
+    "name": "Blue Monkey Battle! - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Blue Monkey Battle!/Entry/Monkeys/Blue Monkey"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Blue Monkey Battle!",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1025,
+        "y": 120
+      }
+    ]
+  },
+  {
+    "name": "Castle Frightmare - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Castle Frightmare/Entry/Monkeys/Arthur"
+      },
+      {
+        "ref": "Castle Frightmare/Entry/Monkeys/Virgil"
+      },
+      {
+        "ref": "Castle Frightmare/Inside/Monkeys/The Invisible Monkey"
+      },
+      {
+        "ref": "Castle Frightmare/Inside/Monkeys/Monk Quixote"
+      },
+      {
+        "ref": "Castle Frightmare/Inside/Monkeys/Van"
+      },
+      {
+        "ref": "Castle Frightmare/Inside/Monkeys/Simon"
+      },
+      {
+        "ref": "Castle Frightmare/Inside/Monkeys/Pierce"
+      },
+      {
+        "ref": "Castle Frightmare/Inside/Monkeys/Jumpy"
+      },
+      {
+        "ref": "Castle Frightmare/Inside/Monkeys/Viv"
+      },
+      {
+        "ref": "Castle Frightmare/Inside/Monkeys/Count Monkula"
+      },
+      {
+        "ref": "Castle Frightmare/Dungeon/Monkeys/Hyde"
+      },
+      {
+        "ref": "Castle Frightmare/Dungeon/Monkeys/Stein"
+      },
+      {
+        "ref": "Castle Frightmare/Dungeon/Monkeys/Nana"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Castle Frightmare",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1250,
+        "y": 120
+      }
+    ]
+  },
+  {
+    "name": "Vita-Z Factory - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Vita-Z Factory/Entry/Monkeys/Vic"
+      },
+      {
+        "ref": "Vita-Z Factory/Entry/Monkeys/Bob"
+      },
+      {
+        "ref": "Vita-Z Factory/Entry/Monkeys/Snap"
+      },
+      {
+        "ref": "Vita-Z Factory/Entry/Monkeys/Al"
+      },
+      {
+        "ref": "Vita-Z Factory/Entry/Monkeys/Chomp"
+      },
+      {
+        "ref": "Vita-Z Factory/Entry/Monkeys/Arnie"
+      },
+      {
+        "ref": "Vita-Z Factory/Mech Tunnel/Monkeys/Phil G."
+      },
+      {
+        "ref": "Vita-Z Factory/Mech Arena/Monkeys/Bobby"
+      },
+      {
+        "ref": "Vita-Z Factory/Mech Arena/Monkeys/Skippy"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Vita-Z Factory",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1475,
+        "y": 120
+      }
+    ]
+  },
+  {
+    "name": "Casino City - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Casino City/Entry/Monkeys/Pelvis"
+      },
+      {
+        "ref": "Casino City/Entry/Monkeys/Jessica"
+      },
+      {
+        "ref": "Casino City/Entry/Monkeys/Vincent"
+      },
+      {
+        "ref": "Casino City/Entry/Monkeys/Shaft"
+      },
+      {
+        "ref": "Casino City/Entry/Monkeys/Jackson"
+      },
+      {
+        "ref": "Casino City/Entry/Monkeys/Oozy"
+      },
+      {
+        "ref": "Casino City/Bar/Monkeys/Simian Seagal"
+      },
+      {
+        "ref": "Casino City/Bar/Monkeys/Leo"
+      },
+      {
+        "ref": "Casino City/Bar/Monkeys/Ulysses"
+      },
+      {
+        "ref": "Casino City/Bar/Monkeys/Clint Apewood"
+      },
+      {
+        "ref": "Casino City/Circus/Monkeys/Raymond"
+      },
+      {
+        "ref": "Casino City/Circus/Monkeys/Vindy"
+      },
+      {
+        "ref": "Casino City/Circus/Monkeys/Pierrot"
+      },
+      {
+        "ref": "Casino City/Circus/Monkeys/Jester"
+      },
+      {
+        "ref": "Casino City/Circus/Monkeys/Bubbles"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Casino City",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 125,
+        "y": 340
+      }
+    ]
+  },
+  {
+    "name": "Ninja Hideout - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Ninja Hideout/Entry/Monkeys/Snooz"
+      },
+      {
+        "ref": "Ninja Hideout/Entry/Monkeys/Twiggy"
+      },
+      {
+        "ref": "Ninja Hideout/Entry/Monkeys/Harry Karry"
+      },
+      {
+        "ref": "Ninja Hideout/Entry/Monkeys/Chan"
+      },
+      {
+        "ref": "Ninja Hideout/Entry/Monkeys/Duncan"
+      },
+      {
+        "ref": "Ninja Hideout/Entry/Monkeys/Somnia"
+      },
+      {
+        "ref": "Ninja Hideout/Second Room/Monkeys/Hideyoshi"
+      },
+      {
+        "ref": "Ninja Hideout/Second Room/Monkeys/Takashi"
+      },
+      {
+        "ref": "Ninja Hideout/Second Room/Monkeys/Rapido"
+      },
+      {
+        "ref": "Ninja Hideout/Second Room/Monkeys/Jim"
+      },
+      {
+        "ref": "Ninja Hideout/Second Room/Monkeys/Bon-o"
+      },
+      {
+        "ref": "Ninja Hideout/Second Room/Monkeys/Boxer"
+      },
+      {
+        "ref": "Ninja Hideout/Second Room/Monkeys/Chuck"
+      },
+      {
+        "ref": "Ninja Hideout/Second Room/Monkeys/Shiho"
+      },
+      {
+        "ref": "Ninja Hideout/Third Room/Monkeys/Ledski"
+      },
+      {
+        "ref": "Ninja Hideout/Third Room/Monkeys/Harvey"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Ninja Hideout",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 350,
+        "y": 340
+      }
+    ]
+  },
+  {
+    "name": "Yellow Monkey Battle! - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Yellow Monkey Battle!/Entry/Monkeys/Yellow Monkey"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Yellow Monkey Battle!",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 575,
+        "y": 340
+      }
+    ]
+  },
+  {
+    "name": "Snowball Mountain - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Snowball Mountain/Entry/Monkeys/Bernie"
+      },
+      {
+        "ref": "Snowball Mountain/Entry/Monkeys/Zebedee"
+      },
+      {
+        "ref": "Snowball Mountain/Entry/Monkeys/Jibber"
+      },
+      {
+        "ref": "Snowball Mountain/Entry/Monkeys/Threedee"
+      },
+      {
+        "ref": "Snowball Mountain/Christmas Tree/Monkeys/Monkey Claus"
+      },
+      {
+        "ref": "Snowball Mountain/Christmas Tree/Monkeys/Chill"
+      },
+      {
+        "ref": "Snowball Mountain/Christmas Tree/Monkeys/Parka"
+      },
+      {
+        "ref": "Snowball Mountain/Christmas Tree/Monkeys/Raver"
+      },
+      {
+        "ref": "Snowball Mountain/Ski Hill/Monkeys/Elodie"
+      },
+      {
+        "ref": "Snowball Mountain/Ski Hill/Monkeys/Davee"
+      },
+      {
+        "ref": "Snowball Mountain/Ski Hill/Monkeys/Big Bopper"
+      },
+      {
+        "ref": "Snowball Mountain/Ski Hill/Monkeys/Jimmy"
+      },
+      {
+        "ref": "Snowball Mountain/Ski Hill/Monkeys/Eddie the Falcon"
+      },
+      {
+        "ref": "Snowball Mountain/Ski Hill/Monkeys/Zippy"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Snowball Mountain",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 800,
+        "y": 340
+      }
+    ]
+  },
+  {
+    "name": "Lookout Valley - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Lookout Valley/Entry/Monkeys/Olivia"
+      },
+      {
+        "ref": "Lookout Valley/Entry/Monkeys/Ally"
+      },
+      {
+        "ref": "Lookout Valley/Entry/Monkeys/Ty"
+      },
+      {
+        "ref": "Lookout Valley/Entry/Monkeys/Livingstone"
+      },
+      {
+        "ref": "Lookout Valley/Jungle/Monkeys/Louis"
+      },
+      {
+        "ref": "Lookout Valley/Jungle/Monkeys/Lily"
+      },
+      {
+        "ref": "Lookout Valley/Jungle/Monkeys/Gunn"
+      },
+      {
+        "ref": "Lookout Valley/Cave/Monkeys/Gill"
+      },
+      {
+        "ref": "Lookout Valley/Cave/Monkeys/Chris"
+      },
+      {
+        "ref": "Lookout Valley/Cave/Monkeys/Simian Tell"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Lookout Valley",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1025,
+        "y": 340
+      }
+    ]
+  },
+  {
+    "name": "The Blue Baboon - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "The Blue Baboon/Entry/Monkeys/Helmut"
+      },
+      {
+        "ref": "The Blue Baboon/Entry/Monkeys/Sandy"
+      },
+      {
+        "ref": "The Blue Baboon/Entry/Monkeys/Gloria"
+      },
+      {
+        "ref": "The Blue Baboon/Entry/Monkeys/Michelle"
+      },
+      {
+        "ref": "The Blue Baboon/Entry/Monkeys/Erin"
+      },
+      {
+        "ref": "The Blue Baboon/Entry/Monkeys/Brad"
+      },
+      {
+        "ref": "The Blue Baboon/Bananarang Room/Monkeys/Mulder"
+      },
+      {
+        "ref": "The Blue Baboon/Bananarang Room/Monkeys/Rik"
+      },
+      {
+        "ref": "The Blue Baboon/Ship/Monkeys/Montague"
+      },
+      {
+        "ref": "The Blue Baboon/Ship/Monkeys/Shorty"
+      },
+      {
+        "ref": "The Blue Baboon/Ship/Monkeys/Speedo"
+      },
+      {
+        "ref": "The Blue Baboon/Changing Hut/Monkeys/Sooz"
+      }
+    ],
+    "visibility_rules": "$is_level_active|The Blue Baboon",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1250,
+        "y": 340
+      }
+    ]
+  },
+  {
+    "name": "Pink Monkey Battle! - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Pink Monkey Battle!/Entry/Monkeys/Pink Monkey"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Pink Monkey Battle!",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1475,
+        "y": 340
+      }
+    ]
+  },
+  {
+    "name": "Enter the Monkey - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Enter the Monkey/Entry/Monkeys/Jean Paul"
+      },
+      {
+        "ref": "Enter the Monkey/Entry/Monkeys/Simeski"
+      },
+      {
+        "ref": "Enter the Monkey/Entry/Monkeys/Barry"
+      },
+      {
+        "ref": "Enter the Monkey/Entry/Monkeys/Chan"
+      },
+      {
+        "ref": "Enter the Monkey/Entry/Monkeys/Marshall"
+      },
+      {
+        "ref": "Enter the Monkey/Entry/Monkeys/Wesley"
+      },
+      {
+        "ref": "Enter the Monkey/Entry/Monkeys/Chaz"
+      },
+      {
+        "ref": "Enter the Monkey/Entry/Monkeys/Daimion"
+      },
+      {
+        "ref": "Enter the Monkey/Inside/Monkeys/Bruce Monkee"
+      },
+      {
+        "ref": "Enter the Monkey/Inside/Monkeys/Miyazaki"
+      },
+      {
+        "ref": "Enter the Monkey/Inside/Monkeys/Johnny"
+      },
+      {
+        "ref": "Enter the Monkey/Inside/Monkeys/Naseem"
+      },
+      {
+        "ref": "Enter the Monkey/Wall/Monkeys/Ming"
+      },
+      {
+        "ref": "Enter the Monkey/Wall/Monkeys/Ryan"
+      },
+      {
+        "ref": "Enter the Monkey/Wall/Monkeys/Martin"
+      },
+      {
+        "ref": "Enter the Monkey/Wall/Monkeys/Jools"
+      },
+      {
+        "ref": "Enter the Monkey/Wall/Monkeys/James"
+      },
+      {
+        "ref": "Enter the Monkey/Wall/Monkeys/John Ook"
+      },
+      {
+        "ref": "Enter the Monkey/Wall/Monkeys/Goku"
+      },
+      {
+        "ref": "Enter the Monkey/Wall/Monkeys/Daniel C. Ooke"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Enter the Monkey",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 125,
+        "y": 560
+      }
+    ]
+  },
+  {
+    "name": "Simian Citadel - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Simian Citadel/Entry/Monkeys/Sly"
+      },
+      {
+        "ref": "Simian Citadel/Entry/Monkeys/Norman"
+      },
+      {
+        "ref": "Simian Citadel/Entry/Monkeys/Alex"
+      },
+      {
+        "ref": "Simian Citadel/Whale/Monkeys/Jonah"
+      },
+      {
+        "ref": "Simian Citadel/Whale/Monkeys/Mermonkey"
+      },
+      {
+        "ref": "Simian Citadel/Whale/Monkeys/Colin"
+      },
+      {
+        "ref": "Simian Citadel/Submarine/Monkeys/Nicky"
+      },
+      {
+        "ref": "Simian Citadel/Submarine/Monkeys/Vaughan"
+      },
+      {
+        "ref": "Simian Citadel/Fountain/Monkeys/Dave"
+      },
+      {
+        "ref": "Simian Citadel/Fountain/Monkeys/Gonzales"
+      },
+      {
+        "ref": "Simian Citadel/Fountain/Monkeys/Daley"
+      },
+      {
+        "ref": "Simian Citadel/Fountain/Monkeys/Ollie"
+      },
+      {
+        "ref": "Simian Citadel/Fountain/Monkeys/Dolph"
+      },
+      {
+        "ref": "Simian Citadel/Fountain/Monkeys/Tommy"
+      },
+      {
+        "ref": "Simian Citadel/Fountain/Monkeys/Grace"
+      },
+      {
+        "ref": "Simian Citadel/Bullring/Monkeys/Jim"
+      },
+      {
+        "ref": "Simian Citadel/Bullring/Monkeys/Rex"
+      },
+      {
+        "ref": "Simian Citadel/Bullring/Monkeys/Brucie"
+      },
+      {
+        "ref": "Simian Citadel/Bullring/Monkeys/Woody"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Simian Citadel",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 350,
+        "y": 560
+      }
+    ]
+  },
+  {
+    "name": "Panic Pyramid - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Panic Pyramid/Entry/Monkeys/Piz"
+      },
+      {
+        "ref": "Panic Pyramid/Entry/Monkeys/Stu"
+      },
+      {
+        "ref": "Panic Pyramid/Booby Traps/Monkeys/Stevie"
+      },
+      {
+        "ref": "Panic Pyramid/Booby Traps/Monkeys/Jimbo"
+      },
+      {
+        "ref": "Panic Pyramid/Booby Traps/Monkeys/Roberts"
+      },
+      {
+        "ref": "Panic Pyramid/Moving Platforms #1/Monkeys/Uri"
+      },
+      {
+        "ref": "Panic Pyramid/Moving Platforms #1/Monkeys/Eric"
+      },
+      {
+        "ref": "Panic Pyramid/Boulders/Monkeys/Curley"
+      },
+      {
+        "ref": "Panic Pyramid/Boulders/Monkeys/Chimpette"
+      },
+      {
+        "ref": "Panic Pyramid/Boulders/Monkeys/Dane"
+      },
+      {
+        "ref": "Panic Pyramid/Boulders/Monkeys/Slim"
+      },
+      {
+        "ref": "Panic Pyramid/Boulders/Monkeys/Cleo"
+      },
+      {
+        "ref": "Panic Pyramid/Moving Platforms #2/Monkeys/Spud"
+      },
+      {
+        "ref": "Panic Pyramid/Moving Platforms #2/Monkeys/Anthony"
+      },
+      {
+        "ref": "Panic Pyramid/Moving Platforms #2/Monkeys/Becky"
+      },
+      {
+        "ref": "Panic Pyramid/Moving Platforms #2/Monkeys/Gordon"
+      },
+      {
+        "ref": "Panic Pyramid/Moving Platforms #2/Monkeys/Sphinx"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Panic Pyramid",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 575,
+        "y": 560
+      }
+    ]
+  },
+  {
+    "name": "White Monkey Battle! - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "White Monkey Battle!/Entry/Monkeys/White Monkey"
+      }
+    ],
+    "visibility_rules": "$is_level_active|White Monkey Battle!",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 800,
+        "y": 560
+      }
+    ]
+  },
+  {
+    "name": "Pirate Isle - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Pirate Isle/Entry/Monkeys/Pugwash"
+      },
+      {
+        "ref": "Pirate Isle/Entry/Monkeys/Burt"
+      },
+      {
+        "ref": "Pirate Isle/Entry/Monkeys/Hawkins"
+      },
+      {
+        "ref": "Pirate Isle/Entry/Monkeys/Kelly"
+      },
+      {
+        "ref": "Pirate Isle/Entry/Monkeys/Stephenson"
+      },
+      {
+        "ref": "Pirate Isle/Cave Entrance/Monkeys/Mel"
+      },
+      {
+        "ref": "Pirate Isle/Cave Entrance/Monkeys/Dick"
+      },
+      {
+        "ref": "Pirate Isle/Cave Entrance/Monkeys/Bradley"
+      },
+      {
+        "ref": "Pirate Isle/Boat/Monkeys/Tabasco"
+      },
+      {
+        "ref": "Pirate Isle/Boat/Monkeys/Bonzo"
+      },
+      {
+        "ref": "Pirate Isle/Mine/Monkeys/Scratchy"
+      },
+      {
+        "ref": "Pirate Isle/Mine/Monkeys/Vic"
+      },
+      {
+        "ref": "Pirate Isle/Mine/Monkeys/Indy"
+      },
+      {
+        "ref": "Pirate Isle/Mine/Monkeys/Bobby"
+      },
+      {
+        "ref": "Pirate Isle/Dungeon/Monkeys/Freddie"
+      },
+      {
+        "ref": "Pirate Isle/Dungeon/Monkeys/Denis"
+      },
+      {
+        "ref": "Pirate Isle/Dungeon/Monkeys/Oliver"
+      },
+      {
+        "ref": "Pirate Isle/Dungeon/Monkeys/Captain Ook"
+      },
+      {
+        "ref": "Pirate Isle/Dungeon/Monkeys/Jeffrey"
+      },
+      {
+        "ref": "Pirate Isle/Dungeon/Monkeys/Lee"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Pirate Isle",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1025,
+        "y": 560
+      }
+    ]
+  },
+  {
+    "name": "Land of the Apes - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Land of the Apes/Spa/Monkeys/Rupert"
+      },
+      {
+        "ref": "Land of the Apes/Spa/Monkeys/Craig"
+      },
+      {
+        "ref": "Land of the Apes/Spa/Monkeys/Hear No Evil"
+      },
+      {
+        "ref": "Land of the Apes/Spa/Monkeys/Brian"
+      },
+      {
+        "ref": "Land of the Apes/Spa/Monkeys/Smell No Evil"
+      },
+      {
+        "ref": "Land of the Apes/Spa/Monkeys/Speak No Evil"
+      },
+      {
+        "ref": "Land of the Apes/Spa/Monkeys/Bones"
+      },
+      {
+        "ref": "Land of the Apes/Spa/Monkeys/Mr Frosty"
+      },
+      {
+        "ref": "Land of the Apes/Spa/Monkeys/Lynn"
+      },
+      {
+        "ref": "Land of the Apes/Icicles/Monkeys/Lars"
+      },
+      {
+        "ref": "Land of the Apes/Icicles/Monkeys/Stone"
+      },
+      {
+        "ref": "Land of the Apes/Icicles/Monkeys/Seb"
+      },
+      {
+        "ref": "Land of the Apes/Icicles/Monkeys/Torvill"
+      },
+      {
+        "ref": "Land of the Apes/Icicles/Monkeys/Dean"
+      },
+      {
+        "ref": "Land of the Apes/Ski Hill/Monkeys/Monkski"
+      },
+      {
+        "ref": "Land of the Apes/Ski Hill/Monkeys/Robinson"
+      },
+      {
+        "ref": "Land of the Apes/Ski Hill/Monkeys/Murray"
+      },
+      {
+        "ref": "Land of the Apes/Ski Hill/Monkeys/Linz"
+      },
+      {
+        "ref": "Land of the Apes/Ski Hill/Monkeys/Philippe"
+      },
+      {
+        "ref": "Land of the Apes/Entry/Monkeys/Mona"
+      },
+      {
+        "ref": "Land of the Apes/Entry/Monkeys/Patrick"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Land of the Apes",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1250,
+        "y": 560
+      }
+    ]
+  },
+  {
+    "name": "The Lost World - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "The Lost World/Entry/Monkeys/Homer"
+      },
+      {
+        "ref": "The Lost World/Entry/Monkeys/Sam"
+      },
+      {
+        "ref": "The Lost World/Entry/Monkeys/Grant"
+      },
+      {
+        "ref": "The Lost World/Entry/Monkeys/Mervin"
+      },
+      {
+        "ref": "The Lost World/Pterodacytls/Monkeys/Terry"
+      },
+      {
+        "ref": "The Lost World/Pterodactyls/Monkeys/Murdoch"
+      },
+      {
+        "ref": "The Lost World/Pterodactyls/Monkeys/Monko Polo"
+      },
+      {
+        "ref": "The Lost World/Pterodactyls/Monkeys/Emma"
+      },
+      {
+        "ref": "The Lost World/Trees/Monkeys/Stumpy"
+      },
+      {
+        "ref": "The Lost World/Trees/Monkeys/Baz"
+      },
+      {
+        "ref": "The Lost World/Trees/Monkeys/Des"
+      },
+      {
+        "ref": "The Lost World/Trees/Monkeys/Christy"
+      },
+      {
+        "ref": "The Lost World/Trees/Monkeys/Stanley"
+      },
+      {
+        "ref": "The Lost World/T-Rex/Monkeys/Lewis"
+      },
+      {
+        "ref": "The Lost World/T-Rex/Monkeys/Prince"
+      },
+      {
+        "ref": "The Lost World/T-Rex/Monkeys/Lunch"
+      },
+      {
+        "ref": "The Lost World/T-Rex/Monkeys/Ovett"
+      },
+      {
+        "ref": "The Lost World/T-Rex/Monkeys/Babe"
+      }
+    ],
+    "visibility_rules": "$is_level_active|The Lost World",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1475,
+        "y": 560
+      }
+    ]
+  },
+  {
+    "name": "Red Monkey Battle! - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Red Monkey Battle!/Entry/Monkeys/Red Monkey"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Red Monkey Battle!",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 125,
+        "y": 780
+      }
+    ]
+  },
+  {
+    "name": "Skyscraper City - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Skyscraper City/Final Room/Monkeys/Brendan"
+      },
+      {
+        "ref": "Skyscraper City/Final Room/Monkeys/Ali"
+      },
+      {
+        "ref": "Skyscraper City/Final Room/Monkeys/Jim"
+      },
+      {
+        "ref": "Skyscraper City/Final Room/Monkeys/Ricardo"
+      },
+      {
+        "ref": "Skyscraper City/Final Room/Monkeys/Douglas"
+      },
+      {
+        "ref": "Skyscraper City/Final Room/Monkeys/Cameron"
+      },
+      {
+        "ref": "Skyscraper City/Entry/Monkeys/Slider"
+      },
+      {
+        "ref": "Skyscraper City/Entry/Monkeys/Spank"
+      },
+      {
+        "ref": "Skyscraper City/Entry/Monkeys/Din"
+      },
+      {
+        "ref": "Skyscraper City/Entry/Monkeys/Sue"
+      },
+      {
+        "ref": "Skyscraper City/Entry/Monkeys/Dum Dum"
+      },
+      {
+        "ref": "Skyscraper City/Entry/Monkeys/Jitter"
+      },
+      {
+        "ref": "Skyscraper City/Lobby/Monkeys/Robson"
+      },
+      {
+        "ref": "Skyscraper City/Lobby/Monkeys/Spud II"
+      },
+      {
+        "ref": "Skyscraper City/Lobby/Monkeys/Cole"
+      },
+      {
+        "ref": "Skyscraper City/Lobby/Monkeys/Ty"
+      },
+      {
+        "ref": "Skyscraper City/Sewer/Monkeys/Slacker"
+      },
+      {
+        "ref": "Skyscraper City/Sewer/Monkeys/Kengo"
+      },
+      {
+        "ref": "Skyscraper City/Sewer/Monkeys/Rory"
+      },
+      {
+        "ref": "Skyscraper City/Sewer/Monkeys/Eubank"
+      },
+      {
+        "ref": "Skyscraper City/Sewer/Monkeys/Miller"
+      },
+      {
+        "ref": "Skyscraper City/Tank/Monkeys/Spacey"
+      },
+      {
+        "ref": "Skyscraper City/Tank/Monkeys/Ivor"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Skyscraper City",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 350,
+        "y": 780
+      }
+    ]
+  },
+  {
+    "name": "Code C.H.I.M.P. - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Code C.H.I.M.P./Entry/Monkeys/Kiki"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Entry/Monkeys/Cole"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Entry/Monkeys/Mimi"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Entry/Monkeys/Tanjobi"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Entry/Monkeys/Major"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Entry/Monkeys/Ebiike"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Base Entrance/Monkeys/Corporal"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Base Entrance/Monkeys/Sloth"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Base Entrance/Monkeys/Heston"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Base Entrance/Monkeys/Buzz"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Treadmills/Monkeys/Matt"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Treadmills/Monkeys/Gaelle"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Moving Platforms/Monkeys/Arnold"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Moving Platforms/Monkeys/Sylvester"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Moving Platforms/Monkeys/Sandra"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Moving Platforms/Monkeys/Boots"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Magnetic Panels/Monkeys/Sinclair"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Magnetic Panels/Monkeys/Keeble"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Tank/Monkeys/General"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Tank/Monkeys/Laura"
+      },
+      {
+        "ref": "Code C.H.I.M.P./Tank/Monkeys/The Cleaner"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Code C.H.I.M.P.",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 575,
+        "y": 780
+      }
+    ]
+  },
+  {
+    "name": "Giant Yellow Monkey Battle! - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Giant Yellow Monkey Battle!/Entry/Monkeys/Yellow Monkey"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Giant Yellow Monkey Battle!",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 800,
+        "y": 780
+      }
+    ]
+  },
+  {
+    "name": "Moon Base - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Moon Base/Wheel/Monkeys/Lardy"
+      },
+      {
+        "ref": "Moon Base/Robot/Monkeys/Tom"
+      },
+      {
+        "ref": "Moon Base/Magnetic Panels/Monkeys/Bruce"
+      },
+      {
+        "ref": "Moon Base/Mech Arena/Monkeys/Han"
+      },
+      {
+        "ref": "Moon Base/Entry/Monkeys/Neil Apestrong"
+      },
+      {
+        "ref": "Moon Base/Entry/Monkeys/Chelsea"
+      },
+      {
+        "ref": "Moon Base/Rotating Magnets/Monkeys/SAL-01"
+      },
+      {
+        "ref": "Moon Base/Rotating Magnets/Monkeys/Kubrick"
+      },
+      {
+        "ref": "Moon Base/Rotating Magnets/Monkeys/Chewy"
+      },
+      {
+        "ref": "Moon Base/Moving Platforms/Monkeys/Obi Ook Kenobi"
+      },
+      {
+        "ref": "Moon Base/Moving Platforms/Monkeys/Darth Apester"
+      },
+      {
+        "ref": "Moon Base/Moving Platforms/Monkeys/Luke Apewalker"
+      },
+      {
+        "ref": "Moon Base/Inside Climb/Monkeys/Neo"
+      },
+      {
+        "ref": "Moon Base/Inside Climb/Monkeys/Tsubasa"
+      },
+      {
+        "ref": "Moon Base/Inside Climb/Monkeys/Boba"
+      },
+      {
+        "ref": "Moon Base/Inside Climb/Monkeys/Lister"
+      },
+      {
+        "ref": "Moon Base/UFO Arena/Monkeys/G. Ookas"
+      },
+      {
+        "ref": "Moon Base/UFO Arena/Monkeys/Scully"
+      },
+      {
+        "ref": "Moon Base/Armoured Monkey Arena/Monkeys/Kai"
+      },
+      {
+        "ref": "Moon Base/Armoured Monkey Arena/Monkeys/Yoshi"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Moon Base",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1025,
+        "y": 780
+      }
+    ]
+  },
+  {
+    "name": "Showdown with Specter! - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Showdown with Specter!/Entry/Monkeys/Specter"
+      }
+    ],
+    "visibility_rules": "$is_level_active|Showdown with Specter!",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1250,
+        "y": 780
+      }
+    ]
+  },
+  {
+    "name": "Final Showdown with Specter! - Monkeys",
+    "chest_unopened_img": "images/locations/monkey.png",
+    "chest_opened_img": "images/locations/monkey_checked.png",
+    "sections": [
+      {
+        "ref": "Final Showdown with Specter!/Entry/Monkeys/Specter"
+      }
+    ],
+    "visibility_rules": "setting_final_specter_goal",
+    "map_locations": [
+      {
+        "map": "Level Select",
+        "x": 1475,
+        "y": 780
+      }
+    ]
+  }
+]

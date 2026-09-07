@@ -1,0 +1,35 @@
+{
+  "tracker_default": {
+    "type": "container",
+    "background": "#101419",
+    "content": {
+      "type": "dock",
+      "content": [
+        {
+          "type": "group",
+          "header": "Gadgets",
+          "dock": "left",
+          "margin": "0,0,20,0",
+          "content": {
+            "type": "layout",
+            "key": "main_item_grid"
+          },
+          "header_content": {
+            "type": "button_popup",
+            "style": "settings",
+            "layout": "settings_popup"
+          }
+        },
+        {
+          "type": "group",
+          "header": "Others",
+          "dock": "left",
+          "content": {
+            "type": "layout",
+            "key": "other_item_grid"
+          }
+        }
+      ]
+    }
+  }
+}

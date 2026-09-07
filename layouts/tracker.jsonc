@@ -1,0 +1,85 @@
+{
+  "tracker_default": {
+    "type": "container",
+    "background": "#101419",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "bottom",
+          "content": [
+            {
+              "type": "group",
+              "header": "Gadgets",
+              "dock": "left",
+              "margin": "0,0,20,0",
+              "content": {
+                "type": "layout",
+                "key": "main_item_grid"
+              },
+              "header_content": {
+                "type": "button_popup",
+                "style": "settings",
+                "layout": "settings_popup"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Others",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "other_item_grid"
+              }
+            }
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Level Select",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Level Select"
+                ]
+              }
+            },
+            {
+              "title": "Entrance",
+              "content": {
+                "type": "layout",
+                "key": "entrance_tracker"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "settings_popup": {
+    "type": "itemgrid",
+    "item_size": 80,
+    "item_margin": "6,6",
+    "rows": [
+      [
+        "setting_final_specter_goal",
+        "setting_message_phones",
+        "air_crawl_behaviour_default",
+        "logic_normal"
+      ],
+      [
+        "setting_hidden_monkeys",
+        "setting_air_crawl",
+        "setting_boost_jump",
+        "setting_boost_fly",
+        "setting_long_jump",
+        "setting_damage_boost"
+      ]
+    ]
+  }
+}
+

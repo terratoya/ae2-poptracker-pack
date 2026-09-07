@@ -1,0 +1,24 @@
+{
+  "name": "Ape Escape 2 Tracker",
+  "game_name": "Ape Escape 2",
+  "package_version": "0.1.0",
+  "package_uid": "ae2_poptracker_pack",
+  "platform": "ps2",
+  "author": "Terratoya and contributors",
+  "min_poptracker_version": "0.32.0",
+  "target_poptracker_version": "0.35.4",
+  "variants": {
+    "standard": {
+      "display_name": "Map Tracker",
+      "flags": [
+        "ap"
+      ]
+    },
+    "var_itemsonly": {
+      "display_name": "Items Only",
+      "flags": [
+        "ap"
+      ]
+    }
+  }
+}

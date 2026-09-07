@@ -1,0 +1,5 @@
+AUTOTRACKER_ENABLE_ITEM_TRACKING = true
+AUTOTRACKER_ENABLE_LOCATION_TRACKING = true
+AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP = false and ENABLE_DEBUG_LOG
+
+ScriptHost:LoadScript("scripts/autotracking/archipelago.lua")
