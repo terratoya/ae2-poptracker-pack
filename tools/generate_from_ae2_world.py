@@ -202,7 +202,7 @@ def build_logic_locations(levels: list[dict[str, Any]], monkeys: list[dict[str, 
                                 ({
                                     "name": monkey["name"].strip(),
                                     "item_count": 1,
-                                    "access_rules": f"$can_reach_monkey|{monkey['id']}",
+                                    "access_rules": f"^$monkey_accessibility|{monkey['id']}",
                                     "visibility_rules": f"$is_location_active|{monkey['id']}",
                                 } | ({
                                     "visibility_rules": "setting_final_specter_goal"
@@ -278,7 +278,7 @@ def build_phone_logic(phones: list[dict[str, Any]]) -> list[dict[str, Any]]:
                                         {
                                             "name": phone["description"],
                                             "item_count": 1,
-                                            "access_rules": f"$can_reach_phone|{phone['id']}",
+                                            "access_rules": f"^$phone_accessibility|{phone['id']}",
                                             "visibility_rules": f"$is_location_active|{phone['id']}",
                                         }
                                         for phone in room_phones
@@ -337,7 +337,7 @@ def build_gotcha_box_logic() -> list[dict[str, Any]]:
                         {
                             "name": f"Item #{number}",
                             "item_count": 1,
-                            "access_rules": f"$can_reach_gotcha_box|{number - 1}",
+                            "access_rules": f"^$gotcha_box_accessibility|{number - 1}",
                             "visibility_rules": f"$is_location_active|{2000 + number}",
                         }
                         for number in range(1, 1000)
@@ -441,6 +441,9 @@ def build_item_mapping(item_ids: dict[str, int], revision: str) -> str:
         "ITEM_MAPPING = {",
     ]
     for name, code in CORE_ITEMS.items():
+        if name == "Pipotchi":
+            lines.append(f"    [{item_ids[name]}] = {{}}, -- Pipotchi is determined by the character setting.")
+            continue
         lines.append(f"    [{item_ids[name]}] = {{ {{ {json.dumps(code)} }} }}, -- {name}")
     lines.append("}\n")
     return "\n".join(lines)

@@ -22,10 +22,11 @@ local ITEM_CODES = {
     ["Dash Hoop"] = "dash_hoop", ["Sky Flyer"] = "sky_flyer",
     ["R.C. Car"] = "rc_car", ["Bananarang"] = "bananarang",
     ["Water Cannon"] = "water_cannon", ["Electro Magnet"] = "electro_magnet",
-    ["Power Punch"] = "power_punch", ["Pipotchi"] = "pipotchi",
+    ["Power Punch"] = "power_punch", ["Pipotchi"] = "character_hikaru",
     ["See-All Scope"] = "see_all_scope", ["Air Crawl"] = "air_crawl"
 }
 
+local GLITCH_MODE = false
 local UNKNOWN_REQUIREMENTS = {}
 local ACTIVE_LOCATION_IDS = nil
 local function item_count(code) return Tracker:ProviderCountForCode(code) end
@@ -43,12 +44,12 @@ local function has_archipelago_item(name)
 end
 
 local function is_hard_logic()
-    return has_item("logic_hard") or has_item("logic_expert")
+    return GLITCH_MODE or has_item("logic_hard") or has_item("logic_expert")
 end
-local function is_expert_logic() return has_item("logic_expert") end
+local function is_expert_logic() return GLITCH_MODE or has_item("logic_expert") end
 
 local function can_air_crawl()
-    if not has_item("setting_air_crawl") or has_item("air_crawl_behaviour_patched") then
+    if (not GLITCH_MODE and not has_item("setting_air_crawl")) or has_item("air_crawl_behaviour_patched") then
         return false
     end
     if has_item("air_crawl_behaviour_progressive") then
@@ -62,7 +63,7 @@ end
 
 local function can_long_jump()
     return has_archipelago_item("Dash Hoop") and
-        has_item("setting_long_jump")
+        (GLITCH_MODE or has_item("setting_long_jump"))
 end
 
 local function has_non_net_gadget()
@@ -75,6 +76,7 @@ local function has_non_net_gadget()
 end
 
 local function can_boost_fly()
+    if GLITCH_MODE then return has_archipelago_item("Sky Flyer") end
     return has_archipelago_item("Sky Flyer") and
         has_item("setting_boost_fly") and
         (has_archipelago_item("Monkey Net") or has_archipelago_item("Electro Magnet") or
@@ -83,7 +85,7 @@ end
 
 local function can_boost_jump()
     return has_archipelago_item("Monkey Net") and has_non_net_gadget() and
-        has_item("setting_boost_jump")
+        (GLITCH_MODE or has_item("setting_boost_jump"))
 end
 
 local function requirement_met(requirement)
@@ -91,7 +93,7 @@ local function requirement_met(requirement)
 
     if requirement == "*Air Crawl" then return can_air_crawl()
     elseif requirement == "*Damage Boost" then
-        return has_item("setting_damage_boost")
+        return GLITCH_MODE or has_item("setting_damage_boost")
     elseif requirement == "*Boost Fly" then return can_boost_fly()
     elseif requirement == "*Boost Jump" then return can_boost_jump()
     elseif requirement == "*Long Jump" then return can_long_jump()
@@ -102,9 +104,9 @@ local function requirement_met(requirement)
             has_archipelago_item("Dash Hoop")
     elseif requirement == "*Punch" then
         return has_archipelago_item("Power Punch") and
-            (has_archipelago_item("See-All Scope") or not has_item("setting_hidden_monkeys"))
+            (has_archipelago_item("See-All Scope") or GLITCH_MODE or not has_item("setting_hidden_monkeys"))
     elseif requirement == "*Radar" then
-        return has_archipelago_item("Monkey Radar") or not has_item("setting_hidden_monkeys")
+        return has_archipelago_item("Monkey Radar") or GLITCH_MODE or not has_item("setting_hidden_monkeys")
     elseif requirement == "*Non-Net" then return has_non_net_gadget()
     elseif requirement == "*Gear" then
         return has_archipelago_item("Stun Club") or has_archipelago_item("Power Punch")
@@ -142,7 +144,7 @@ local function requirement_met(requirement)
             (can_boost_fly() and has_archipelago_item("Sky Flyer") and is_hard_logic())
     elseif requirement == "*Moon Fire" then
         return has_archipelago_item("Water Cannon") or
-            has_item("setting_damage_boost") or can_air_crawl()
+            GLITCH_MODE or has_item("setting_damage_boost") or can_air_crawl()
     end
 
     if not UNKNOWN_REQUIREMENTS[requirement] then
@@ -282,14 +284,14 @@ local function logic_signature()
         "monkey_net", "stun_club", "monkey_radar", "water_net", "dash_hoop",
         "catapult", "progressive_catapult", "progressive_catapult_2", "sky_flyer",
         "rc_car", "bananarang", "water_cannon", "electro_magnet", "power_punch",
-        "pipotchi", "see_all_scope", "air_crawl", "world_key",
+        "character_hikaru", "see_all_scope", "air_crawl", "world_key",
         "logic_normal", "logic_hard", "logic_expert", "setting_hidden_monkeys",
         "setting_damage_boost", "setting_air_crawl", "air_crawl_behaviour_default",
         "air_crawl_behaviour_patched", "air_crawl_behaviour_item",
         "air_crawl_behaviour_progressive", "setting_boost_jump",
         "setting_boost_fly", "setting_long_jump"
     }
-    local values = {}
+    local values = {tostring(GLITCH_MODE)}
     for _, code in ipairs(codes) do values[#values + 1] = tostring(item_count(code)) end
     return table.concat(values, ":")
 end
@@ -331,6 +333,7 @@ function can_reach_gotcha_box(zero_based_number)
         if item_count("gotcha_box_restock") < math.floor(zero_based_number / 10) then return false end
     end
 
+    if GLITCH_MODE then return true end
     local expected_levels = math.floor(math.sqrt(percentage) * 26)
     return unlocked > expected_levels and count_catchable_monkeys() > 300 * (percentage - 0.05)
 end
@@ -367,6 +370,9 @@ function apply_slot_data(slot_data)
     LOGIC_SETTINGS.gotcha_box_gating = slot_data.gotcha_box_gating or 1
 
     set_stage("logic_normal", LOGIC_SETTINGS.logic_difficulty)
+    if slot_data.character == 0 or slot_data.character == 1 then
+        set_stage("character_hikaru", slot_data.character)
+    end
     set_toggle("setting_hidden_monkeys", LOGIC_SETTINGS.hidden_monkey_logic)
     set_toggle("setting_air_crawl", LOGIC_SETTINGS.air_crawl_logic)
     set_toggle("setting_message_phones", slot_data.message_phone_locations == true or
@@ -380,4 +386,27 @@ function apply_slot_data(slot_data)
     set_toggle("setting_long_jump", LOGIC_SETTINGS.long_jump_logic)
     apply_layout_slot_data(slot_data)
     apply_entrance_slot_data(slot_data)
+end
+
+-- Evaluate normal access before the world's Glitched Item rules.
+-- Reachability helpers stay boolean so internal graph traversal cannot treat 0 as true.
+local function location_accessibility(check, id)
+    if check(id) then return AccessibilityLevel.Normal end
+    GLITCH_MODE = true
+    local ok, reachable = pcall(check, id)
+    GLITCH_MODE = false
+    if not ok then error(reachable) end
+    return reachable and AccessibilityLevel.SequenceBreak or AccessibilityLevel.None
+end
+
+function monkey_accessibility(id)
+    return location_accessibility(can_reach_monkey, id)
+end
+
+function phone_accessibility(id)
+    return location_accessibility(can_reach_phone, id)
+end
+
+function gotcha_box_accessibility(id)
+    return location_accessibility(can_reach_gotcha_box, id)
 end

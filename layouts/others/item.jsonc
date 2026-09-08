@@ -6,11 +6,8 @@
     "item_size": 48,
     "rows": [
       [
-        "pipotchi",
         "see_all_scope",
-        "world_key"
-      ],
-      [
+        "world_key",
         "air_crawl"
       ]
     ]

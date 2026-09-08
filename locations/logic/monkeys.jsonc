@@ -14,37 +14,37 @@
               {
                 "name": "George",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|1",
+                "access_rules": "^$monkey_accessibility|1",
                 "visibility_rules": "$is_location_active|1"
               },
               {
                 "name": "Libby",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|2",
+                "access_rules": "^$monkey_accessibility|2",
                 "visibility_rules": "$is_location_active|2"
               },
               {
                 "name": "Tomkey Kruise",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|3",
+                "access_rules": "^$monkey_accessibility|3",
                 "visibility_rules": "$is_location_active|3"
               },
               {
                 "name": "Chill",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|4",
+                "access_rules": "^$monkey_accessibility|4",
                 "visibility_rules": "$is_location_active|4"
               },
               {
                 "name": "Henry",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|5",
+                "access_rules": "^$monkey_accessibility|5",
                 "visibility_rules": "$is_location_active|5"
               },
               {
                 "name": "Harley Q. Win",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|6",
+                "access_rules": "^$monkey_accessibility|6",
                 "visibility_rules": "$is_location_active|6"
               }
             ]
@@ -67,37 +67,37 @@
               {
                 "name": "Dozy",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|7",
+                "access_rules": "^$monkey_accessibility|7",
                 "visibility_rules": "$is_location_active|7"
               },
               {
                 "name": "Baboondini",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|8",
+                "access_rules": "^$monkey_accessibility|8",
                 "visibility_rules": "$is_location_active|8"
               },
               {
                 "name": "Walter",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|9",
+                "access_rules": "^$monkey_accessibility|9",
                 "visibility_rules": "$is_location_active|9"
               },
               {
                 "name": "Jon",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|10",
+                "access_rules": "^$monkey_accessibility|10",
                 "visibility_rules": "$is_location_active|10"
               },
               {
                 "name": "Crusty",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|11",
+                "access_rules": "^$monkey_accessibility|11",
                 "visibility_rules": "$is_location_active|11"
               },
               {
                 "name": "Balboa",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|12",
+                "access_rules": "^$monkey_accessibility|12",
                 "visibility_rules": "$is_location_active|12"
               }
             ]
@@ -120,37 +120,37 @@
               {
                 "name": "Dannyboy",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|13",
+                "access_rules": "^$monkey_accessibility|13",
                 "visibility_rules": "$is_location_active|13"
               },
               {
                 "name": "Seanyboy",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|14",
+                "access_rules": "^$monkey_accessibility|14",
                 "visibility_rules": "$is_location_active|14"
               },
               {
                 "name": "Chili",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|15",
+                "access_rules": "^$monkey_accessibility|15",
                 "visibility_rules": "$is_location_active|15"
               },
               {
                 "name": "Beday",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|16",
+                "access_rules": "^$monkey_accessibility|16",
                 "visibility_rules": "$is_location_active|16"
               },
               {
                 "name": "Florence",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|17",
+                "access_rules": "^$monkey_accessibility|17",
                 "visibility_rules": "$is_location_active|17"
               },
               {
                 "name": "Punto",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|18",
+                "access_rules": "^$monkey_accessibility|18",
                 "visibility_rules": "$is_location_active|18"
               }
             ]
@@ -166,13 +166,13 @@
               {
                 "name": "Lilo",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|19",
+                "access_rules": "^$monkey_accessibility|19",
                 "visibility_rules": "$is_location_active|19"
               },
               {
                 "name": "Manuel",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|20",
+                "access_rules": "^$monkey_accessibility|20",
                 "visibility_rules": "$is_location_active|20"
               }
             ]
@@ -195,19 +195,19 @@
               {
                 "name": "Pogo",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|21",
+                "access_rules": "^$monkey_accessibility|21",
                 "visibility_rules": "$is_location_active|21"
               },
               {
                 "name": "Slope",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|22",
+                "access_rules": "^$monkey_accessibility|22",
                 "visibility_rules": "$is_location_active|22"
               },
               {
                 "name": "Billy",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|23",
+                "access_rules": "^$monkey_accessibility|23",
                 "visibility_rules": "$is_location_active|23"
               }
             ]
@@ -223,37 +223,37 @@
               {
                 "name": "Ole",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|24",
+                "access_rules": "^$monkey_accessibility|24",
                 "visibility_rules": "$is_location_active|24"
               },
               {
                 "name": "Chutney",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|25",
+                "access_rules": "^$monkey_accessibility|25",
                 "visibility_rules": "$is_location_active|25"
               },
               {
                 "name": "Wiz",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|26",
+                "access_rules": "^$monkey_accessibility|26",
                 "visibility_rules": "$is_location_active|26"
               },
               {
                 "name": "Birgit",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|27",
+                "access_rules": "^$monkey_accessibility|27",
                 "visibility_rules": "$is_location_active|27"
               },
               {
                 "name": "Lily",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|28",
+                "access_rules": "^$monkey_accessibility|28",
                 "visibility_rules": "$is_location_active|28"
               },
               {
                 "name": "Trip",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|29",
+                "access_rules": "^$monkey_accessibility|29",
                 "visibility_rules": "$is_location_active|29"
               }
             ]
@@ -269,19 +269,19 @@
               {
                 "name": "Toro",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|30",
+                "access_rules": "^$monkey_accessibility|30",
                 "visibility_rules": "$is_location_active|30"
               },
               {
                 "name": "Annie",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|31",
+                "access_rules": "^$monkey_accessibility|31",
                 "visibility_rules": "$is_location_active|31"
               },
               {
                 "name": "Luis",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|32",
+                "access_rules": "^$monkey_accessibility|32",
                 "visibility_rules": "$is_location_active|32"
               }
             ]
@@ -304,7 +304,7 @@
               {
                 "name": "Blue Monkey",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|33",
+                "access_rules": "^$monkey_accessibility|33",
                 "visibility_rules": "$is_location_active|33"
               }
             ]
@@ -327,13 +327,13 @@
               {
                 "name": "Arthur",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|34",
+                "access_rules": "^$monkey_accessibility|34",
                 "visibility_rules": "$is_location_active|34"
               },
               {
                 "name": "Virgil",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|35",
+                "access_rules": "^$monkey_accessibility|35",
                 "visibility_rules": "$is_location_active|35"
               }
             ]
@@ -349,49 +349,49 @@
               {
                 "name": "The Invisible Monkey",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|36",
+                "access_rules": "^$monkey_accessibility|36",
                 "visibility_rules": "$is_location_active|36"
               },
               {
                 "name": "Monk Quixote",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|37",
+                "access_rules": "^$monkey_accessibility|37",
                 "visibility_rules": "$is_location_active|37"
               },
               {
                 "name": "Van",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|38",
+                "access_rules": "^$monkey_accessibility|38",
                 "visibility_rules": "$is_location_active|38"
               },
               {
                 "name": "Simon",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|39",
+                "access_rules": "^$monkey_accessibility|39",
                 "visibility_rules": "$is_location_active|39"
               },
               {
                 "name": "Pierce",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|40",
+                "access_rules": "^$monkey_accessibility|40",
                 "visibility_rules": "$is_location_active|40"
               },
               {
                 "name": "Jumpy",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|41",
+                "access_rules": "^$monkey_accessibility|41",
                 "visibility_rules": "$is_location_active|41"
               },
               {
                 "name": "Viv",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|42",
+                "access_rules": "^$monkey_accessibility|42",
                 "visibility_rules": "$is_location_active|42"
               },
               {
                 "name": "Count Monkula",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|43",
+                "access_rules": "^$monkey_accessibility|43",
                 "visibility_rules": "$is_location_active|43"
               }
             ]
@@ -407,19 +407,19 @@
               {
                 "name": "Hyde",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|44",
+                "access_rules": "^$monkey_accessibility|44",
                 "visibility_rules": "$is_location_active|44"
               },
               {
                 "name": "Stein",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|45",
+                "access_rules": "^$monkey_accessibility|45",
                 "visibility_rules": "$is_location_active|45"
               },
               {
                 "name": "Nana",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|46",
+                "access_rules": "^$monkey_accessibility|46",
                 "visibility_rules": "$is_location_active|46"
               }
             ]
@@ -442,37 +442,37 @@
               {
                 "name": "Vic",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|47",
+                "access_rules": "^$monkey_accessibility|47",
                 "visibility_rules": "$is_location_active|47"
               },
               {
                 "name": "Bob",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|48",
+                "access_rules": "^$monkey_accessibility|48",
                 "visibility_rules": "$is_location_active|48"
               },
               {
                 "name": "Snap",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|49",
+                "access_rules": "^$monkey_accessibility|49",
                 "visibility_rules": "$is_location_active|49"
               },
               {
                 "name": "Al",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|50",
+                "access_rules": "^$monkey_accessibility|50",
                 "visibility_rules": "$is_location_active|50"
               },
               {
                 "name": "Chomp",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|51",
+                "access_rules": "^$monkey_accessibility|51",
                 "visibility_rules": "$is_location_active|51"
               },
               {
                 "name": "Arnie",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|52",
+                "access_rules": "^$monkey_accessibility|52",
                 "visibility_rules": "$is_location_active|52"
               }
             ]
@@ -488,7 +488,7 @@
               {
                 "name": "Phil G.",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|53",
+                "access_rules": "^$monkey_accessibility|53",
                 "visibility_rules": "$is_location_active|53"
               }
             ]
@@ -504,13 +504,13 @@
               {
                 "name": "Bobby",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|54",
+                "access_rules": "^$monkey_accessibility|54",
                 "visibility_rules": "$is_location_active|54"
               },
               {
                 "name": "Skippy",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|55",
+                "access_rules": "^$monkey_accessibility|55",
                 "visibility_rules": "$is_location_active|55"
               }
             ]
@@ -533,37 +533,37 @@
               {
                 "name": "Pelvis",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|56",
+                "access_rules": "^$monkey_accessibility|56",
                 "visibility_rules": "$is_location_active|56"
               },
               {
                 "name": "Jessica",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|57",
+                "access_rules": "^$monkey_accessibility|57",
                 "visibility_rules": "$is_location_active|57"
               },
               {
                 "name": "Vincent",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|58",
+                "access_rules": "^$monkey_accessibility|58",
                 "visibility_rules": "$is_location_active|58"
               },
               {
                 "name": "Shaft",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|59",
+                "access_rules": "^$monkey_accessibility|59",
                 "visibility_rules": "$is_location_active|59"
               },
               {
                 "name": "Jackson",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|60",
+                "access_rules": "^$monkey_accessibility|60",
                 "visibility_rules": "$is_location_active|60"
               },
               {
                 "name": "Oozy",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|61",
+                "access_rules": "^$monkey_accessibility|61",
                 "visibility_rules": "$is_location_active|61"
               }
             ]
@@ -579,25 +579,25 @@
               {
                 "name": "Simian Seagal",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|62",
+                "access_rules": "^$monkey_accessibility|62",
                 "visibility_rules": "$is_location_active|62"
               },
               {
                 "name": "Leo",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|63",
+                "access_rules": "^$monkey_accessibility|63",
                 "visibility_rules": "$is_location_active|63"
               },
               {
                 "name": "Ulysses",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|64",
+                "access_rules": "^$monkey_accessibility|64",
                 "visibility_rules": "$is_location_active|64"
               },
               {
                 "name": "Clint Apewood",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|65",
+                "access_rules": "^$monkey_accessibility|65",
                 "visibility_rules": "$is_location_active|65"
               }
             ]
@@ -613,31 +613,31 @@
               {
                 "name": "Raymond",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|66",
+                "access_rules": "^$monkey_accessibility|66",
                 "visibility_rules": "$is_location_active|66"
               },
               {
                 "name": "Vindy",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|67",
+                "access_rules": "^$monkey_accessibility|67",
                 "visibility_rules": "$is_location_active|67"
               },
               {
                 "name": "Pierrot",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|68",
+                "access_rules": "^$monkey_accessibility|68",
                 "visibility_rules": "$is_location_active|68"
               },
               {
                 "name": "Jester",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|69",
+                "access_rules": "^$monkey_accessibility|69",
                 "visibility_rules": "$is_location_active|69"
               },
               {
                 "name": "Bubbles",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|70",
+                "access_rules": "^$monkey_accessibility|70",
                 "visibility_rules": "$is_location_active|70"
               }
             ]
@@ -660,37 +660,37 @@
               {
                 "name": "Snooz",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|71",
+                "access_rules": "^$monkey_accessibility|71",
                 "visibility_rules": "$is_location_active|71"
               },
               {
                 "name": "Twiggy",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|72",
+                "access_rules": "^$monkey_accessibility|72",
                 "visibility_rules": "$is_location_active|72"
               },
               {
                 "name": "Harry Karry",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|73",
+                "access_rules": "^$monkey_accessibility|73",
                 "visibility_rules": "$is_location_active|73"
               },
               {
                 "name": "Chan",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|74",
+                "access_rules": "^$monkey_accessibility|74",
                 "visibility_rules": "$is_location_active|74"
               },
               {
                 "name": "Duncan",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|75",
+                "access_rules": "^$monkey_accessibility|75",
                 "visibility_rules": "$is_location_active|75"
               },
               {
                 "name": "Somnia",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|76",
+                "access_rules": "^$monkey_accessibility|76",
                 "visibility_rules": "$is_location_active|76"
               }
             ]
@@ -706,49 +706,49 @@
               {
                 "name": "Hideyoshi",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|77",
+                "access_rules": "^$monkey_accessibility|77",
                 "visibility_rules": "$is_location_active|77"
               },
               {
                 "name": "Takashi",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|78",
+                "access_rules": "^$monkey_accessibility|78",
                 "visibility_rules": "$is_location_active|78"
               },
               {
                 "name": "Rapido",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|79",
+                "access_rules": "^$monkey_accessibility|79",
                 "visibility_rules": "$is_location_active|79"
               },
               {
                 "name": "Jim",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|80",
+                "access_rules": "^$monkey_accessibility|80",
                 "visibility_rules": "$is_location_active|80"
               },
               {
                 "name": "Bon-o",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|81",
+                "access_rules": "^$monkey_accessibility|81",
                 "visibility_rules": "$is_location_active|81"
               },
               {
                 "name": "Boxer",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|82",
+                "access_rules": "^$monkey_accessibility|82",
                 "visibility_rules": "$is_location_active|82"
               },
               {
                 "name": "Chuck",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|83",
+                "access_rules": "^$monkey_accessibility|83",
                 "visibility_rules": "$is_location_active|83"
               },
               {
                 "name": "Shiho",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|84",
+                "access_rules": "^$monkey_accessibility|84",
                 "visibility_rules": "$is_location_active|84"
               }
             ]
@@ -764,13 +764,13 @@
               {
                 "name": "Ledski",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|85",
+                "access_rules": "^$monkey_accessibility|85",
                 "visibility_rules": "$is_location_active|85"
               },
               {
                 "name": "Harvey",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|86",
+                "access_rules": "^$monkey_accessibility|86",
                 "visibility_rules": "$is_location_active|86"
               }
             ]
@@ -793,7 +793,7 @@
               {
                 "name": "Yellow Monkey",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|87",
+                "access_rules": "^$monkey_accessibility|87",
                 "visibility_rules": "$is_location_active|87"
               }
             ]
@@ -816,25 +816,25 @@
               {
                 "name": "Bernie",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|88",
+                "access_rules": "^$monkey_accessibility|88",
                 "visibility_rules": "$is_location_active|88"
               },
               {
                 "name": "Zebedee",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|89",
+                "access_rules": "^$monkey_accessibility|89",
                 "visibility_rules": "$is_location_active|89"
               },
               {
                 "name": "Jibber",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|90",
+                "access_rules": "^$monkey_accessibility|90",
                 "visibility_rules": "$is_location_active|90"
               },
               {
                 "name": "Threedee",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|91",
+                "access_rules": "^$monkey_accessibility|91",
                 "visibility_rules": "$is_location_active|91"
               }
             ]
@@ -850,25 +850,25 @@
               {
                 "name": "Monkey Claus",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|92",
+                "access_rules": "^$monkey_accessibility|92",
                 "visibility_rules": "$is_location_active|92"
               },
               {
                 "name": "Chill",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|93",
+                "access_rules": "^$monkey_accessibility|93",
                 "visibility_rules": "$is_location_active|93"
               },
               {
                 "name": "Parka",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|94",
+                "access_rules": "^$monkey_accessibility|94",
                 "visibility_rules": "$is_location_active|94"
               },
               {
                 "name": "Raver",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|95",
+                "access_rules": "^$monkey_accessibility|95",
                 "visibility_rules": "$is_location_active|95"
               }
             ]
@@ -884,37 +884,37 @@
               {
                 "name": "Elodie",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|96",
+                "access_rules": "^$monkey_accessibility|96",
                 "visibility_rules": "$is_location_active|96"
               },
               {
                 "name": "Davee",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|97",
+                "access_rules": "^$monkey_accessibility|97",
                 "visibility_rules": "$is_location_active|97"
               },
               {
                 "name": "Big Bopper",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|98",
+                "access_rules": "^$monkey_accessibility|98",
                 "visibility_rules": "$is_location_active|98"
               },
               {
                 "name": "Jimmy",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|99",
+                "access_rules": "^$monkey_accessibility|99",
                 "visibility_rules": "$is_location_active|99"
               },
               {
                 "name": "Eddie the Falcon",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|100",
+                "access_rules": "^$monkey_accessibility|100",
                 "visibility_rules": "$is_location_active|100"
               },
               {
                 "name": "Zippy",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|101",
+                "access_rules": "^$monkey_accessibility|101",
                 "visibility_rules": "$is_location_active|101"
               }
             ]
@@ -937,25 +937,25 @@
               {
                 "name": "Olivia",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|102",
+                "access_rules": "^$monkey_accessibility|102",
                 "visibility_rules": "$is_location_active|102"
               },
               {
                 "name": "Ally",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|103",
+                "access_rules": "^$monkey_accessibility|103",
                 "visibility_rules": "$is_location_active|103"
               },
               {
                 "name": "Ty",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|104",
+                "access_rules": "^$monkey_accessibility|104",
                 "visibility_rules": "$is_location_active|104"
               },
               {
                 "name": "Livingstone",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|105",
+                "access_rules": "^$monkey_accessibility|105",
                 "visibility_rules": "$is_location_active|105"
               }
             ]
@@ -971,19 +971,19 @@
               {
                 "name": "Louis",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|106",
+                "access_rules": "^$monkey_accessibility|106",
                 "visibility_rules": "$is_location_active|106"
               },
               {
                 "name": "Lily",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|107",
+                "access_rules": "^$monkey_accessibility|107",
                 "visibility_rules": "$is_location_active|107"
               },
               {
                 "name": "Gunn",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|108",
+                "access_rules": "^$monkey_accessibility|108",
                 "visibility_rules": "$is_location_active|108"
               }
             ]
@@ -999,19 +999,19 @@
               {
                 "name": "Gill",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|109",
+                "access_rules": "^$monkey_accessibility|109",
                 "visibility_rules": "$is_location_active|109"
               },
               {
                 "name": "Chris",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|110",
+                "access_rules": "^$monkey_accessibility|110",
                 "visibility_rules": "$is_location_active|110"
               },
               {
                 "name": "Simian Tell",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|111",
+                "access_rules": "^$monkey_accessibility|111",
                 "visibility_rules": "$is_location_active|111"
               }
             ]
@@ -1034,37 +1034,37 @@
               {
                 "name": "Helmut",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|112",
+                "access_rules": "^$monkey_accessibility|112",
                 "visibility_rules": "$is_location_active|112"
               },
               {
                 "name": "Sandy",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|113",
+                "access_rules": "^$monkey_accessibility|113",
                 "visibility_rules": "$is_location_active|113"
               },
               {
                 "name": "Gloria",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|114",
+                "access_rules": "^$monkey_accessibility|114",
                 "visibility_rules": "$is_location_active|114"
               },
               {
                 "name": "Michelle",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|115",
+                "access_rules": "^$monkey_accessibility|115",
                 "visibility_rules": "$is_location_active|115"
               },
               {
                 "name": "Erin",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|116",
+                "access_rules": "^$monkey_accessibility|116",
                 "visibility_rules": "$is_location_active|116"
               },
               {
                 "name": "Brad",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|117",
+                "access_rules": "^$monkey_accessibility|117",
                 "visibility_rules": "$is_location_active|117"
               }
             ]
@@ -1080,13 +1080,13 @@
               {
                 "name": "Mulder",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|118",
+                "access_rules": "^$monkey_accessibility|118",
                 "visibility_rules": "$is_location_active|118"
               },
               {
                 "name": "Rik",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|119",
+                "access_rules": "^$monkey_accessibility|119",
                 "visibility_rules": "$is_location_active|119"
               }
             ]
@@ -1102,19 +1102,19 @@
               {
                 "name": "Montague",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|120",
+                "access_rules": "^$monkey_accessibility|120",
                 "visibility_rules": "$is_location_active|120"
               },
               {
                 "name": "Shorty",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|121",
+                "access_rules": "^$monkey_accessibility|121",
                 "visibility_rules": "$is_location_active|121"
               },
               {
                 "name": "Speedo",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|122",
+                "access_rules": "^$monkey_accessibility|122",
                 "visibility_rules": "$is_location_active|122"
               }
             ]
@@ -1130,7 +1130,7 @@
               {
                 "name": "Sooz",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|123",
+                "access_rules": "^$monkey_accessibility|123",
                 "visibility_rules": "$is_location_active|123"
               }
             ]
@@ -1153,7 +1153,7 @@
               {
                 "name": "Pink Monkey",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|124",
+                "access_rules": "^$monkey_accessibility|124",
                 "visibility_rules": "$is_location_active|124"
               }
             ]
@@ -1176,49 +1176,49 @@
               {
                 "name": "Jean Paul",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|125",
+                "access_rules": "^$monkey_accessibility|125",
                 "visibility_rules": "$is_location_active|125"
               },
               {
                 "name": "Simeski",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|126",
+                "access_rules": "^$monkey_accessibility|126",
                 "visibility_rules": "$is_location_active|126"
               },
               {
                 "name": "Barry",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|127",
+                "access_rules": "^$monkey_accessibility|127",
                 "visibility_rules": "$is_location_active|127"
               },
               {
                 "name": "Chan",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|128",
+                "access_rules": "^$monkey_accessibility|128",
                 "visibility_rules": "$is_location_active|128"
               },
               {
                 "name": "Marshall",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|129",
+                "access_rules": "^$monkey_accessibility|129",
                 "visibility_rules": "$is_location_active|129"
               },
               {
                 "name": "Wesley",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|130",
+                "access_rules": "^$monkey_accessibility|130",
                 "visibility_rules": "$is_location_active|130"
               },
               {
                 "name": "Chaz",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|131",
+                "access_rules": "^$monkey_accessibility|131",
                 "visibility_rules": "$is_location_active|131"
               },
               {
                 "name": "Daimion",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|132",
+                "access_rules": "^$monkey_accessibility|132",
                 "visibility_rules": "$is_location_active|132"
               }
             ]
@@ -1234,25 +1234,25 @@
               {
                 "name": "Bruce Monkee",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|133",
+                "access_rules": "^$monkey_accessibility|133",
                 "visibility_rules": "$is_location_active|133"
               },
               {
                 "name": "Miyazaki",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|134",
+                "access_rules": "^$monkey_accessibility|134",
                 "visibility_rules": "$is_location_active|134"
               },
               {
                 "name": "Johnny",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|135",
+                "access_rules": "^$monkey_accessibility|135",
                 "visibility_rules": "$is_location_active|135"
               },
               {
                 "name": "Naseem",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|136",
+                "access_rules": "^$monkey_accessibility|136",
                 "visibility_rules": "$is_location_active|136"
               }
             ]
@@ -1268,49 +1268,49 @@
               {
                 "name": "Ming",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|137",
+                "access_rules": "^$monkey_accessibility|137",
                 "visibility_rules": "$is_location_active|137"
               },
               {
                 "name": "Ryan",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|138",
+                "access_rules": "^$monkey_accessibility|138",
                 "visibility_rules": "$is_location_active|138"
               },
               {
                 "name": "Martin",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|139",
+                "access_rules": "^$monkey_accessibility|139",
                 "visibility_rules": "$is_location_active|139"
               },
               {
                 "name": "Jools",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|140",
+                "access_rules": "^$monkey_accessibility|140",
                 "visibility_rules": "$is_location_active|140"
               },
               {
                 "name": "James",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|141",
+                "access_rules": "^$monkey_accessibility|141",
                 "visibility_rules": "$is_location_active|141"
               },
               {
                 "name": "John Ook",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|142",
+                "access_rules": "^$monkey_accessibility|142",
                 "visibility_rules": "$is_location_active|142"
               },
               {
                 "name": "Goku",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|143",
+                "access_rules": "^$monkey_accessibility|143",
                 "visibility_rules": "$is_location_active|143"
               },
               {
                 "name": "Daniel C. Ooke",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|144",
+                "access_rules": "^$monkey_accessibility|144",
                 "visibility_rules": "$is_location_active|144"
               }
             ]
@@ -1333,19 +1333,19 @@
               {
                 "name": "Sly",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|145",
+                "access_rules": "^$monkey_accessibility|145",
                 "visibility_rules": "$is_location_active|145"
               },
               {
                 "name": "Norman",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|146",
+                "access_rules": "^$monkey_accessibility|146",
                 "visibility_rules": "$is_location_active|146"
               },
               {
                 "name": "Alex",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|147",
+                "access_rules": "^$monkey_accessibility|147",
                 "visibility_rules": "$is_location_active|147"
               }
             ]
@@ -1361,19 +1361,19 @@
               {
                 "name": "Jonah",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|148",
+                "access_rules": "^$monkey_accessibility|148",
                 "visibility_rules": "$is_location_active|148"
               },
               {
                 "name": "Mermonkey",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|149",
+                "access_rules": "^$monkey_accessibility|149",
                 "visibility_rules": "$is_location_active|149"
               },
               {
                 "name": "Colin",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|150",
+                "access_rules": "^$monkey_accessibility|150",
                 "visibility_rules": "$is_location_active|150"
               }
             ]
@@ -1389,13 +1389,13 @@
               {
                 "name": "Nicky",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|151",
+                "access_rules": "^$monkey_accessibility|151",
                 "visibility_rules": "$is_location_active|151"
               },
               {
                 "name": "Vaughan",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|152",
+                "access_rules": "^$monkey_accessibility|152",
                 "visibility_rules": "$is_location_active|152"
               }
             ]
@@ -1411,43 +1411,43 @@
               {
                 "name": "Dave",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|153",
+                "access_rules": "^$monkey_accessibility|153",
                 "visibility_rules": "$is_location_active|153"
               },
               {
                 "name": "Gonzales",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|154",
+                "access_rules": "^$monkey_accessibility|154",
                 "visibility_rules": "$is_location_active|154"
               },
               {
                 "name": "Daley",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|155",
+                "access_rules": "^$monkey_accessibility|155",
                 "visibility_rules": "$is_location_active|155"
               },
               {
                 "name": "Ollie",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|156",
+                "access_rules": "^$monkey_accessibility|156",
                 "visibility_rules": "$is_location_active|156"
               },
               {
                 "name": "Dolph",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|157",
+                "access_rules": "^$monkey_accessibility|157",
                 "visibility_rules": "$is_location_active|157"
               },
               {
                 "name": "Tommy",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|158",
+                "access_rules": "^$monkey_accessibility|158",
                 "visibility_rules": "$is_location_active|158"
               },
               {
                 "name": "Grace",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|159",
+                "access_rules": "^$monkey_accessibility|159",
                 "visibility_rules": "$is_location_active|159"
               }
             ]
@@ -1463,25 +1463,25 @@
               {
                 "name": "Jim",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|160",
+                "access_rules": "^$monkey_accessibility|160",
                 "visibility_rules": "$is_location_active|160"
               },
               {
                 "name": "Rex",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|161",
+                "access_rules": "^$monkey_accessibility|161",
                 "visibility_rules": "$is_location_active|161"
               },
               {
                 "name": "Brucie",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|162",
+                "access_rules": "^$monkey_accessibility|162",
                 "visibility_rules": "$is_location_active|162"
               },
               {
                 "name": "Woody",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|163",
+                "access_rules": "^$monkey_accessibility|163",
                 "visibility_rules": "$is_location_active|163"
               }
             ]
@@ -1504,13 +1504,13 @@
               {
                 "name": "Piz",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|164",
+                "access_rules": "^$monkey_accessibility|164",
                 "visibility_rules": "$is_location_active|164"
               },
               {
                 "name": "Stu",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|165",
+                "access_rules": "^$monkey_accessibility|165",
                 "visibility_rules": "$is_location_active|165"
               }
             ]
@@ -1526,19 +1526,19 @@
               {
                 "name": "Stevie",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|166",
+                "access_rules": "^$monkey_accessibility|166",
                 "visibility_rules": "$is_location_active|166"
               },
               {
                 "name": "Jimbo",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|167",
+                "access_rules": "^$monkey_accessibility|167",
                 "visibility_rules": "$is_location_active|167"
               },
               {
                 "name": "Roberts",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|168",
+                "access_rules": "^$monkey_accessibility|168",
                 "visibility_rules": "$is_location_active|168"
               }
             ]
@@ -1554,13 +1554,13 @@
               {
                 "name": "Uri",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|169",
+                "access_rules": "^$monkey_accessibility|169",
                 "visibility_rules": "$is_location_active|169"
               },
               {
                 "name": "Eric",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|170",
+                "access_rules": "^$monkey_accessibility|170",
                 "visibility_rules": "$is_location_active|170"
               }
             ]
@@ -1576,31 +1576,31 @@
               {
                 "name": "Curley",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|171",
+                "access_rules": "^$monkey_accessibility|171",
                 "visibility_rules": "$is_location_active|171"
               },
               {
                 "name": "Chimpette",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|172",
+                "access_rules": "^$monkey_accessibility|172",
                 "visibility_rules": "$is_location_active|172"
               },
               {
                 "name": "Dane",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|173",
+                "access_rules": "^$monkey_accessibility|173",
                 "visibility_rules": "$is_location_active|173"
               },
               {
                 "name": "Slim",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|174",
+                "access_rules": "^$monkey_accessibility|174",
                 "visibility_rules": "$is_location_active|174"
               },
               {
                 "name": "Cleo",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|175",
+                "access_rules": "^$monkey_accessibility|175",
                 "visibility_rules": "$is_location_active|175"
               }
             ]
@@ -1616,31 +1616,31 @@
               {
                 "name": "Spud",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|176",
+                "access_rules": "^$monkey_accessibility|176",
                 "visibility_rules": "$is_location_active|176"
               },
               {
                 "name": "Anthony",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|177",
+                "access_rules": "^$monkey_accessibility|177",
                 "visibility_rules": "$is_location_active|177"
               },
               {
                 "name": "Becky",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|178",
+                "access_rules": "^$monkey_accessibility|178",
                 "visibility_rules": "$is_location_active|178"
               },
               {
                 "name": "Gordon",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|179",
+                "access_rules": "^$monkey_accessibility|179",
                 "visibility_rules": "$is_location_active|179"
               },
               {
                 "name": "Sphinx",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|180",
+                "access_rules": "^$monkey_accessibility|180",
                 "visibility_rules": "$is_location_active|180"
               }
             ]
@@ -1663,7 +1663,7 @@
               {
                 "name": "White Monkey",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|181",
+                "access_rules": "^$monkey_accessibility|181",
                 "visibility_rules": "$is_location_active|181"
               }
             ]
@@ -1686,31 +1686,31 @@
               {
                 "name": "Pugwash",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|182",
+                "access_rules": "^$monkey_accessibility|182",
                 "visibility_rules": "$is_location_active|182"
               },
               {
                 "name": "Burt",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|183",
+                "access_rules": "^$monkey_accessibility|183",
                 "visibility_rules": "$is_location_active|183"
               },
               {
                 "name": "Hawkins",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|184",
+                "access_rules": "^$monkey_accessibility|184",
                 "visibility_rules": "$is_location_active|184"
               },
               {
                 "name": "Kelly",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|185",
+                "access_rules": "^$monkey_accessibility|185",
                 "visibility_rules": "$is_location_active|185"
               },
               {
                 "name": "Stephenson",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|186",
+                "access_rules": "^$monkey_accessibility|186",
                 "visibility_rules": "$is_location_active|186"
               }
             ]
@@ -1726,19 +1726,19 @@
               {
                 "name": "Mel",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|187",
+                "access_rules": "^$monkey_accessibility|187",
                 "visibility_rules": "$is_location_active|187"
               },
               {
                 "name": "Dick",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|188",
+                "access_rules": "^$monkey_accessibility|188",
                 "visibility_rules": "$is_location_active|188"
               },
               {
                 "name": "Bradley",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|189",
+                "access_rules": "^$monkey_accessibility|189",
                 "visibility_rules": "$is_location_active|189"
               }
             ]
@@ -1754,13 +1754,13 @@
               {
                 "name": "Tabasco",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|190",
+                "access_rules": "^$monkey_accessibility|190",
                 "visibility_rules": "$is_location_active|190"
               },
               {
                 "name": "Bonzo",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|191",
+                "access_rules": "^$monkey_accessibility|191",
                 "visibility_rules": "$is_location_active|191"
               }
             ]
@@ -1776,25 +1776,25 @@
               {
                 "name": "Scratchy",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|192",
+                "access_rules": "^$monkey_accessibility|192",
                 "visibility_rules": "$is_location_active|192"
               },
               {
                 "name": "Vic",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|193",
+                "access_rules": "^$monkey_accessibility|193",
                 "visibility_rules": "$is_location_active|193"
               },
               {
                 "name": "Indy",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|194",
+                "access_rules": "^$monkey_accessibility|194",
                 "visibility_rules": "$is_location_active|194"
               },
               {
                 "name": "Bobby",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|195",
+                "access_rules": "^$monkey_accessibility|195",
                 "visibility_rules": "$is_location_active|195"
               }
             ]
@@ -1810,37 +1810,37 @@
               {
                 "name": "Freddie",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|196",
+                "access_rules": "^$monkey_accessibility|196",
                 "visibility_rules": "$is_location_active|196"
               },
               {
                 "name": "Denis",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|197",
+                "access_rules": "^$monkey_accessibility|197",
                 "visibility_rules": "$is_location_active|197"
               },
               {
                 "name": "Oliver",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|198",
+                "access_rules": "^$monkey_accessibility|198",
                 "visibility_rules": "$is_location_active|198"
               },
               {
                 "name": "Captain Ook",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|199",
+                "access_rules": "^$monkey_accessibility|199",
                 "visibility_rules": "$is_location_active|199"
               },
               {
                 "name": "Jeffrey",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|200",
+                "access_rules": "^$monkey_accessibility|200",
                 "visibility_rules": "$is_location_active|200"
               },
               {
                 "name": "Lee",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|201",
+                "access_rules": "^$monkey_accessibility|201",
                 "visibility_rules": "$is_location_active|201"
               }
             ]
@@ -1863,55 +1863,55 @@
               {
                 "name": "Rupert",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|202",
+                "access_rules": "^$monkey_accessibility|202",
                 "visibility_rules": "$is_location_active|202"
               },
               {
                 "name": "Craig",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|203",
+                "access_rules": "^$monkey_accessibility|203",
                 "visibility_rules": "$is_location_active|203"
               },
               {
                 "name": "Hear No Evil",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|204",
+                "access_rules": "^$monkey_accessibility|204",
                 "visibility_rules": "$is_location_active|204"
               },
               {
                 "name": "Brian",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|205",
+                "access_rules": "^$monkey_accessibility|205",
                 "visibility_rules": "$is_location_active|205"
               },
               {
                 "name": "Smell No Evil",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|206",
+                "access_rules": "^$monkey_accessibility|206",
                 "visibility_rules": "$is_location_active|206"
               },
               {
                 "name": "Speak No Evil",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|207",
+                "access_rules": "^$monkey_accessibility|207",
                 "visibility_rules": "$is_location_active|207"
               },
               {
                 "name": "Bones",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|208",
+                "access_rules": "^$monkey_accessibility|208",
                 "visibility_rules": "$is_location_active|208"
               },
               {
                 "name": "Mr Frosty",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|209",
+                "access_rules": "^$monkey_accessibility|209",
                 "visibility_rules": "$is_location_active|209"
               },
               {
                 "name": "Lynn",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|210",
+                "access_rules": "^$monkey_accessibility|210",
                 "visibility_rules": "$is_location_active|210"
               }
             ]
@@ -1927,31 +1927,31 @@
               {
                 "name": "Lars",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|211",
+                "access_rules": "^$monkey_accessibility|211",
                 "visibility_rules": "$is_location_active|211"
               },
               {
                 "name": "Stone",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|212",
+                "access_rules": "^$monkey_accessibility|212",
                 "visibility_rules": "$is_location_active|212"
               },
               {
                 "name": "Seb",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|213",
+                "access_rules": "^$monkey_accessibility|213",
                 "visibility_rules": "$is_location_active|213"
               },
               {
                 "name": "Torvill",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|214",
+                "access_rules": "^$monkey_accessibility|214",
                 "visibility_rules": "$is_location_active|214"
               },
               {
                 "name": "Dean",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|215",
+                "access_rules": "^$monkey_accessibility|215",
                 "visibility_rules": "$is_location_active|215"
               }
             ]
@@ -1967,31 +1967,31 @@
               {
                 "name": "Monkski",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|216",
+                "access_rules": "^$monkey_accessibility|216",
                 "visibility_rules": "$is_location_active|216"
               },
               {
                 "name": "Robinson",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|217",
+                "access_rules": "^$monkey_accessibility|217",
                 "visibility_rules": "$is_location_active|217"
               },
               {
                 "name": "Murray",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|218",
+                "access_rules": "^$monkey_accessibility|218",
                 "visibility_rules": "$is_location_active|218"
               },
               {
                 "name": "Linz",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|219",
+                "access_rules": "^$monkey_accessibility|219",
                 "visibility_rules": "$is_location_active|219"
               },
               {
                 "name": "Philippe",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|220",
+                "access_rules": "^$monkey_accessibility|220",
                 "visibility_rules": "$is_location_active|220"
               }
             ]
@@ -2007,13 +2007,13 @@
               {
                 "name": "Mona",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|221",
+                "access_rules": "^$monkey_accessibility|221",
                 "visibility_rules": "$is_location_active|221"
               },
               {
                 "name": "Patrick",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|222",
+                "access_rules": "^$monkey_accessibility|222",
                 "visibility_rules": "$is_location_active|222"
               }
             ]
@@ -2036,25 +2036,25 @@
               {
                 "name": "Homer",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|223",
+                "access_rules": "^$monkey_accessibility|223",
                 "visibility_rules": "$is_location_active|223"
               },
               {
                 "name": "Sam",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|224",
+                "access_rules": "^$monkey_accessibility|224",
                 "visibility_rules": "$is_location_active|224"
               },
               {
                 "name": "Grant",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|225",
+                "access_rules": "^$monkey_accessibility|225",
                 "visibility_rules": "$is_location_active|225"
               },
               {
                 "name": "Mervin",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|226",
+                "access_rules": "^$monkey_accessibility|226",
                 "visibility_rules": "$is_location_active|226"
               }
             ]
@@ -2070,7 +2070,7 @@
               {
                 "name": "Terry",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|227",
+                "access_rules": "^$monkey_accessibility|227",
                 "visibility_rules": "$is_location_active|227"
               }
             ]
@@ -2086,19 +2086,19 @@
               {
                 "name": "Murdoch",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|228",
+                "access_rules": "^$monkey_accessibility|228",
                 "visibility_rules": "$is_location_active|228"
               },
               {
                 "name": "Monko Polo",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|229",
+                "access_rules": "^$monkey_accessibility|229",
                 "visibility_rules": "$is_location_active|229"
               },
               {
                 "name": "Emma",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|230",
+                "access_rules": "^$monkey_accessibility|230",
                 "visibility_rules": "$is_location_active|230"
               }
             ]
@@ -2114,31 +2114,31 @@
               {
                 "name": "Stumpy",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|231",
+                "access_rules": "^$monkey_accessibility|231",
                 "visibility_rules": "$is_location_active|231"
               },
               {
                 "name": "Baz",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|232",
+                "access_rules": "^$monkey_accessibility|232",
                 "visibility_rules": "$is_location_active|232"
               },
               {
                 "name": "Des",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|233",
+                "access_rules": "^$monkey_accessibility|233",
                 "visibility_rules": "$is_location_active|233"
               },
               {
                 "name": "Christy",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|234",
+                "access_rules": "^$monkey_accessibility|234",
                 "visibility_rules": "$is_location_active|234"
               },
               {
                 "name": "Stanley",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|235",
+                "access_rules": "^$monkey_accessibility|235",
                 "visibility_rules": "$is_location_active|235"
               }
             ]
@@ -2154,31 +2154,31 @@
               {
                 "name": "Lewis",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|236",
+                "access_rules": "^$monkey_accessibility|236",
                 "visibility_rules": "$is_location_active|236"
               },
               {
                 "name": "Prince",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|237",
+                "access_rules": "^$monkey_accessibility|237",
                 "visibility_rules": "$is_location_active|237"
               },
               {
                 "name": "Lunch",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|238",
+                "access_rules": "^$monkey_accessibility|238",
                 "visibility_rules": "$is_location_active|238"
               },
               {
                 "name": "Ovett",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|239",
+                "access_rules": "^$monkey_accessibility|239",
                 "visibility_rules": "$is_location_active|239"
               },
               {
                 "name": "Babe",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|240",
+                "access_rules": "^$monkey_accessibility|240",
                 "visibility_rules": "$is_location_active|240"
               }
             ]
@@ -2201,7 +2201,7 @@
               {
                 "name": "Red Monkey",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|241",
+                "access_rules": "^$monkey_accessibility|241",
                 "visibility_rules": "$is_location_active|241"
               }
             ]
@@ -2224,37 +2224,37 @@
               {
                 "name": "Brendan",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|242",
+                "access_rules": "^$monkey_accessibility|242",
                 "visibility_rules": "$is_location_active|242"
               },
               {
                 "name": "Ali",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|243",
+                "access_rules": "^$monkey_accessibility|243",
                 "visibility_rules": "$is_location_active|243"
               },
               {
                 "name": "Jim",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|244",
+                "access_rules": "^$monkey_accessibility|244",
                 "visibility_rules": "$is_location_active|244"
               },
               {
                 "name": "Ricardo",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|245",
+                "access_rules": "^$monkey_accessibility|245",
                 "visibility_rules": "$is_location_active|245"
               },
               {
                 "name": "Douglas",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|246",
+                "access_rules": "^$monkey_accessibility|246",
                 "visibility_rules": "$is_location_active|246"
               },
               {
                 "name": "Cameron",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|247",
+                "access_rules": "^$monkey_accessibility|247",
                 "visibility_rules": "$is_location_active|247"
               }
             ]
@@ -2270,37 +2270,37 @@
               {
                 "name": "Slider",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|248",
+                "access_rules": "^$monkey_accessibility|248",
                 "visibility_rules": "$is_location_active|248"
               },
               {
                 "name": "Spank",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|249",
+                "access_rules": "^$monkey_accessibility|249",
                 "visibility_rules": "$is_location_active|249"
               },
               {
                 "name": "Din",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|250",
+                "access_rules": "^$monkey_accessibility|250",
                 "visibility_rules": "$is_location_active|250"
               },
               {
                 "name": "Sue",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|251",
+                "access_rules": "^$monkey_accessibility|251",
                 "visibility_rules": "$is_location_active|251"
               },
               {
                 "name": "Dum Dum",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|252",
+                "access_rules": "^$monkey_accessibility|252",
                 "visibility_rules": "$is_location_active|252"
               },
               {
                 "name": "Jitter",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|253",
+                "access_rules": "^$monkey_accessibility|253",
                 "visibility_rules": "$is_location_active|253"
               }
             ]
@@ -2316,25 +2316,25 @@
               {
                 "name": "Robson",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|254",
+                "access_rules": "^$monkey_accessibility|254",
                 "visibility_rules": "$is_location_active|254"
               },
               {
                 "name": "Spud II",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|255",
+                "access_rules": "^$monkey_accessibility|255",
                 "visibility_rules": "$is_location_active|255"
               },
               {
                 "name": "Cole",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|256",
+                "access_rules": "^$monkey_accessibility|256",
                 "visibility_rules": "$is_location_active|256"
               },
               {
                 "name": "Ty",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|257",
+                "access_rules": "^$monkey_accessibility|257",
                 "visibility_rules": "$is_location_active|257"
               }
             ]
@@ -2350,31 +2350,31 @@
               {
                 "name": "Slacker",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|258",
+                "access_rules": "^$monkey_accessibility|258",
                 "visibility_rules": "$is_location_active|258"
               },
               {
                 "name": "Kengo",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|259",
+                "access_rules": "^$monkey_accessibility|259",
                 "visibility_rules": "$is_location_active|259"
               },
               {
                 "name": "Rory",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|260",
+                "access_rules": "^$monkey_accessibility|260",
                 "visibility_rules": "$is_location_active|260"
               },
               {
                 "name": "Eubank",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|261",
+                "access_rules": "^$monkey_accessibility|261",
                 "visibility_rules": "$is_location_active|261"
               },
               {
                 "name": "Miller",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|262",
+                "access_rules": "^$monkey_accessibility|262",
                 "visibility_rules": "$is_location_active|262"
               }
             ]
@@ -2390,13 +2390,13 @@
               {
                 "name": "Spacey",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|263",
+                "access_rules": "^$monkey_accessibility|263",
                 "visibility_rules": "$is_location_active|263"
               },
               {
                 "name": "Ivor",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|264",
+                "access_rules": "^$monkey_accessibility|264",
                 "visibility_rules": "$is_location_active|264"
               }
             ]
@@ -2419,37 +2419,37 @@
               {
                 "name": "Kiki",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|265",
+                "access_rules": "^$monkey_accessibility|265",
                 "visibility_rules": "$is_location_active|265"
               },
               {
                 "name": "Cole",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|266",
+                "access_rules": "^$monkey_accessibility|266",
                 "visibility_rules": "$is_location_active|266"
               },
               {
                 "name": "Mimi",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|267",
+                "access_rules": "^$monkey_accessibility|267",
                 "visibility_rules": "$is_location_active|267"
               },
               {
                 "name": "Tanjobi",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|268",
+                "access_rules": "^$monkey_accessibility|268",
                 "visibility_rules": "$is_location_active|268"
               },
               {
                 "name": "Major",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|269",
+                "access_rules": "^$monkey_accessibility|269",
                 "visibility_rules": "$is_location_active|269"
               },
               {
                 "name": "Ebiike",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|270",
+                "access_rules": "^$monkey_accessibility|270",
                 "visibility_rules": "$is_location_active|270"
               }
             ]
@@ -2465,25 +2465,25 @@
               {
                 "name": "Corporal",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|271",
+                "access_rules": "^$monkey_accessibility|271",
                 "visibility_rules": "$is_location_active|271"
               },
               {
                 "name": "Sloth",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|272",
+                "access_rules": "^$monkey_accessibility|272",
                 "visibility_rules": "$is_location_active|272"
               },
               {
                 "name": "Heston",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|273",
+                "access_rules": "^$monkey_accessibility|273",
                 "visibility_rules": "$is_location_active|273"
               },
               {
                 "name": "Buzz",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|274",
+                "access_rules": "^$monkey_accessibility|274",
                 "visibility_rules": "$is_location_active|274"
               }
             ]
@@ -2499,13 +2499,13 @@
               {
                 "name": "Matt",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|275",
+                "access_rules": "^$monkey_accessibility|275",
                 "visibility_rules": "$is_location_active|275"
               },
               {
                 "name": "Gaelle",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|276",
+                "access_rules": "^$monkey_accessibility|276",
                 "visibility_rules": "$is_location_active|276"
               }
             ]
@@ -2521,25 +2521,25 @@
               {
                 "name": "Arnold",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|277",
+                "access_rules": "^$monkey_accessibility|277",
                 "visibility_rules": "$is_location_active|277"
               },
               {
                 "name": "Sylvester",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|278",
+                "access_rules": "^$monkey_accessibility|278",
                 "visibility_rules": "$is_location_active|278"
               },
               {
                 "name": "Sandra",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|279",
+                "access_rules": "^$monkey_accessibility|279",
                 "visibility_rules": "$is_location_active|279"
               },
               {
                 "name": "Boots",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|280",
+                "access_rules": "^$monkey_accessibility|280",
                 "visibility_rules": "$is_location_active|280"
               }
             ]
@@ -2555,13 +2555,13 @@
               {
                 "name": "Sinclair",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|281",
+                "access_rules": "^$monkey_accessibility|281",
                 "visibility_rules": "$is_location_active|281"
               },
               {
                 "name": "Keeble",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|282",
+                "access_rules": "^$monkey_accessibility|282",
                 "visibility_rules": "$is_location_active|282"
               }
             ]
@@ -2577,19 +2577,19 @@
               {
                 "name": "General",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|283",
+                "access_rules": "^$monkey_accessibility|283",
                 "visibility_rules": "$is_location_active|283"
               },
               {
                 "name": "Laura",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|284",
+                "access_rules": "^$monkey_accessibility|284",
                 "visibility_rules": "$is_location_active|284"
               },
               {
                 "name": "The Cleaner",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|285",
+                "access_rules": "^$monkey_accessibility|285",
                 "visibility_rules": "$is_location_active|285"
               }
             ]
@@ -2612,7 +2612,7 @@
               {
                 "name": "Yellow Monkey",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|286",
+                "access_rules": "^$monkey_accessibility|286",
                 "visibility_rules": "$is_location_active|286"
               }
             ]
@@ -2635,7 +2635,7 @@
               {
                 "name": "Lardy",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|287",
+                "access_rules": "^$monkey_accessibility|287",
                 "visibility_rules": "$is_location_active|287"
               }
             ]
@@ -2651,7 +2651,7 @@
               {
                 "name": "Tom",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|288",
+                "access_rules": "^$monkey_accessibility|288",
                 "visibility_rules": "$is_location_active|288"
               }
             ]
@@ -2667,7 +2667,7 @@
               {
                 "name": "Bruce",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|289",
+                "access_rules": "^$monkey_accessibility|289",
                 "visibility_rules": "$is_location_active|289"
               }
             ]
@@ -2683,7 +2683,7 @@
               {
                 "name": "Han",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|290",
+                "access_rules": "^$monkey_accessibility|290",
                 "visibility_rules": "$is_location_active|290"
               }
             ]
@@ -2699,13 +2699,13 @@
               {
                 "name": "Neil Apestrong",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|291",
+                "access_rules": "^$monkey_accessibility|291",
                 "visibility_rules": "$is_location_active|291"
               },
               {
                 "name": "Chelsea",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|292",
+                "access_rules": "^$monkey_accessibility|292",
                 "visibility_rules": "$is_location_active|292"
               }
             ]
@@ -2721,19 +2721,19 @@
               {
                 "name": "SAL-01",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|293",
+                "access_rules": "^$monkey_accessibility|293",
                 "visibility_rules": "$is_location_active|293"
               },
               {
                 "name": "Kubrick",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|294",
+                "access_rules": "^$monkey_accessibility|294",
                 "visibility_rules": "$is_location_active|294"
               },
               {
                 "name": "Chewy",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|295",
+                "access_rules": "^$monkey_accessibility|295",
                 "visibility_rules": "$is_location_active|295"
               }
             ]
@@ -2749,19 +2749,19 @@
               {
                 "name": "Obi Ook Kenobi",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|296",
+                "access_rules": "^$monkey_accessibility|296",
                 "visibility_rules": "$is_location_active|296"
               },
               {
                 "name": "Darth Apester",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|297",
+                "access_rules": "^$monkey_accessibility|297",
                 "visibility_rules": "$is_location_active|297"
               },
               {
                 "name": "Luke Apewalker",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|298",
+                "access_rules": "^$monkey_accessibility|298",
                 "visibility_rules": "$is_location_active|298"
               }
             ]
@@ -2777,25 +2777,25 @@
               {
                 "name": "Neo",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|299",
+                "access_rules": "^$monkey_accessibility|299",
                 "visibility_rules": "$is_location_active|299"
               },
               {
                 "name": "Tsubasa",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|300",
+                "access_rules": "^$monkey_accessibility|300",
                 "visibility_rules": "$is_location_active|300"
               },
               {
                 "name": "Boba",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|301",
+                "access_rules": "^$monkey_accessibility|301",
                 "visibility_rules": "$is_location_active|301"
               },
               {
                 "name": "Lister",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|302",
+                "access_rules": "^$monkey_accessibility|302",
                 "visibility_rules": "$is_location_active|302"
               }
             ]
@@ -2811,13 +2811,13 @@
               {
                 "name": "G. Ookas",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|303",
+                "access_rules": "^$monkey_accessibility|303",
                 "visibility_rules": "$is_location_active|303"
               },
               {
                 "name": "Scully",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|304",
+                "access_rules": "^$monkey_accessibility|304",
                 "visibility_rules": "$is_location_active|304"
               }
             ]
@@ -2833,13 +2833,13 @@
               {
                 "name": "Kai",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|305",
+                "access_rules": "^$monkey_accessibility|305",
                 "visibility_rules": "$is_location_active|305"
               },
               {
                 "name": "Yoshi",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|306",
+                "access_rules": "^$monkey_accessibility|306",
                 "visibility_rules": "$is_location_active|306"
               }
             ]
@@ -2862,7 +2862,7 @@
               {
                 "name": "Specter",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|307",
+                "access_rules": "^$monkey_accessibility|307",
                 "visibility_rules": "$is_location_active|307"
               }
             ]
@@ -2885,7 +2885,7 @@
               {
                 "name": "Specter",
                 "item_count": 1,
-                "access_rules": "$can_reach_monkey|308",
+                "access_rules": "^$monkey_accessibility|308",
                 "visibility_rules": "setting_final_specter_goal"
               }
             ]

@@ -18,25 +18,25 @@
                   {
                     "name": "Gadget Tutorial",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1001",
+                    "access_rules": "^$phone_accessibility|1001",
                     "visibility_rules": "$is_location_active|1001"
                   },
                   {
                     "name": "Jumping Tutorial",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1002",
+                    "access_rules": "^$phone_accessibility|1002",
                     "visibility_rules": "$is_location_active|1002"
                   },
                   {
                     "name": "Double Jump Tutorial",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1003",
+                    "access_rules": "^$phone_accessibility|1003",
                     "visibility_rules": "$is_location_active|1003"
                   },
                   {
                     "name": "Cookie Tutorial",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1004",
+                    "access_rules": "^$phone_accessibility|1004",
                     "visibility_rules": "$is_location_active|1004"
                   }
                 ]
@@ -58,25 +58,25 @@
                   {
                     "name": "Gadget Select Tutorial",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1005",
+                    "access_rules": "^$phone_accessibility|1005",
                     "visibility_rules": "$is_location_active|1005"
                   },
                   {
                     "name": "Aqua-Blue Pants Monkeys",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1006",
+                    "access_rules": "^$phone_accessibility|1006",
                     "visibility_rules": "$is_location_active|1006"
                   },
                   {
                     "name": "Monkey Bars Tutorial",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1007",
+                    "access_rules": "^$phone_accessibility|1007",
                     "visibility_rules": "$is_location_active|1007"
                   },
                   {
                     "name": "Double Jump Reminder",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1008",
+                    "access_rules": "^$phone_accessibility|1008",
                     "visibility_rules": "$is_location_active|1008"
                   }
                 ]
@@ -98,13 +98,13 @@
                   {
                     "name": "Water Net Tutorial",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1009",
+                    "access_rules": "^$phone_accessibility|1009",
                     "visibility_rules": "$is_location_active|1009"
                   },
                   {
                     "name": "Pipotchi",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1010",
+                    "access_rules": "^$phone_accessibility|1010",
                     "visibility_rules": "$is_location_active|1010"
                   }
                 ]
@@ -126,7 +126,7 @@
                   {
                     "name": "Blue Pants Monkeys",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1011",
+                    "access_rules": "^$phone_accessibility|1011",
                     "visibility_rules": "$is_location_active|1011"
                   }
                 ]
@@ -143,7 +143,7 @@
                   {
                     "name": "Gadget Select Reminder",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1012",
+                    "access_rules": "^$phone_accessibility|1012",
                     "visibility_rules": "$is_location_active|1012"
                   }
                 ]
@@ -160,7 +160,7 @@
                   {
                     "name": "Life Tutorial",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1013",
+                    "access_rules": "^$phone_accessibility|1013",
                     "visibility_rules": "$is_location_active|1013"
                   }
                 ]
@@ -182,7 +182,7 @@
                   {
                     "name": "White Pants Monkeys",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1014",
+                    "access_rules": "^$phone_accessibility|1014",
                     "visibility_rules": "$is_location_active|1014"
                   }
                 ]
@@ -204,7 +204,7 @@
                   {
                     "name": "Climbing Tutorial",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1015",
+                    "access_rules": "^$phone_accessibility|1015",
                     "visibility_rules": "$is_location_active|1015"
                   }
                 ]
@@ -221,7 +221,7 @@
                   {
                     "name": "Pipobot Tutorial",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1016",
+                    "access_rules": "^$phone_accessibility|1016",
                     "visibility_rules": "$is_location_active|1016"
                   }
                 ]
@@ -243,13 +243,13 @@
                   {
                     "name": "Black Pants Monkeys",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1017",
+                    "access_rules": "^$phone_accessibility|1017",
                     "visibility_rules": "$is_location_active|1017"
                   },
                   {
                     "name": "Special Pellets",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1018",
+                    "access_rules": "^$phone_accessibility|1018",
                     "visibility_rules": "$is_location_active|1018"
                   }
                 ]
@@ -271,7 +271,7 @@
                   {
                     "name": "R.C. Car Respawn Tutorial",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1019",
+                    "access_rules": "^$phone_accessibility|1019",
                     "visibility_rules": "$is_location_active|1019"
                   }
                 ]
@@ -288,7 +288,7 @@
                   {
                     "name": "Tiptoe Tutorial",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1020",
+                    "access_rules": "^$phone_accessibility|1020",
                     "visibility_rules": "$is_location_active|1020"
                   }
                 ]
@@ -310,7 +310,7 @@
                   {
                     "name": "Slippery Ice",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1021",
+                    "access_rules": "^$phone_accessibility|1021",
                     "visibility_rules": "$is_location_active|1021"
                   }
                 ]
@@ -327,7 +327,7 @@
                   {
                     "name": "Snowmobile Tutorial",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1022",
+                    "access_rules": "^$phone_accessibility|1022",
                     "visibility_rules": "$is_location_active|1022"
                   }
                 ]
@@ -349,13 +349,13 @@
                   {
                     "name": "Red Pants Monkeys",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1023",
+                    "access_rules": "^$phone_accessibility|1023",
                     "visibility_rules": "$is_location_active|1023"
                   },
                   {
                     "name": "Boat Tutorial",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1024",
+                    "access_rules": "^$phone_accessibility|1024",
                     "visibility_rules": "$is_location_active|1024"
                   }
                 ]
@@ -377,7 +377,7 @@
                   {
                     "name": "Submarine Tutorial",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1025",
+                    "access_rules": "^$phone_accessibility|1025",
                     "visibility_rules": "$is_location_active|1025"
                   }
                 ]
@@ -399,7 +399,7 @@
                   {
                     "name": "Green Pants Monkeys",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1026",
+                    "access_rules": "^$phone_accessibility|1026",
                     "visibility_rules": "$is_location_active|1026"
                   }
                 ]
@@ -421,7 +421,7 @@
                   {
                     "name": "Moving Platform",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1027",
+                    "access_rules": "^$phone_accessibility|1027",
                     "visibility_rules": "$is_location_active|1027"
                   }
                 ]
@@ -443,7 +443,7 @@
                   {
                     "name": "Boat Reminder",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1028",
+                    "access_rules": "^$phone_accessibility|1028",
                     "visibility_rules": "$is_location_active|1028"
                   }
                 ]
@@ -465,7 +465,7 @@
                   {
                     "name": "Dinosaurs",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1029",
+                    "access_rules": "^$phone_accessibility|1029",
                     "visibility_rules": "$is_location_active|1029"
                   }
                 ]
@@ -487,7 +487,7 @@
                   {
                     "name": "Tank Tutorial",
                     "item_count": 1,
-                    "access_rules": "$can_reach_phone|1030",
+                    "access_rules": "^$phone_accessibility|1030",
                     "visibility_rules": "$is_location_active|1030"
                   }
                 ]

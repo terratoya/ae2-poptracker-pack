@@ -12,7 +12,6 @@
   { "name": "Water Cannon", "type": "toggle", "img": "images/items/watercannon.png", "codes": "water_cannon" },
   { "name": "Electro Magnet", "type": "toggle", "img": "images/items/electromagnet.png", "codes": "electro_magnet" },
   { "name": "Power Punch", "type": "toggle", "img": "images/items/magicpunch.png", "codes": "power_punch" },
-  { "name": "Pipotchi", "type": "toggle", "img": "images/items/pipochi.png", "codes": "pipotchi" },
   { "name": "See-All Scope", "type": "toggle", "img": "images/items/seeall.png", "codes": "see_all_scope" },
   {
     "name": "Progressive Catapult",
@@ -87,4 +86,26 @@
   { "name": "Long Jump Logic", "type": "toggle", "img": "images/items/longjump.png", "codes": "setting_long_jump" },
   { "name": "Message Phone Locations", "type": "toggle", "img": "images/locations/phone.png", "codes": "setting_message_phones" },
   { "name": "Final Specter Goal", "type": "toggle", "img": "images/items/specter.png", "codes": "setting_final_specter_goal" }
+,
+{
+  "name": "Playable Character",
+  "type": "progressive",
+  "allow_disabled": false,
+  "loop": true,
+  "initial_stage_idx": 0,
+  "stages": [
+    {
+      "name": "Jimmy/Hikaru",
+      "img": "images/items/hikaru.png",
+      "codes": "character_hikaru",
+      "inherit_codes": false
+    },
+    {
+      "name": "Spike/Kakeru",
+      "img": "images/items/kakeru.png",
+      "codes": "character_kakeru",
+      "inherit_codes": false
+    }
+  ]
+}
 ]
