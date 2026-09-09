@@ -4,7 +4,6 @@ LOGIC_SETTINGS = {
     logic_difficulty = 0,
     damage_boost_logic = true,
     air_crawl_logic = false,
-    air_crawl_behaviour = 0,
     boost_jump_logic = false,
     boost_fly_logic = false,
     long_jump_logic = false,
@@ -34,10 +33,7 @@ function has_item(code) return item_count(code) > 0 end
 
 local function has_archipelago_item(name)
     if name == "Catapult" then
-        if has_item("air_crawl_behaviour_progressive") then
-            return has_item("progressive_catapult")
-        end
-        return has_item("catapult")
+        return has_item("catapult") or has_item("progressive_catapult")
     end
     local code = ITEM_CODES[name]
     return code ~= nil and has_item(code)
@@ -49,16 +45,9 @@ end
 local function is_expert_logic() return GLITCH_MODE or has_item("logic_expert") end
 
 local function can_air_crawl()
-    if (not GLITCH_MODE and not has_item("setting_air_crawl")) or has_item("air_crawl_behaviour_patched") then
-        return false
-    end
-    if has_item("air_crawl_behaviour_progressive") then
-        return has_item("progressive_catapult_2")
-    end
-    if has_item("air_crawl_behaviour_item") then
-        return has_item("catapult") and has_archipelago_item("Air Crawl")
-    end
-    return has_item("catapult")
+    if not GLITCH_MODE and not has_item("setting_air_crawl") then return false end
+    return (has_item("catapult") and has_item("air_crawl")) or
+        has_item("progressive_catapult_2")
 end
 
 local function can_long_jump()
@@ -286,9 +275,7 @@ local function logic_signature()
         "rc_car", "bananarang", "water_cannon", "electro_magnet", "power_punch",
         "character_hikaru", "see_all_scope", "air_crawl", "world_key",
         "logic_normal", "logic_hard", "logic_expert", "setting_hidden_monkeys",
-        "setting_damage_boost", "setting_air_crawl", "air_crawl_behaviour_default",
-        "air_crawl_behaviour_patched", "air_crawl_behaviour_item",
-        "air_crawl_behaviour_progressive", "setting_boost_jump",
+        "setting_damage_boost", "setting_air_crawl", "setting_boost_jump",
         "setting_boost_fly", "setting_long_jump"
     }
     local values = {tostring(GLITCH_MODE)}
@@ -355,9 +342,6 @@ function apply_slot_data(slot_data)
     LOGIC_SETTINGS.damage_boost_logic = slot_data.damage_boost_logic ~= false and
         slot_data.damage_boost_logic ~= 0
     LOGIC_SETTINGS.air_crawl_logic = slot_data.air_crawl_logic == true or slot_data.air_crawl_logic == 1
-    if slot_data.air_crawl_behaviour ~= nil then
-        LOGIC_SETTINGS.air_crawl_behaviour = slot_data.air_crawl_behaviour
-    end
     LOGIC_SETTINGS.boost_jump_logic = slot_data.boost_jump_logic == true or slot_data.boost_jump_logic == 1
     LOGIC_SETTINGS.boost_fly_logic = slot_data.boost_fly_logic == true or slot_data.boost_fly_logic == 1
     LOGIC_SETTINGS.long_jump_logic = slot_data.long_jump_logic == true or slot_data.long_jump_logic == 1
@@ -377,9 +361,6 @@ function apply_slot_data(slot_data)
     set_toggle("setting_air_crawl", LOGIC_SETTINGS.air_crawl_logic)
     set_toggle("setting_message_phones", slot_data.message_phone_locations == true or
         slot_data.message_phone_locations == 1)
-    if slot_data.air_crawl_behaviour ~= nil then
-        set_stage("air_crawl_behaviour_default", LOGIC_SETTINGS.air_crawl_behaviour)
-    end
     set_toggle("setting_damage_boost", LOGIC_SETTINGS.damage_boost_logic)
     set_toggle("setting_boost_jump", LOGIC_SETTINGS.boost_jump_logic)
     set_toggle("setting_boost_fly", LOGIC_SETTINGS.boost_fly_logic)

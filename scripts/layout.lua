@@ -2,13 +2,8 @@ local current_layout = nil
 local show_restocks = true -- Keep manual tracking available before connecting.
 
 function update_other_layout()
-    local behaviour = Tracker:FindObjectForCode("air_crawl_behaviour_default")
-    local stage = behaviour and behaviour.CurrentStage or 0
-    local mode = "default"
-    if stage == 2 then mode = "item"
-    elseif stage == 3 then mode = "progressive" end
-    local path = "layouts/others/" .. mode ..
-        (show_restocks and "_restocks" or "") .. ".jsonc"
+    local path = show_restocks and "layouts/others/default_restocks.jsonc" or
+        "layouts/others/default.jsonc"
     if path ~= current_layout then
         Tracker:AddLayouts(path)
         current_layout = path
@@ -24,6 +19,4 @@ function apply_layout_slot_data(slot_data)
     update_other_layout()
 end
 
-ScriptHost:AddWatchForCode("AE2 other items layout",
-    "air_crawl_behaviour_default", update_other_layout)
 update_other_layout()

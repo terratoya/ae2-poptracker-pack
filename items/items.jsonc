@@ -67,19 +67,6 @@
   },
   { "name": "Hidden Monkey Logic", "type": "toggle", "img": "images/items/hidden.png", "codes": "setting_hidden_monkeys" },
   { "name": "Air Crawl Logic", "type": "toggle", "img": "images/items/aircrawl.png", "codes": "setting_air_crawl" },
-  {
-    "name": "Air Crawl Behaviour",
-    "type": "progressive",
-    "allow_disabled": false,
-    "loop": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      { "name": "Air Crawl Behaviour: Default", "img": "images/items/airdefault.png", "codes": "air_crawl_behaviour_default", "inherit_codes": false },
-      { "name": "Air Crawl Behaviour: Patched", "img": "images/items/airpatched.png", "codes": "air_crawl_behaviour_patched", "inherit_codes": false },
-      { "name": "Air Crawl Behaviour: Item", "img": "images/items/airitem.png", "codes": "air_crawl_behaviour_item", "inherit_codes": false },
-      { "name": "Air Crawl Behaviour: Progressive", "img": "images/items/airprogressive.png", "codes": "air_crawl_behaviour_progressive", "inherit_codes": false }
-    ]
-  },
   { "name": "Damage Boost Logic", "type": "toggle", "initial_active_state": true, "img": "images/items/damageboost.png", "codes": "setting_damage_boost" },
   { "name": "Boost Jump Logic", "type": "toggle", "img": "images/items/jump.png", "codes": "setting_boost_jump" },
   { "name": "Boost Fly Logic", "type": "toggle", "img": "images/items/fly.png", "codes": "setting_boost_fly" },

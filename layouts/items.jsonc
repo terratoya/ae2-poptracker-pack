@@ -32,7 +32,9 @@
       [
         "see_all_scope",
         "world_key",
-        "gotcha_box_restock"
+        "gotcha_box_restock",
+        "progressive_catapult",
+        "air_crawl"
       ]
     ]
   }
