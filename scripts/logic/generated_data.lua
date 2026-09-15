@@ -1461,6 +1461,7 @@ MONKEY_DATA = {
             },
             ["Entry from Bar"] = {
                 {
+                    "Catapult",
                     "Monkey Net"
                 }
             },
@@ -1527,6 +1528,7 @@ MONKEY_DATA = {
             },
             ["Entry from Bar"] = {
                 {
+                    "Catapult",
                     "Monkey Net"
                 }
             },
@@ -1551,6 +1553,7 @@ MONKEY_DATA = {
             },
             ["Entry from Bar"] = {
                 {
+                    "Catapult",
                     "Monkey Net"
                 }
             },
@@ -1575,6 +1578,7 @@ MONKEY_DATA = {
             },
             ["Entry from Bar"] = {
                 {
+                    "Catapult",
                     "Monkey Net"
                 }
             },
@@ -4846,7 +4850,6 @@ MONKEY_DATA = {
                 {
                     "Water Net",
                     "*Gear",
-                    "R.C. Car",
                     "Monkey Net"
                 }
             }
@@ -4867,6 +4870,11 @@ MONKEY_DATA = {
             ["Booby Traps from Moving Platforms #1"] = {
                 {
                     "*Gear",
+                    "*Air Crawl",
+                    "Monkey Net"
+                },
+                {
+                    "*Hard",
                     "Monkey Net"
                 }
             }
@@ -10599,22 +10607,6 @@ LEVEL_DATA = {
                     ["Circus from Entry"] = {
                         {
                             "Catapult"
-                        },
-                        {
-                            "Stun Club",
-                            "*Hard"
-                        },
-                        {
-                            "Power Punch",
-                            "*Hard"
-                        },
-                        {
-                            "Sky Flyer",
-                            "*Hard"
-                        },
-                        {
-                            "*Expert",
-                            "Pipotchi"
                         }
                     }
                 },
@@ -11776,6 +11768,10 @@ LEVEL_DATA = {
                         {
                             "*Gear",
                             "*Air Crawl"
+                        },
+                        {
+                            "*Gear",
+                            "*Hard"
                         }
                     }
                 },
