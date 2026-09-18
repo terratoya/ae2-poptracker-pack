@@ -1,0 +1,244 @@
+{
+  "Liberty Island": [
+    "Entry from Spawn"
+  ],
+  "Breezy Village": [
+    "Entry from Spawn"
+  ],
+  "Port Calm": [
+    "Entry from Spawn",
+    "Entry from Indoors",
+    "Indoors from Entry"
+  ],
+  "Viva Apespania": [
+    "Entry from Spawn",
+    "Entry from Village",
+    "Village from Entry",
+    "Village from Bullring",
+    "Bullring from Village"
+  ],
+  "Blue Monkey Battle!": [
+    "Entry from Spawn"
+  ],
+  "Castle Frightmare": [
+    "Entry from Spawn",
+    "Entry from House",
+    "House from Entry",
+    "House from Dungeon",
+    "Dungeon from House"
+  ],
+  "Vita-Z Factory": [
+    "Entry from Spawn",
+    "Entry from Tunnel",
+    "Entry from Arena",
+    "Tunnel from Entry",
+    "Tunnel from Arena",
+    "Arena from Tunnel",
+    "Arena from Entry"
+  ],
+  "Casino City": [
+    "Entry from Spawn",
+    "Entry from Circus",
+    "Entry from Bar",
+    "Bar from Entry",
+    "Circus from Entry"
+  ],
+  "Ninja Hideout": [
+    "Entry from Spawn",
+    "Entry from Second Room",
+    "Second Room from Entry",
+    "Second Room from Third Room Start",
+    "Second Room from Third Room End",
+    "Third Room Start from Second Room",
+    "Third Room End from Second Room"
+  ],
+  "Yellow Monkey Battle!": [
+    "Entry from Spawn"
+  ],
+  "Snowball Mountain": [
+    "Entry from Spawn",
+    "Entry from Christmas Tree",
+    "Entry from Ski Hill",
+    "Christmas Tree from Entry",
+    "Christmas Tree from Ski Hill",
+    "Ski Hill from Entry",
+    "Ski Hill from Christmas Tree"
+  ],
+  "Lookout Valley": [
+    "Entry from Spawn",
+    "Entry from Cave End",
+    "Entry from Cave Start",
+    "Entry from Jungle Start",
+    "Entry from Jungle End",
+    "Jungle Start from Entry",
+    "Jungle End from Entry",
+    "Cave Start from Entry",
+    "Cave End from Entry"
+  ],
+  "The Blue Baboon": [
+    "Entry from Spawn",
+    "Entry from Ship",
+    "Entry from Bananarang Room",
+    "Entry from Changing Hut",
+    "Changing Hut from Entry",
+    "Ship from Entry",
+    "Bananarang Room from Entry"
+  ],
+  "Pink Monkey Battle!": [
+    "Entry from Spawn"
+  ],
+  "Enter the Monkey": [
+    "Entry from Spawn",
+    "Entry from Inside Start",
+    "Entry from Inside End",
+    "Entry from Wall Start",
+    "Entry from Wall End",
+    "Inside Start from Entry",
+    "Inside End from Entry",
+    "Wall Start from Entry",
+    "Wall End from Entry"
+  ],
+  "Simian Citadel": [
+    "Entry from Spawn",
+    "Entry from Bullring",
+    "Entry from Fountain",
+    "Bullring from Entry",
+    "Bullring from Whale",
+    "Whale from Bullring",
+    "Whale from Submarine",
+    "Submarine from Whale",
+    "Submarine from Fountain",
+    "Fountain from Submarine",
+    "Fountain from Entry"
+  ],
+  "Panic Pyramid": [
+    "Entry from Spawn",
+    "Entry from Booby Traps",
+    "Entry from Moving Platforms #2",
+    "Entry from Boulders Start",
+    "Entry from Boulders End",
+    "Booby Traps from Entry",
+    "Booby Traps from Moving Platforms #1",
+    "Moving Platforms #1 from Booby Traps",
+    "Moving Platforms #1 from Moving Platforms #2",
+    "Moving Platforms #2 from Moving Platforms #1",
+    "Moving Platforms #2 from Entry",
+    "Boulders Start from Entry",
+    "Boulders End from Entry"
+  ],
+  "White Monkey Battle!": [
+    "Entry from Spawn"
+  ],
+  "Pirate Isle": [
+    "Entry from Spawn",
+    "Entry from Cave Entrance",
+    "Entry from Mine",
+    "Cave Entrance from Entry",
+    "Cave Entrance from Boat",
+    "Boat from Cave Entrance",
+    "Boat from Cell",
+    "Boat from Treasure",
+    "Boat from Mine",
+    "Cell from Boat",
+    "Treasure from Boat",
+    "Mine from Boat",
+    "Mine from Entry"
+  ],
+  "Land of the Apes": [
+    "Entry from Spawn",
+    "Entry from Icicles",
+    "Icicles from Entry",
+    "Icicles from Spa",
+    "Icicles from Ski Hill",
+    "Spa from Icicles",
+    "Ski Hill from Icicles"
+  ],
+  "The Lost World": [
+    "Entry from Spawn",
+    "Entry from Trees",
+    "Entry from Pterodactyls",
+    "Trees from Entry",
+    "Trees from T-Rex",
+    "T-Rex from Trees",
+    "T-Rex from Pterodactyls",
+    "Pterodactyls from T-Rex",
+    "Pterodactyls from Entry"
+  ],
+  "Red Monkey Battle!": [
+    "Entry from Spawn"
+  ],
+  "Skyscraper City": [
+    "Entry from Spawn",
+    "Entry from Lobby",
+    "Lobby from Entry",
+    "Lobby from Sewer Start",
+    "Lobby from Sewer End",
+    "Lobby from Tank",
+    "Lobby from Final Room",
+    "Sewer Start from Lobby",
+    "Sewer End from Lobby",
+    "Tank from Lobby",
+    "Tank from Final Room",
+    "Final Room from Tank",
+    "Final Room from Lobby"
+  ],
+  "Code C.H.I.M.P.": [
+    "Entry from Spawn",
+    "Entry from Base Entrance",
+    "Entry from Moving Platforms",
+    "Base Entrance from Entry",
+    "Base Entrance from Tank",
+    "Tank from Base Entrance",
+    "Tank from Treadmills",
+    "Treadmills from Tank",
+    "Treadmills from Moving Platforms",
+    "Moving Platforms from Treadmills",
+    "Moving Platforms from Magnetic Panels Start",
+    "Moving Platforms from Magnetic Panels End",
+    "Moving Platforms from Entry",
+    "Magnetic Panels Start from Moving Platforms",
+    "Magnetic Panels End from Moving Platforms"
+  ],
+  "Giant Yellow Monkey Battle!": [
+    "Entry from Spawn"
+  ],
+  "Moon Base": [
+    "Entry from Spawn",
+    "Entry from Wheel",
+    "Entry from UFO Arena",
+    "Entry from Armoured Monkey Arena",
+    "Entry from Robot",
+    "Entry from Moving Platforms",
+    "Entry from Mech Arena",
+    "Entry from Inside Climb",
+    "Entry from Bomb",
+    "Wheel from Entry",
+    "UFO Arena from Entry",
+    "UFO Arena from Rotating Magnets",
+    "Rotating Magnets from UFO Arena",
+    "Rotating Magnets from Armoured Monkey Arena",
+    "Armoured Monkey Arena from Rotating Magnets",
+    "Armoured Monkey Arena from Entry",
+    "Robot from Entry",
+    "Moving Platforms from Entry",
+    "Moving Platforms from Magnetic Panels",
+    "Magnetic Panels from Moving Platforms",
+    "Magnetic Panels from Mech Arena",
+    "Mech Arena from Magnetic Panels",
+    "Mech Arena from Entry",
+    "Inside Climb from Entry",
+    "Inside Climb from Outside Climb Start",
+    "Inside Climb from Outside Climb End",
+    "Inside Climb from Bomb",
+    "Outside Climb Start from Inside Climb",
+    "Outside Climb End from Inside Climb",
+    "Bomb from Entry",
+    "Bomb from Inside Climb"
+  ],
+  "Showdown with Specter!": [
+    "Entry from Spawn"
+  ],
+  "Final Showdown with Specter!": [
+    "Entry from Spawn"
+  ]
+}

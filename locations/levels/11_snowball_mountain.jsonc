@@ -1,0 +1,286 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Snowball Mountain - Map",
+    "children": [
+      {
+        "name": "Bernie",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Snowball Mountain/Entry/Monkeys/Bernie"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Snowball Mountain",
+            "x": 675,
+            "y": 309
+          }
+        ]
+      },
+      {
+        "name": "Zebedee",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Snowball Mountain/Entry/Monkeys/Zebedee"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Snowball Mountain",
+            "x": 570,
+            "y": 510
+          }
+        ]
+      },
+      {
+        "name": "Jibber",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Snowball Mountain/Entry/Monkeys/Jibber"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Snowball Mountain",
+            "x": 537,
+            "y": 355
+          }
+        ]
+      },
+      {
+        "name": "Threedee",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Snowball Mountain/Entry/Monkeys/Threedee"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Snowball Mountain",
+            "x": 522,
+            "y": 268
+          }
+        ]
+      },
+      {
+        "name": "Monkey Claus",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Snowball Mountain/Christmas Tree/Monkeys/Monkey Claus"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Snowball Mountain",
+            "x": 1845,
+            "y": 410
+          }
+        ]
+      },
+      {
+        "name": "Chill",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Snowball Mountain/Christmas Tree/Monkeys/Chill"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Snowball Mountain",
+            "x": 1730,
+            "y": 595
+          }
+        ]
+      },
+      {
+        "name": "Parka",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Snowball Mountain/Christmas Tree/Monkeys/Parka"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Snowball Mountain",
+            "x": 1602,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "Raver",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Snowball Mountain/Christmas Tree/Monkeys/Raver"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Snowball Mountain",
+            "x": 1577,
+            "y": 638
+          }
+        ]
+      },
+      {
+        "name": "Elodie",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Snowball Mountain/Ski Hill/Monkeys/Elodie"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Snowball Mountain",
+            "x": 766,
+            "y": 995
+          }
+        ]
+      },
+      {
+        "name": "Davee",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Snowball Mountain/Ski Hill/Monkeys/Davee"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Snowball Mountain",
+            "x": 710,
+            "y": 1329
+          }
+        ]
+      },
+      {
+        "name": "Big Bopper",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Snowball Mountain/Ski Hill/Monkeys/Big Bopper"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Snowball Mountain",
+            "x": 664,
+            "y": 1315
+          }
+        ]
+      },
+      {
+        "name": "Jimmy",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Snowball Mountain/Ski Hill/Monkeys/Jimmy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Snowball Mountain",
+            "x": 752,
+            "y": 940
+          }
+        ]
+      },
+      {
+        "name": "Eddie the Falcon",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Snowball Mountain/Ski Hill/Monkeys/Eddie the Falcon"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Snowball Mountain",
+            "x": 733,
+            "y": 885
+          }
+        ]
+      },
+      {
+        "name": "Zippy",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Snowball Mountain/Ski Hill/Monkeys/Zippy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Snowball Mountain",
+            "x": 713,
+            "y": 840
+          }
+        ]
+      },
+      {
+        "name": "Slippery Ice",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Snowball Mountain/Christmas Tree/Phones/Slippery Ice"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Snowball Mountain",
+            "x": 1430,
+            "y": 788,
+            "size": 33,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      },
+      {
+        "name": "Snowmobile Tutorial",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Snowball Mountain/Ski Hill/Phones/Snowmobile Tutorial"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Snowball Mountain",
+            "x": 815,
+            "y": 852,
+            "size": 33,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      }
+    ]
+  }
+]

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate PopTracker data from the Ape Escape 2 Archipelago world."""
+"""Update only access logic from the Ape Escape 2 Archipelago world."""
 
 from __future__ import annotations
 
@@ -243,7 +243,7 @@ def build_ui_locations(levels: list[dict[str, Any]], monkeys: list[dict[str, Any
                 "visibility_rules": f"$is_level_active|{level_name}",
                 "map_locations": [
                     {
-                        "map": "Level Select",
+                        "map": "Travel Station",
                         "x": x_positions[index % columns],
                         "y": y_positions[index // columns],
                     }
@@ -314,7 +314,7 @@ def build_phone_ui(levels: list[dict[str, Any]], phones: list[dict[str, Any]]) -
                 "chest_opened_img": "images/locations/phone_checked.png",
                 "visibility_rules": "setting_message_phones",
                 "sections": [{"ref": phone_path(phone)[1:]} for phone in by_level[level_name]],
-                "map_locations": [{"map": "Level Select", "x": 180 + column * 225, "y": 170 + row * 220, "size": 32}],
+                "map_locations": [{"map": "Travel Station", "x": 180 + column * 225, "y": 170 + row * 220, "size": 32, "shape": "diamond"}],
             }
         )
     return result
@@ -359,7 +359,7 @@ def build_gotcha_box_ui() -> list[dict[str, Any]]:
             "visibility_rules": f"$is_gotcha_box_range_active|{start}|{end}",
             "sections": [{"ref": gotcha_box_path(number)[1:]} for number in range(start, end + 1)],
             "map_locations": [{
-                "map": "Level Select",
+                "map": "Travel Station",
                 # Two rows of five markers over the Gotcha Box tile.
                 "x": 1636 + (chunk_index % 5) * 32,
                 "y": 150 + (chunk_index // 5) * 36,
@@ -500,25 +500,31 @@ def main() -> None:
 
     validate(levels, monkeys, phones, item_ids)
 
-    write_jsonc(output / "locations" / "logic" / "monkeys.jsonc", build_logic_locations(levels, monkeys), revision)
-    write_jsonc(output / "locations" / "ui" / "levels.jsonc", build_ui_locations(levels, monkeys), revision)
-    write_jsonc(output / "locations" / "logic" / "phones.jsonc", build_phone_logic(phones), revision)
-    write_jsonc(output / "locations" / "ui" / "phones.jsonc", build_phone_ui(levels, phones), revision)
-    write_jsonc(output / "locations" / "logic" / "gotcha_box.jsonc", build_gotcha_box_logic(), revision)
-    write_jsonc(output / "locations" / "ui" / "gotcha_box.jsonc", build_gotcha_box_ui(), revision)
+    # Presentation and AP identities are maintained locally, never regenerated.
+    mapping = output / "scripts/autotracking/location_mapping.lua"
+    existing_mapping = mapping.read_text(encoding="utf-8").splitlines()[1:]
+    incoming_mapping = build_location_mapping(monkeys, phones, revision).splitlines()[1:]
+    if existing_mapping != incoming_mapping:
+        raise ValueError("Location IDs, names or rooms changed. Manual migration required; no files written.")
+    item_mapping = output / "scripts/autotracking/item_mapping.lua"
+    if item_mapping.read_text(encoding="utf-8").splitlines()[1:] != build_item_mapping(item_ids, revision).splitlines()[1:]:
+        raise ValueError("Item IDs changed. Manual migration required; no files written.")
+    catalog = json.loads((Path(__file__).parent / "logic_catalog.json").read_text(encoding="utf-8"))
+    incoming_catalog = {
+        level["name"]: [entrance["name"] for entrance in
+                        level.get("room_entrances", [{"name": "Entry from Spawn"}])]
+        for level in levels
+    }
+    if catalog != incoming_catalog:
+        raise ValueError("Levels or entrance identities changed. Manual migration required; no files written.")
 
     generated_logic = build_generated_logic(levels, monkeys, phones, revision)
     generated_logic_path = output / "scripts" / "logic" / "generated_data.lua"
     generated_logic_path.parent.mkdir(parents=True, exist_ok=True)
     generated_logic_path.write_text(generated_logic, encoding="utf-8")
 
-    mappings_path = output / "scripts" / "autotracking"
-    mappings_path.mkdir(parents=True, exist_ok=True)
-    (mappings_path / "location_mapping.lua").write_text(build_location_mapping(monkeys, phones, revision), encoding="utf-8")
-    (mappings_path / "item_mapping.lua").write_text(build_item_mapping(item_ids, revision), encoding="utf-8")
-
-    print(f"Generated {len(levels)} levels, {len(monkeys)} monkey locations, {len(phones)} phone locations, "
-          f"999 Gotcha Box locations, and {len(CORE_ITEMS)} item mappings.")
+    print(f"Updated access logic for {len(levels)} levels, {len(monkeys)} monkeys and {len(phones)} phones.")
+    print("Maps, positions, icons, location definitions and AP mappings were preserved.")
     print(f"Source revision: {revision}")
 
 

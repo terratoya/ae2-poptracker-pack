@@ -1,0 +1,334 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "The Lost World - Map",
+    "children": [
+      {
+        "name": "Homer",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "The Lost World/Entry/Monkeys/Homer"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Lost World",
+            "x": 373,
+            "y": 397
+          }
+        ]
+      },
+      {
+        "name": "Sam",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "The Lost World/Entry/Monkeys/Sam"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Lost World",
+            "x": 268,
+            "y": 538
+          }
+        ]
+      },
+      {
+        "name": "Grant",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "The Lost World/Entry/Monkeys/Grant"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Lost World",
+            "x": 557,
+            "y": 698
+          }
+        ]
+      },
+      {
+        "name": "Mervin",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "The Lost World/Entry/Monkeys/Mervin"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Lost World",
+            "x": 493,
+            "y": 480
+          }
+        ]
+      },
+      {
+        "name": "Terry",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "The Lost World/Pterodacytls/Monkeys/Terry"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Lost World",
+            "x": 1706,
+            "y": 797
+          }
+        ]
+      },
+      {
+        "name": "Murdoch",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "The Lost World/Pterodactyls/Monkeys/Murdoch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Lost World",
+            "x": 2073,
+            "y": 640
+          }
+        ]
+      },
+      {
+        "name": "Monko Polo",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "The Lost World/Pterodactyls/Monkeys/Monko Polo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Lost World",
+            "x": 1404,
+            "y": 752
+          }
+        ]
+      },
+      {
+        "name": "Emma",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "The Lost World/Pterodactyls/Monkeys/Emma"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Lost World",
+            "x": 1445,
+            "y": 655
+          }
+        ]
+      },
+      {
+        "name": "Stumpy",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "The Lost World/Trees/Monkeys/Stumpy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Lost World",
+            "x": 1423,
+            "y": 1804
+          }
+        ]
+      },
+      {
+        "name": "Baz",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "The Lost World/Trees/Monkeys/Baz"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Lost World",
+            "x": 1846,
+            "y": 1712
+          }
+        ]
+      },
+      {
+        "name": "Des",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "The Lost World/Trees/Monkeys/Des"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Lost World",
+            "x": 1600,
+            "y": 1688
+          }
+        ]
+      },
+      {
+        "name": "Christy",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "The Lost World/Trees/Monkeys/Christy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Lost World",
+            "x": 1413,
+            "y": 1682
+          }
+        ]
+      },
+      {
+        "name": "Stanley",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "The Lost World/Trees/Monkeys/Stanley"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Lost World",
+            "x": 1483,
+            "y": 1903
+          }
+        ]
+      },
+      {
+        "name": "Lewis",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "The Lost World/T-Rex/Monkeys/Lewis"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Lost World",
+            "x": 588,
+            "y": 1617
+          }
+        ]
+      },
+      {
+        "name": "Prince",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "The Lost World/T-Rex/Monkeys/Prince"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Lost World",
+            "x": 888,
+            "y": 1246
+          }
+        ]
+      },
+      {
+        "name": "Lunch",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "The Lost World/T-Rex/Monkeys/Lunch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Lost World",
+            "x": 563,
+            "y": 1556
+          }
+        ]
+      },
+      {
+        "name": "Ovett",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "The Lost World/T-Rex/Monkeys/Ovett"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Lost World",
+            "x": 534,
+            "y": 1496
+          }
+        ]
+      },
+      {
+        "name": "Babe",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "The Lost World/T-Rex/Monkeys/Babe"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Lost World",
+            "x": 888,
+            "y": 1368
+          }
+        ]
+      },
+      {
+        "name": "Dinosaurs",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/The Lost World/Entry/Phones/Dinosaurs"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Lost World",
+            "x": 360,
+            "y": 590,
+            "size": 36,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      }
+    ]
+  }
+]

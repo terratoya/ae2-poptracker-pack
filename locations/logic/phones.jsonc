@@ -1,4 +1,4 @@
-// Generated from ae2_archipelago revision unknown. Do not edit manually.
+// Locally maintained presentation. Mod imports update only scripts/logic/generated_data.lua.
 [
   {
     "name": "Phone Logic",
@@ -19,25 +19,33 @@
                     "name": "Gadget Tutorial",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1001",
-                    "visibility_rules": "$is_location_active|1001"
+                    "visibility_rules": "$is_location_active|1001",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   },
                   {
                     "name": "Jumping Tutorial",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1002",
-                    "visibility_rules": "$is_location_active|1002"
+                    "visibility_rules": "$is_location_active|1002",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   },
                   {
                     "name": "Double Jump Tutorial",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1003",
-                    "visibility_rules": "$is_location_active|1003"
+                    "visibility_rules": "$is_location_active|1003",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   },
                   {
                     "name": "Cookie Tutorial",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1004",
-                    "visibility_rules": "$is_location_active|1004"
+                    "visibility_rules": "$is_location_active|1004",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -59,25 +67,33 @@
                     "name": "Gadget Select Tutorial",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1005",
-                    "visibility_rules": "$is_location_active|1005"
+                    "visibility_rules": "$is_location_active|1005",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   },
                   {
                     "name": "Aqua-Blue Pants Monkeys",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1006",
-                    "visibility_rules": "$is_location_active|1006"
+                    "visibility_rules": "$is_location_active|1006",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   },
                   {
                     "name": "Monkey Bars Tutorial",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1007",
-                    "visibility_rules": "$is_location_active|1007"
+                    "visibility_rules": "$is_location_active|1007",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   },
                   {
                     "name": "Double Jump Reminder",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1008",
-                    "visibility_rules": "$is_location_active|1008"
+                    "visibility_rules": "$is_location_active|1008",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -99,13 +115,17 @@
                     "name": "Water Net Tutorial",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1009",
-                    "visibility_rules": "$is_location_active|1009"
+                    "visibility_rules": "$is_location_active|1009",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   },
                   {
                     "name": "Pipotchi",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1010",
-                    "visibility_rules": "$is_location_active|1010"
+                    "visibility_rules": "$is_location_active|1010",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -127,7 +147,9 @@
                     "name": "Blue Pants Monkeys",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1011",
-                    "visibility_rules": "$is_location_active|1011"
+                    "visibility_rules": "$is_location_active|1011",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -144,7 +166,9 @@
                     "name": "Gadget Select Reminder",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1012",
-                    "visibility_rules": "$is_location_active|1012"
+                    "visibility_rules": "$is_location_active|1012",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -161,7 +185,9 @@
                     "name": "Life Tutorial",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1013",
-                    "visibility_rules": "$is_location_active|1013"
+                    "visibility_rules": "$is_location_active|1013",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -183,7 +209,9 @@
                     "name": "White Pants Monkeys",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1014",
-                    "visibility_rules": "$is_location_active|1014"
+                    "visibility_rules": "$is_location_active|1014",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -205,7 +233,9 @@
                     "name": "Climbing Tutorial",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1015",
-                    "visibility_rules": "$is_location_active|1015"
+                    "visibility_rules": "$is_location_active|1015",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -222,7 +252,9 @@
                     "name": "Pipobot Tutorial",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1016",
-                    "visibility_rules": "$is_location_active|1016"
+                    "visibility_rules": "$is_location_active|1016",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -244,13 +276,17 @@
                     "name": "Black Pants Monkeys",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1017",
-                    "visibility_rules": "$is_location_active|1017"
+                    "visibility_rules": "$is_location_active|1017",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   },
                   {
                     "name": "Special Pellets",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1018",
-                    "visibility_rules": "$is_location_active|1018"
+                    "visibility_rules": "$is_location_active|1018",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -272,7 +308,9 @@
                     "name": "R.C. Car Respawn Tutorial",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1019",
-                    "visibility_rules": "$is_location_active|1019"
+                    "visibility_rules": "$is_location_active|1019",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -289,7 +327,9 @@
                     "name": "Tiptoe Tutorial",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1020",
-                    "visibility_rules": "$is_location_active|1020"
+                    "visibility_rules": "$is_location_active|1020",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -311,7 +351,9 @@
                     "name": "Slippery Ice",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1021",
-                    "visibility_rules": "$is_location_active|1021"
+                    "visibility_rules": "$is_location_active|1021",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -328,7 +370,9 @@
                     "name": "Snowmobile Tutorial",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1022",
-                    "visibility_rules": "$is_location_active|1022"
+                    "visibility_rules": "$is_location_active|1022",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -350,13 +394,17 @@
                     "name": "Red Pants Monkeys",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1023",
-                    "visibility_rules": "$is_location_active|1023"
+                    "visibility_rules": "$is_location_active|1023",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   },
                   {
                     "name": "Boat Tutorial",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1024",
-                    "visibility_rules": "$is_location_active|1024"
+                    "visibility_rules": "$is_location_active|1024",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -378,7 +426,9 @@
                     "name": "Submarine Tutorial",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1025",
-                    "visibility_rules": "$is_location_active|1025"
+                    "visibility_rules": "$is_location_active|1025",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -400,7 +450,9 @@
                     "name": "Green Pants Monkeys",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1026",
-                    "visibility_rules": "$is_location_active|1026"
+                    "visibility_rules": "$is_location_active|1026",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -422,7 +474,9 @@
                     "name": "Moving Platform",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1027",
-                    "visibility_rules": "$is_location_active|1027"
+                    "visibility_rules": "$is_location_active|1027",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -444,7 +498,9 @@
                     "name": "Boat Reminder",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1028",
-                    "visibility_rules": "$is_location_active|1028"
+                    "visibility_rules": "$is_location_active|1028",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -466,7 +522,9 @@
                     "name": "Dinosaurs",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1029",
-                    "visibility_rules": "$is_location_active|1029"
+                    "visibility_rules": "$is_location_active|1029",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }
@@ -488,7 +546,9 @@
                     "name": "Tank Tutorial",
                     "item_count": 1,
                     "access_rules": "^$phone_accessibility|1030",
-                    "visibility_rules": "$is_location_active|1030"
+                    "visibility_rules": "$is_location_active|1030",
+                    "chest_unopened_img": "images/locations/phone.png",
+                    "chest_opened_img": "images/locations/phone_checked.png"
                   }
                 ]
               }

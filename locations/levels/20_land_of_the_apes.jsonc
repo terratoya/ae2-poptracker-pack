@@ -1,0 +1,365 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Land of the Apes - Map",
+    "children": [
+      {
+        "name": "Rupert",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Spa/Monkeys/Rupert"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 1055,
+            "y": 1193
+          }
+        ]
+      },
+      {
+        "name": "Craig",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Spa/Monkeys/Craig"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 405,
+            "y": 1330
+          }
+        ]
+      },
+      {
+        "name": "Hear No Evil",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Spa/Monkeys/Hear No Evil"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 905,
+            "y": 1066
+          }
+        ]
+      },
+      {
+        "name": "Brian",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Spa/Monkeys/Brian"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 390,
+            "y": 910
+          }
+        ]
+      },
+      {
+        "name": "Smell No Evil",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Spa/Monkeys/Smell No Evil"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 908,
+            "y": 1165
+          }
+        ]
+      },
+      {
+        "name": "Speak No Evil",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Spa/Monkeys/Speak No Evil"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 912,
+            "y": 1267
+          }
+        ]
+      },
+      {
+        "name": "Bones",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Spa/Monkeys/Bones"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 648,
+            "y": 1273
+          }
+        ]
+      },
+      {
+        "name": "Mr Frosty",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Spa/Monkeys/Mr Frosty"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 256,
+            "y": 1461
+          }
+        ]
+      },
+      {
+        "name": "Lynn",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Spa/Monkeys/Lynn"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 684,
+            "y": 1230
+          }
+        ]
+      },
+      {
+        "name": "Lars",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Icicles/Monkeys/Lars"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 1250,
+            "y": 122
+          }
+        ]
+      },
+      {
+        "name": "Stone",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Icicles/Monkeys/Stone"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 1256,
+            "y": 1192
+          }
+        ]
+      },
+      {
+        "name": "Seb",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Icicles/Monkeys/Seb"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 1917,
+            "y": 407
+          }
+        ]
+      },
+      {
+        "name": "Torvill",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Icicles/Monkeys/Torvill"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 1740,
+            "y": 558
+          }
+        ]
+      },
+      {
+        "name": "Dean",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Icicles/Monkeys/Dean"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 1788,
+            "y": 602
+          }
+        ]
+      },
+      {
+        "name": "Monkski",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Ski Hill/Monkeys/Monkski"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 1865,
+            "y": 1800
+          }
+        ]
+      },
+      {
+        "name": "Robinson",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Ski Hill/Monkeys/Robinson"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 1818,
+            "y": 1830
+          }
+        ]
+      },
+      {
+        "name": "Murray",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Ski Hill/Monkeys/Murray"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 1718,
+            "y": 1841
+          }
+        ]
+      },
+      {
+        "name": "Linz",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Ski Hill/Monkeys/Linz"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 1833,
+            "y": 1762
+          }
+        ]
+      },
+      {
+        "name": "Philippe",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Ski Hill/Monkeys/Philippe"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 2000,
+            "y": 1928
+          }
+        ]
+      },
+      {
+        "name": "Mona",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Entry/Monkeys/Mona"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 550,
+            "y": 305
+          }
+        ]
+      },
+      {
+        "name": "Patrick",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Land of the Apes/Entry/Monkeys/Patrick"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Land of the Apes",
+            "x": 922,
+            "y": 447
+          }
+        ]
+      }
+    ]
+  }
+]

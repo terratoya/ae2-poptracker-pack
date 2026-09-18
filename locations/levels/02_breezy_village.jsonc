@@ -1,0 +1,190 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Breezy Village - Map",
+    "children": [
+      {
+        "name": "Dozy",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Breezy Village/Entry/Monkeys/Dozy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Breezy Village",
+            "x": 461,
+            "y": 55
+          }
+        ]
+      },
+      {
+        "name": "Baboondini",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Breezy Village/Entry/Monkeys/Baboondini"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Breezy Village",
+            "x": 592,
+            "y": 424
+          }
+        ]
+      },
+      {
+        "name": "Walter",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Breezy Village/Entry/Monkeys/Walter"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Breezy Village",
+            "x": 245,
+            "y": 265
+          }
+        ]
+      },
+      {
+        "name": "Jon",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Breezy Village/Entry/Monkeys/Jon"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Breezy Village",
+            "x": 140,
+            "y": 164
+          }
+        ]
+      },
+      {
+        "name": "Crusty",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Breezy Village/Entry/Monkeys/Crusty"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Breezy Village",
+            "x": 571,
+            "y": 134
+          }
+        ]
+      },
+      {
+        "name": "Balboa",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Breezy Village/Entry/Monkeys/Balboa"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Breezy Village",
+            "x": 431,
+            "y": 451
+          }
+        ]
+      },
+      {
+        "name": "Gadget Select Tutorial",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Breezy Village/Entry/Phones/Gadget Select Tutorial"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Breezy Village",
+            "x": 155,
+            "y": 400,
+            "size": 16,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      },
+      {
+        "name": "Aqua-Blue Pants Monkeys",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Breezy Village/Entry/Phones/Aqua-Blue Pants Monkeys"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Breezy Village",
+            "x": 180,
+            "y": 220,
+            "size": 16,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      },
+      {
+        "name": "Monkey Bars Tutorial",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Breezy Village/Entry/Phones/Monkey Bars Tutorial"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Breezy Village",
+            "x": 250,
+            "y": 120,
+            "size": 16,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      },
+      {
+        "name": "Double Jump Reminder",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Breezy Village/Entry/Phones/Double Jump Reminder"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Breezy Village",
+            "x": 489,
+            "y": 515,
+            "size": 16,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      }
+    ]
+  }
+]

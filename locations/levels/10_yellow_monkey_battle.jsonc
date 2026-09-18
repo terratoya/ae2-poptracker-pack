@@ -1,0 +1,25 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Yellow Monkey Battle! - Map",
+    "children": [
+      {
+        "name": "Yellow Monkey",
+        "chest_unopened_img": "images/locations/bossyellow.png",
+        "chest_opened_img": "images/locations/bossyellow_checked.png",
+        "sections": [
+          {
+            "ref": "Yellow Monkey Battle!/Entry/Monkeys/Yellow Monkey"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Yellow Monkey Battle!",
+            "x": 276,
+            "y": 265
+          }
+        ]
+      }
+    ]
+  }
+]

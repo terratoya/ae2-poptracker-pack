@@ -1,0 +1,320 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Ninja Hideout - Map",
+    "children": [
+      {
+        "name": "Snooz",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Ninja Hideout/Entry/Monkeys/Snooz"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ninja Hideout",
+            "x": 560,
+            "y": 570
+          }
+        ]
+      },
+      {
+        "name": "Twiggy",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Ninja Hideout/Entry/Monkeys/Twiggy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ninja Hideout",
+            "x": 350,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "Harry Karry",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Ninja Hideout/Entry/Monkeys/Harry Karry"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ninja Hideout",
+            "x": 732,
+            "y": 643
+          }
+        ]
+      },
+      {
+        "name": "Chan",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Ninja Hideout/Entry/Monkeys/Chan"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ninja Hideout",
+            "x": 955,
+            "y": 845
+          }
+        ]
+      },
+      {
+        "name": "Duncan",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Ninja Hideout/Entry/Monkeys/Duncan"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ninja Hideout",
+            "x": 892,
+            "y": 360
+          }
+        ]
+      },
+      {
+        "name": "Somnia",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Ninja Hideout/Entry/Monkeys/Somnia"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ninja Hideout",
+            "x": 155,
+            "y": 610
+          }
+        ]
+      },
+      {
+        "name": "Hideyoshi",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Ninja Hideout/Second Room/Monkeys/Hideyoshi"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ninja Hideout",
+            "x": 1742,
+            "y": 960
+          }
+        ]
+      },
+      {
+        "name": "Takashi",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Ninja Hideout/Second Room/Monkeys/Takashi"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ninja Hideout",
+            "x": 1772,
+            "y": 453
+          }
+        ]
+      },
+      {
+        "name": "Rapido",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Ninja Hideout/Second Room/Monkeys/Rapido"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ninja Hideout",
+            "x": 1218,
+            "y": 622
+          }
+        ]
+      },
+      {
+        "name": "Jim",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Ninja Hideout/Second Room/Monkeys/Jim"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ninja Hideout",
+            "x": 1450,
+            "y": 548
+          }
+        ]
+      },
+      {
+        "name": "Bon-o",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Ninja Hideout/Second Room/Monkeys/Bon-o"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ninja Hideout",
+            "x": 1603,
+            "y": 943
+          }
+        ]
+      },
+      {
+        "name": "Boxer",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Ninja Hideout/Second Room/Monkeys/Boxer"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ninja Hideout",
+            "x": 1645,
+            "y": 77
+          }
+        ]
+      },
+      {
+        "name": "Chuck",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Ninja Hideout/Second Room/Monkeys/Chuck"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ninja Hideout",
+            "x": 1563,
+            "y": 90
+          }
+        ]
+      },
+      {
+        "name": "Shiho",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Ninja Hideout/Second Room/Monkeys/Shiho"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ninja Hideout",
+            "x": 1657,
+            "y": 280
+          }
+        ]
+      },
+      {
+        "name": "Ledski",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Ninja Hideout/Third Room/Monkeys/Ledski"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ninja Hideout",
+            "x": 2052,
+            "y": 1064
+          }
+        ]
+      },
+      {
+        "name": "Harvey",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Ninja Hideout/Third Room/Monkeys/Harvey"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ninja Hideout",
+            "x": 2123,
+            "y": 452
+          }
+        ]
+      },
+      {
+        "name": "R.C. Car Respawn Tutorial",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Ninja Hideout/Entry/Phones/R.C. Car Respawn Tutorial"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ninja Hideout",
+            "x": 190,
+            "y": 500,
+            "size": 30,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      },
+      {
+        "name": "Tiptoe Tutorial",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Ninja Hideout/Second Room/Phones/Tiptoe Tutorial"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ninja Hideout",
+            "x": 1720,
+            "y": 1040,
+            "size": 30,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      }
+    ]
+  }
+]

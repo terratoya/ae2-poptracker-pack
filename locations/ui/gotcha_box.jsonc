@@ -1,4 +1,4 @@
-// Generated from ae2_archipelago revision unknown. Do not edit manually.
+// Locally maintained presentation. Mod imports update only scripts/logic/generated_data.lua.
 [
   {
     "name": "Gotcha Box #1-100",
@@ -309,7 +309,7 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1636,
         "y": 150,
         "size": 26
@@ -625,7 +625,7 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1668,
         "y": 150,
         "size": 26
@@ -941,7 +941,7 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1700,
         "y": 150,
         "size": 26
@@ -1257,7 +1257,7 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1732,
         "y": 150,
         "size": 26
@@ -1573,7 +1573,7 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1764,
         "y": 150,
         "size": 26
@@ -1889,7 +1889,7 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1636,
         "y": 186,
         "size": 26
@@ -2205,7 +2205,7 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1668,
         "y": 186,
         "size": 26
@@ -2521,7 +2521,7 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1700,
         "y": 186,
         "size": 26
@@ -2837,7 +2837,7 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1732,
         "y": 186,
         "size": 26
@@ -3150,7 +3150,7 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1764,
         "y": 186,
         "size": 26

@@ -1,0 +1,184 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Port Calm - Map",
+    "children": [
+      {
+        "name": "Dannyboy",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Port Calm/Entry/Monkeys/Dannyboy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Port Calm",
+            "x": 910,
+            "y": 594
+          }
+        ]
+      },
+      {
+        "name": "Seanyboy",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Port Calm/Entry/Monkeys/Seanyboy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Port Calm",
+            "x": 1461,
+            "y": 488
+          }
+        ]
+      },
+      {
+        "name": "Chili",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Port Calm/Entry/Monkeys/Chili"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Port Calm",
+            "x": 1231,
+            "y": 474
+          }
+        ]
+      },
+      {
+        "name": "Beday",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Port Calm/Entry/Monkeys/Beday"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Port Calm",
+            "x": 472,
+            "y": 317
+          }
+        ]
+      },
+      {
+        "name": "Florence",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Port Calm/Entry/Monkeys/Florence"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Port Calm",
+            "x": 1209,
+            "y": 870
+          }
+        ]
+      },
+      {
+        "name": "Punto",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Port Calm/Entry/Monkeys/Punto"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Port Calm",
+            "x": 1052,
+            "y": 830
+          }
+        ]
+      },
+      {
+        "name": "Lilo",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Port Calm/Indoors/Monkeys/Lilo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Port Calm",
+            "x": 2050,
+            "y": 217
+          }
+        ]
+      },
+      {
+        "name": "Manuel",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Port Calm/Indoors/Monkeys/Manuel"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Port Calm",
+            "x": 1890,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "Water Net Tutorial",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Port Calm/Entry/Phones/Water Net Tutorial"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Port Calm",
+            "x": 1140,
+            "y": 540,
+            "size": 30,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      },
+      {
+        "name": "Pipotchi",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Port Calm/Entry/Phones/Pipotchi"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Port Calm",
+            "x": 727,
+            "y": 659,
+            "size": 30,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      }
+    ]
+  }
+]

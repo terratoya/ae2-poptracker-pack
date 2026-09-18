@@ -9,7 +9,13 @@
   "target_poptracker_version": "0.35.4",
   "variants": {
     "standard": {
-      "display_name": "Map Tracker",
+      "display_name": "Detailed Maps",
+      "flags": [
+        "ap"
+      ]
+    },
+    "var_levelselect": {
+      "display_name": "Level Overview",
       "flags": [
         "ap"
       ]

@@ -1,0 +1,351 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Simian Citadel - Map",
+    "children": [
+      {
+        "name": "Sly",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Simian Citadel/Entry/Monkeys/Sly"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 310,
+            "y": 255
+          }
+        ]
+      },
+      {
+        "name": "Norman",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Simian Citadel/Entry/Monkeys/Norman"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 942,
+            "y": 650
+          }
+        ]
+      },
+      {
+        "name": "Alex",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Simian Citadel/Entry/Monkeys/Alex"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 270,
+            "y": 123
+          }
+        ]
+      },
+      {
+        "name": "Jonah",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Simian Citadel/Whale/Monkeys/Jonah"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 485,
+            "y": 1220
+          }
+        ]
+      },
+      {
+        "name": "Mermonkey",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Simian Citadel/Whale/Monkeys/Mermonkey"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 885,
+            "y": 1403
+          }
+        ]
+      },
+      {
+        "name": "Colin",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Simian Citadel/Whale/Monkeys/Colin"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 782,
+            "y": 1224
+          }
+        ]
+      },
+      {
+        "name": "Nicky",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Simian Citadel/Submarine/Monkeys/Nicky"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 1822,
+            "y": 1107
+          }
+        ]
+      },
+      {
+        "name": "Vaughan",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Simian Citadel/Submarine/Monkeys/Vaughan"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 1185,
+            "y": 1328
+          }
+        ]
+      },
+      {
+        "name": "Dave",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Simian Citadel/Fountain/Monkeys/Dave"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 2363,
+            "y": 790
+          }
+        ]
+      },
+      {
+        "name": "Gonzales",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Simian Citadel/Fountain/Monkeys/Gonzales"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 2138,
+            "y": 397
+          }
+        ]
+      },
+      {
+        "name": "Daley",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Simian Citadel/Fountain/Monkeys/Daley"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 2557,
+            "y": 590
+          }
+        ]
+      },
+      {
+        "name": "Ollie",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Simian Citadel/Fountain/Monkeys/Ollie"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 2467,
+            "y": 727
+          }
+        ]
+      },
+      {
+        "name": "Dolph",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Simian Citadel/Fountain/Monkeys/Dolph"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 2397,
+            "y": 985
+          }
+        ]
+      },
+      {
+        "name": "Tommy",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Simian Citadel/Fountain/Monkeys/Tommy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 2450,
+            "y": 830
+          }
+        ]
+      },
+      {
+        "name": "Grace",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Simian Citadel/Fountain/Monkeys/Grace"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 2300,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "Jim",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Simian Citadel/Bullring/Monkeys/Jim"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 1738,
+            "y": 533
+          }
+        ]
+      },
+      {
+        "name": "Rex",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Simian Citadel/Bullring/Monkeys/Rex"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 1507,
+            "y": 286
+          }
+        ]
+      },
+      {
+        "name": "Brucie",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Simian Citadel/Bullring/Monkeys/Brucie"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 1424,
+            "y": 123
+          }
+        ]
+      },
+      {
+        "name": "Woody",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Simian Citadel/Bullring/Monkeys/Woody"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 1332,
+            "y": 215
+          }
+        ]
+      },
+      {
+        "name": "Green Pants Monkeys",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Simian Citadel/Bullring/Phones/Green Pants Monkeys"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Simian Citadel",
+            "x": 1585,
+            "y": 375,
+            "size": 40,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      }
+    ]
+  }
+]

@@ -1,8 +1,176 @@
 [
   {
-    "name": "Level Select",
+    "name": "Travel Station",
     "location_size": 48,
     "location_border_thickness": 3,
     "img": "images/maps/level_select.png"
+  },
+  {
+    "name": "Liberty Island",
+    "location_size": 21,
+    "location_border_thickness": 2,
+    "img": "images/levels/level1.png"
+  },
+  {
+    "name": "Breezy Village",
+    "location_size": 21,
+    "location_border_thickness": 2,
+    "img": "images/levels/level2.png"
+  },
+  {
+    "name": "Port Calm",
+    "location_size": 35,
+    "location_border_thickness": 3,
+    "img": "images/levels/level3.png"
+  },
+  {
+    "name": "Viva Apespania",
+    "location_size": 45,
+    "location_border_thickness": 4,
+    "img": "images/levels/level4.png"
+  },
+  {
+    "name": "Blue Monkey Battle!",
+    "location_size": 25,
+    "location_border_thickness": 2,
+    "img": "images/levels/level5.png"
+  },
+  {
+    "name": "Castle Frightmare",
+    "location_size": 45,
+    "location_border_thickness": 3,
+    "img": "images/levels/level6.png"
+  },
+  {
+    "name": "Vita-Z Factory",
+    "location_size": 42,
+    "location_border_thickness": 3,
+    "img": "images/levels/level7.png"
+  },
+  {
+    "name": "Casino City",
+    "location_size": 37,
+    "location_border_thickness": 3,
+    "img": "images/levels/level8.png"
+  },
+  {
+    "name": "Ninja Hideout",
+    "location_size": 33,
+    "location_border_thickness": 3,
+    "img": "images/levels/level9.png"
+  },
+  {
+    "name": "Yellow Monkey Battle!",
+    "location_size": 22,
+    "location_border_thickness": 2,
+    "img": "images/levels/level10.png"
+  },
+  {
+    "name": "Snowball Mountain",
+    "location_size": 37,
+    "location_border_thickness": 3,
+    "img": "images/levels/level11.png"
+  },
+  {
+    "name": "Lookout Valley",
+    "location_size": 26,
+    "location_border_thickness": 2,
+    "img": "images/levels/level12.png"
+  },
+  {
+    "name": "The Blue Baboon",
+    "location_size": 45,
+    "location_border_thickness": 4,
+    "img": "images/levels/level13.png"
+  },
+  {
+    "name": "Pink Monkey Battle!",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/levels/level14.png"
+  },
+  {
+    "name": "Enter the Monkey",
+    "location_size": 43,
+    "location_border_thickness": 3,
+    "img": "images/levels/level15.png"
+  },
+  {
+    "name": "Simian Citadel",
+    "location_size": 45,
+    "location_border_thickness": 4,
+    "img": "images/levels/level16.png"
+  },
+  {
+    "name": "Panic Pyramid",
+    "location_size": 43,
+    "location_border_thickness": 4,
+    "img": "images/levels/level17.png"
+  },
+  {
+    "name": "White Monkey Battle!",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "img": "images/levels/level18.png"
+  },
+  {
+    "name": "Pirate Isle",
+    "location_size": 48,
+    "location_border_thickness": 5,
+    "img": "images/levels/level19.png"
+  },
+  {
+    "name": "Land of the Apes",
+    "location_size": 44,
+    "location_border_thickness": 4,
+    "img": "images/levels/level20.png"
+  },
+  {
+    "name": "The Lost World",
+    "location_size": 41,
+    "location_border_thickness": 3,
+    "img": "images/levels/level21.png"
+  },
+  {
+    "name": "Red Monkey Battle!",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/levels/level22.png"
+  },
+  {
+    "name": "Skyscraper City",
+    "location_size": 43,
+    "location_border_thickness": 4,
+    "img": "images/levels/level23.png"
+  },
+  {
+    "name": "Code C.H.I.M.P.",
+    "location_size": 52,
+    "location_border_thickness": 4,
+    "img": "images/levels/level24.png"
+  },
+  {
+    "name": "Giant Yellow Monkey Battle!",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/levels/level25.png"
+  },
+  {
+    "name": "Moon Base",
+    "location_size": 66,
+    "location_border_thickness": 5,
+    "img": "images/levels/level26.png"
+  },
+  {
+    "name": "Showdown with Specter!",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/levels/level27.png"
+  },
+  {
+    "name": "Final Showdown with Specter!",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/levels/level28.png"
   }
 ]

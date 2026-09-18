@@ -1,0 +1,25 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Pink Monkey Battle! - Map",
+    "children": [
+      {
+        "name": "Pink Monkey",
+        "chest_unopened_img": "images/locations/bosspink.png",
+        "chest_opened_img": "images/locations/bosspink_checked.png",
+        "sections": [
+          {
+            "ref": "Pink Monkey Battle!/Entry/Monkeys/Pink Monkey"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pink Monkey Battle!",
+            "x": 128,
+            "y": 90
+          }
+        ]
+      }
+    ]
+  }
+]

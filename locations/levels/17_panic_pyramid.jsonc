@@ -1,0 +1,317 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Panic Pyramid - Map",
+    "children": [
+      {
+        "name": "Piz",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Panic Pyramid/Entry/Monkeys/Piz"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Panic Pyramid",
+            "x": 413,
+            "y": 829
+          }
+        ]
+      },
+      {
+        "name": "Stu",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Panic Pyramid/Entry/Monkeys/Stu"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Panic Pyramid",
+            "x": 87,
+            "y": 933
+          }
+        ]
+      },
+      {
+        "name": "Stevie",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Panic Pyramid/Booby Traps/Monkeys/Stevie"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Panic Pyramid",
+            "x": 1482,
+            "y": 287
+          }
+        ]
+      },
+      {
+        "name": "Jimbo",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Panic Pyramid/Booby Traps/Monkeys/Jimbo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Panic Pyramid",
+            "x": 1420,
+            "y": 719
+          }
+        ]
+      },
+      {
+        "name": "Roberts",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Panic Pyramid/Booby Traps/Monkeys/Roberts"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Panic Pyramid",
+            "x": 1001,
+            "y": 290
+          }
+        ]
+      },
+      {
+        "name": "Uri",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Panic Pyramid/Moving Platforms #1/Monkeys/Uri"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Panic Pyramid",
+            "x": 174,
+            "y": 2068
+          }
+        ]
+      },
+      {
+        "name": "Eric",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Panic Pyramid/Moving Platforms #1/Monkeys/Eric"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Panic Pyramid",
+            "x": 423,
+            "y": 2000
+          }
+        ]
+      },
+      {
+        "name": "Curley",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Panic Pyramid/Boulders/Monkeys/Curley"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Panic Pyramid",
+            "x": 2599,
+            "y": 237
+          }
+        ]
+      },
+      {
+        "name": "Chimpette",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Panic Pyramid/Boulders/Monkeys/Chimpette"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Panic Pyramid",
+            "x": 2228,
+            "y": 722
+          }
+        ]
+      },
+      {
+        "name": "Dane",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Panic Pyramid/Boulders/Monkeys/Dane"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Panic Pyramid",
+            "x": 2405,
+            "y": 601
+          }
+        ]
+      },
+      {
+        "name": "Slim",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Panic Pyramid/Boulders/Monkeys/Slim"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Panic Pyramid",
+            "x": 2782,
+            "y": 778
+          }
+        ]
+      },
+      {
+        "name": "Cleo",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Panic Pyramid/Boulders/Monkeys/Cleo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Panic Pyramid",
+            "x": 2732,
+            "y": 335
+          }
+        ]
+      },
+      {
+        "name": "Spud",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Panic Pyramid/Moving Platforms #2/Monkeys/Spud"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Panic Pyramid",
+            "x": 1738,
+            "y": 1810
+          }
+        ]
+      },
+      {
+        "name": "Anthony",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Panic Pyramid/Moving Platforms #2/Monkeys/Anthony"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Panic Pyramid",
+            "x": 1798,
+            "y": 1723
+          }
+        ]
+      },
+      {
+        "name": "Becky",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Panic Pyramid/Moving Platforms #2/Monkeys/Becky"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Panic Pyramid",
+            "x": 1773,
+            "y": 1235
+          }
+        ]
+      },
+      {
+        "name": "Gordon",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Panic Pyramid/Moving Platforms #2/Monkeys/Gordon"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Panic Pyramid",
+            "x": 1850,
+            "y": 1229
+          }
+        ]
+      },
+      {
+        "name": "Sphinx",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Panic Pyramid/Moving Platforms #2/Monkeys/Sphinx"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Panic Pyramid",
+            "x": 1195,
+            "y": 1797
+          }
+        ]
+      },
+      {
+        "name": "Moving Platform",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Panic Pyramid/Moving Platforms #1/Phones/Moving Platform"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Panic Pyramid",
+            "x": 828,
+            "y": 1297,
+            "size": 39,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      }
+    ]
+  }
+]

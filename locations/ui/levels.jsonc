@@ -1,4 +1,4 @@
-// Generated from ae2_archipelago revision unknown. Do not edit manually.
+// Locally maintained presentation. Mod imports update only scripts/logic/generated_data.lua.
 [
   {
     "name": "Liberty Island - Monkeys",
@@ -27,7 +27,7 @@
     "visibility_rules": "$is_level_active|Liberty Island",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 125,
         "y": 120
       }
@@ -60,7 +60,7 @@
     "visibility_rules": "$is_level_active|Breezy Village",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 350,
         "y": 120
       }
@@ -99,7 +99,7 @@
     "visibility_rules": "$is_level_active|Port Calm",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 575,
         "y": 120
       }
@@ -150,7 +150,7 @@
     "visibility_rules": "$is_level_active|Viva Apespania",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 800,
         "y": 120
       }
@@ -168,7 +168,7 @@
     "visibility_rules": "$is_level_active|Blue Monkey Battle!",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1025,
         "y": 120
       }
@@ -222,7 +222,7 @@
     "visibility_rules": "$is_level_active|Castle Frightmare",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1250,
         "y": 120
       }
@@ -264,7 +264,7 @@
     "visibility_rules": "$is_level_active|Vita-Z Factory",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1475,
         "y": 120
       }
@@ -324,7 +324,7 @@
     "visibility_rules": "$is_level_active|Casino City",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 125,
         "y": 340
       }
@@ -387,7 +387,7 @@
     "visibility_rules": "$is_level_active|Ninja Hideout",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 350,
         "y": 340
       }
@@ -405,7 +405,7 @@
     "visibility_rules": "$is_level_active|Yellow Monkey Battle!",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 575,
         "y": 340
       }
@@ -462,7 +462,7 @@
     "visibility_rules": "$is_level_active|Snowball Mountain",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 800,
         "y": 340
       }
@@ -507,7 +507,7 @@
     "visibility_rules": "$is_level_active|Lookout Valley",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1025,
         "y": 340
       }
@@ -558,7 +558,7 @@
     "visibility_rules": "$is_level_active|The Blue Baboon",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1250,
         "y": 340
       }
@@ -576,7 +576,7 @@
     "visibility_rules": "$is_level_active|Pink Monkey Battle!",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1475,
         "y": 340
       }
@@ -651,7 +651,7 @@
     "visibility_rules": "$is_level_active|Enter the Monkey",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 125,
         "y": 560
       }
@@ -723,7 +723,7 @@
     "visibility_rules": "$is_level_active|Simian Citadel",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 350,
         "y": 560
       }
@@ -789,7 +789,7 @@
     "visibility_rules": "$is_level_active|Panic Pyramid",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 575,
         "y": 560
       }
@@ -807,7 +807,7 @@
     "visibility_rules": "$is_level_active|White Monkey Battle!",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 800,
         "y": 560
       }
@@ -882,7 +882,7 @@
     "visibility_rules": "$is_level_active|Pirate Isle",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1025,
         "y": 560
       }
@@ -960,7 +960,7 @@
     "visibility_rules": "$is_level_active|Land of the Apes",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1250,
         "y": 560
       }
@@ -1029,7 +1029,7 @@
     "visibility_rules": "$is_level_active|The Lost World",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1475,
         "y": 560
       }
@@ -1047,7 +1047,7 @@
     "visibility_rules": "$is_level_active|Red Monkey Battle!",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 125,
         "y": 780
       }
@@ -1131,7 +1131,7 @@
     "visibility_rules": "$is_level_active|Skyscraper City",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 350,
         "y": 780
       }
@@ -1209,7 +1209,7 @@
     "visibility_rules": "$is_level_active|Code C.H.I.M.P.",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 575,
         "y": 780
       }
@@ -1227,7 +1227,7 @@
     "visibility_rules": "$is_level_active|Giant Yellow Monkey Battle!",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 800,
         "y": 780
       }
@@ -1302,7 +1302,7 @@
     "visibility_rules": "$is_level_active|Moon Base",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1025,
         "y": 780
       }
@@ -1320,7 +1320,7 @@
     "visibility_rules": "$is_level_active|Showdown with Specter!",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1250,
         "y": 780
       }
@@ -1338,7 +1338,7 @@
     "visibility_rules": "setting_final_specter_goal",
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1475,
         "y": 780
       }

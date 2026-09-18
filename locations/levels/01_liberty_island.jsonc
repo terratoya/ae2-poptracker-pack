@@ -1,0 +1,190 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Liberty Island - Map",
+    "children": [
+      {
+        "name": "George",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Liberty Island/Entry/Monkeys/George"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Liberty Island",
+            "x": 100,
+            "y": 400
+          }
+        ]
+      },
+      {
+        "name": "Libby",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Liberty Island/Entry/Monkeys/Libby"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Liberty Island",
+            "x": 311,
+            "y": 323
+          }
+        ]
+      },
+      {
+        "name": "Tomkey Kruise",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Liberty Island/Entry/Monkeys/Tomkey Kruise"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Liberty Island",
+            "x": 420,
+            "y": 187
+          }
+        ]
+      },
+      {
+        "name": "Chill",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Liberty Island/Entry/Monkeys/Chill"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Liberty Island",
+            "x": 520,
+            "y": 20
+          }
+        ]
+      },
+      {
+        "name": "Henry",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Liberty Island/Entry/Monkeys/Henry"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Liberty Island",
+            "x": 468,
+            "y": 193
+          }
+        ]
+      },
+      {
+        "name": "Harley Q. Win",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Liberty Island/Entry/Monkeys/Harley Q. Win"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Liberty Island",
+            "x": 436,
+            "y": 85
+          }
+        ]
+      },
+      {
+        "name": "Gadget Tutorial",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Liberty Island/Entry/Phones/Gadget Tutorial"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Liberty Island",
+            "x": 60,
+            "y": 430,
+            "size": 16,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      },
+      {
+        "name": "Jumping Tutorial",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Liberty Island/Entry/Phones/Jumping Tutorial"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Liberty Island",
+            "x": 175,
+            "y": 370,
+            "size": 16,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      },
+      {
+        "name": "Double Jump Tutorial",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Liberty Island/Entry/Phones/Double Jump Tutorial"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Liberty Island",
+            "x": 410,
+            "y": 230,
+            "size": 16,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      },
+      {
+        "name": "Cookie Tutorial",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Liberty Island/Entry/Phones/Cookie Tutorial"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Liberty Island",
+            "x": 420,
+            "y": 165,
+            "size": 16,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      }
+    ]
+  }
+]

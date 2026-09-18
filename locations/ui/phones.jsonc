@@ -1,4 +1,4 @@
-// Generated from ae2_archipelago revision unknown. Do not edit manually.
+// Locally maintained presentation. Mod imports update only scripts/logic/generated_data.lua.
 [
   {
     "name": "Liberty Island - Phones",
@@ -21,10 +21,11 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 180,
         "y": 170,
-        "size": 32
+        "size": 32,
+        "shape": "diamond"
       }
     ]
   },
@@ -49,10 +50,11 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 405,
         "y": 170,
-        "size": 32
+        "size": 32,
+        "shape": "diamond"
       }
     ]
   },
@@ -71,10 +73,11 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 630,
         "y": 170,
-        "size": 32
+        "size": 32,
+        "shape": "diamond"
       }
     ]
   },
@@ -96,10 +99,11 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 855,
         "y": 170,
-        "size": 32
+        "size": 32,
+        "shape": "diamond"
       }
     ]
   },
@@ -115,10 +119,11 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1305,
         "y": 170,
-        "size": 32
+        "size": 32,
+        "shape": "diamond"
       }
     ]
   },
@@ -137,10 +142,11 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1530,
         "y": 170,
-        "size": 32
+        "size": 32,
+        "shape": "diamond"
       }
     ]
   },
@@ -159,10 +165,11 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 180,
         "y": 390,
-        "size": 32
+        "size": 32,
+        "shape": "diamond"
       }
     ]
   },
@@ -181,10 +188,11 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 405,
         "y": 390,
-        "size": 32
+        "size": 32,
+        "shape": "diamond"
       }
     ]
   },
@@ -203,10 +211,11 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 855,
         "y": 390,
-        "size": 32
+        "size": 32,
+        "shape": "diamond"
       }
     ]
   },
@@ -225,10 +234,11 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1080,
         "y": 390,
-        "size": 32
+        "size": 32,
+        "shape": "diamond"
       }
     ]
   },
@@ -244,10 +254,11 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1305,
         "y": 390,
-        "size": 32
+        "size": 32,
+        "shape": "diamond"
       }
     ]
   },
@@ -263,10 +274,11 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 405,
         "y": 610,
-        "size": 32
+        "size": 32,
+        "shape": "diamond"
       }
     ]
   },
@@ -282,10 +294,11 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 630,
         "y": 610,
-        "size": 32
+        "size": 32,
+        "shape": "diamond"
       }
     ]
   },
@@ -301,10 +314,11 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1080,
         "y": 610,
-        "size": 32
+        "size": 32,
+        "shape": "diamond"
       }
     ]
   },
@@ -320,10 +334,11 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 1530,
         "y": 610,
-        "size": 32
+        "size": 32,
+        "shape": "diamond"
       }
     ]
   },
@@ -339,10 +354,11 @@
     ],
     "map_locations": [
       {
-        "map": "Level Select",
+        "map": "Travel Station",
         "x": 405,
         "y": 830,
-        "size": 32
+        "size": 32,
+        "shape": "diamond"
       }
     ]
   }

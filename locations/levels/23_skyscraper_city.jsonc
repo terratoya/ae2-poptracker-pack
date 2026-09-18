@@ -1,0 +1,419 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Skyscraper City - Map",
+    "children": [
+      {
+        "name": "Brendan",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Final Room/Monkeys/Brendan"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 2535,
+            "y": 663
+          }
+        ]
+      },
+      {
+        "name": "Ali",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Final Room/Monkeys/Ali"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 3062,
+            "y": 928
+          }
+        ]
+      },
+      {
+        "name": "Jim",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Final Room/Monkeys/Jim"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 2950,
+            "y": 1045
+          }
+        ]
+      },
+      {
+        "name": "Ricardo",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Final Room/Monkeys/Ricardo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 3069,
+            "y": 347
+          }
+        ]
+      },
+      {
+        "name": "Douglas",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Final Room/Monkeys/Douglas"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 2862,
+            "y": 918
+          }
+        ]
+      },
+      {
+        "name": "Cameron",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Final Room/Monkeys/Cameron"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 3007,
+            "y": 873
+          }
+        ]
+      },
+      {
+        "name": "Slider",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Entry/Monkeys/Slider"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 474,
+            "y": 600
+          }
+        ]
+      },
+      {
+        "name": "Spank",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Entry/Monkeys/Spank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 345,
+            "y": 517
+          }
+        ]
+      },
+      {
+        "name": "Din",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Entry/Monkeys/Din"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 665,
+            "y": 571
+          }
+        ]
+      },
+      {
+        "name": "Sue",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Entry/Monkeys/Sue"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 383,
+            "y": 517
+          }
+        ]
+      },
+      {
+        "name": "Dum Dum",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Entry/Monkeys/Dum Dum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 639,
+            "y": 370
+          }
+        ]
+      },
+      {
+        "name": "Jitter",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Entry/Monkeys/Jitter"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 1025,
+            "y": 218
+          }
+        ]
+      },
+      {
+        "name": "Robson",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Lobby/Monkeys/Robson"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 2260,
+            "y": 517
+          }
+        ]
+      },
+      {
+        "name": "Spud II",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Lobby/Monkeys/Spud II"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 2279,
+            "y": 607
+          }
+        ]
+      },
+      {
+        "name": "Cole",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Lobby/Monkeys/Cole"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 1832,
+            "y": 463
+          }
+        ]
+      },
+      {
+        "name": "Ty",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Lobby/Monkeys/Ty"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 1595,
+            "y": 400
+          }
+        ]
+      },
+      {
+        "name": "Slacker",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Sewer/Monkeys/Slacker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 1235,
+            "y": 955
+          }
+        ]
+      },
+      {
+        "name": "Kengo",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Sewer/Monkeys/Kengo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 820,
+            "y": 846
+          }
+        ]
+      },
+      {
+        "name": "Rory",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Sewer/Monkeys/Rory"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 815,
+            "y": 740
+          }
+        ]
+      },
+      {
+        "name": "Eubank",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Sewer/Monkeys/Eubank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 500,
+            "y": 1233
+          }
+        ]
+      },
+      {
+        "name": "Miller",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Sewer/Monkeys/Miller"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 251,
+            "y": 1037
+          }
+        ]
+      },
+      {
+        "name": "Spacey",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Tank/Monkeys/Spacey"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 1500,
+            "y": 1627
+          }
+        ]
+      },
+      {
+        "name": "Ivor",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Skyscraper City/Tank/Monkeys/Ivor"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 2202,
+            "y": 1333
+          }
+        ]
+      },
+      {
+        "name": "Tank Tutorial",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Skyscraper City/Tank/Phones/Tank Tutorial"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Skyscraper City",
+            "x": 1910,
+            "y": 1660,
+            "size": 38,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      }
+    ]
+  }
+]

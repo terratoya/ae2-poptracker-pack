@@ -1,0 +1,201 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Vita-Z Factory - Map",
+    "children": [
+      {
+        "name": "Vic",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Vita-Z Factory/Entry/Monkeys/Vic"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Vita-Z Factory",
+            "x": 545,
+            "y": 598
+          }
+        ]
+      },
+      {
+        "name": "Bob",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Vita-Z Factory/Entry/Monkeys/Bob"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Vita-Z Factory",
+            "x": 230,
+            "y": 185
+          }
+        ]
+      },
+      {
+        "name": "Snap",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Vita-Z Factory/Entry/Monkeys/Snap"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Vita-Z Factory",
+            "x": 1549,
+            "y": 75
+          }
+        ]
+      },
+      {
+        "name": "Al",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Vita-Z Factory/Entry/Monkeys/Al"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Vita-Z Factory",
+            "x": 420,
+            "y": 153
+          }
+        ]
+      },
+      {
+        "name": "Chomp",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Vita-Z Factory/Entry/Monkeys/Chomp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Vita-Z Factory",
+            "x": 590,
+            "y": 435
+          }
+        ]
+      },
+      {
+        "name": "Arnie",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Vita-Z Factory/Entry/Monkeys/Arnie"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Vita-Z Factory",
+            "x": 110,
+            "y": 565
+          }
+        ]
+      },
+      {
+        "name": "Phil G.",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Vita-Z Factory/Mech Tunnel/Monkeys/Phil G."
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Vita-Z Factory",
+            "x": 1488,
+            "y": 1560
+          }
+        ]
+      },
+      {
+        "name": "Bobby",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Vita-Z Factory/Mech Arena/Monkeys/Bobby"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Vita-Z Factory",
+            "x": 1415,
+            "y": 655
+          }
+        ]
+      },
+      {
+        "name": "Skippy",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Vita-Z Factory/Mech Arena/Monkeys/Skippy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Vita-Z Factory",
+            "x": 1420,
+            "y": 490
+          }
+        ]
+      },
+      {
+        "name": "Climbing Tutorial",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Vita-Z Factory/Entry/Phones/Climbing Tutorial"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Vita-Z Factory",
+            "x": 625,
+            "y": 172,
+            "size": 37,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      },
+      {
+        "name": "Pipobot Tutorial",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Vita-Z Factory/Mech Tunnel/Phones/Pipobot Tutorial"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Vita-Z Factory",
+            "x": 1779,
+            "y": 1220,
+            "size": 37,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      }
+    ]
+  }
+]

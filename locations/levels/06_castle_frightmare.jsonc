@@ -1,0 +1,249 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Castle Frightmare - Map",
+    "children": [
+      {
+        "name": "Arthur",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Castle Frightmare/Entry/Monkeys/Arthur"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Castle Frightmare",
+            "x": 230,
+            "y": 495
+          }
+        ]
+      },
+      {
+        "name": "Virgil",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Castle Frightmare/Entry/Monkeys/Virgil"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Castle Frightmare",
+            "x": 615,
+            "y": 485
+          }
+        ]
+      },
+      {
+        "name": "The Invisible Monkey",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Castle Frightmare/Inside/Monkeys/The Invisible Monkey"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Castle Frightmare",
+            "x": 1880,
+            "y": 970
+          }
+        ]
+      },
+      {
+        "name": "Monk Quixote",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Castle Frightmare/Inside/Monkeys/Monk Quixote"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Castle Frightmare",
+            "x": 1860,
+            "y": 788
+          }
+        ]
+      },
+      {
+        "name": "Van",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Castle Frightmare/Inside/Monkeys/Van"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Castle Frightmare",
+            "x": 1570,
+            "y": 1020
+          }
+        ]
+      },
+      {
+        "name": "Simon",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Castle Frightmare/Inside/Monkeys/Simon"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Castle Frightmare",
+            "x": 2374,
+            "y": 626
+          }
+        ]
+      },
+      {
+        "name": "Pierce",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Castle Frightmare/Inside/Monkeys/Pierce"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Castle Frightmare",
+            "x": 1902,
+            "y": 435
+          }
+        ]
+      },
+      {
+        "name": "Jumpy",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Castle Frightmare/Inside/Monkeys/Jumpy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Castle Frightmare",
+            "x": 1254,
+            "y": 121
+          }
+        ]
+      },
+      {
+        "name": "Viv",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Castle Frightmare/Inside/Monkeys/Viv"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Castle Frightmare",
+            "x": 1370,
+            "y": 267
+          }
+        ]
+      },
+      {
+        "name": "Count Monkula",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Castle Frightmare/Inside/Monkeys/Count Monkula"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Castle Frightmare",
+            "x": 2280,
+            "y": 210
+          }
+        ]
+      },
+      {
+        "name": "Hyde",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Castle Frightmare/Dungeon/Monkeys/Hyde"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Castle Frightmare",
+            "x": 685,
+            "y": 1473
+          }
+        ]
+      },
+      {
+        "name": "Stein",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Castle Frightmare/Dungeon/Monkeys/Stein"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Castle Frightmare",
+            "x": 1290,
+            "y": 1484
+          }
+        ]
+      },
+      {
+        "name": "Nana",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Castle Frightmare/Dungeon/Monkeys/Nana"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Castle Frightmare",
+            "x": 680,
+            "y": 1360
+          }
+        ]
+      },
+      {
+        "name": "White Pants Monkeys",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Castle Frightmare/Entry/Phones/White Pants Monkeys"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Castle Frightmare",
+            "x": 540,
+            "y": 660,
+            "size": 40,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      }
+    ]
+  }
+]

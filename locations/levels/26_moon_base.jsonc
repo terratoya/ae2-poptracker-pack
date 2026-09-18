@@ -1,0 +1,348 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Moon Base - Map",
+    "children": [
+      {
+        "name": "Lardy",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/Wheel/Monkeys/Lardy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 193,
+            "y": 1032
+          }
+        ]
+      },
+      {
+        "name": "Tom",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/Robot/Monkeys/Tom"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 849,
+            "y": 1718
+          }
+        ]
+      },
+      {
+        "name": "Bruce",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/Magnetic Panels/Monkeys/Bruce"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 3128,
+            "y": 1762
+          }
+        ]
+      },
+      {
+        "name": "Han",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/Mech Arena/Monkeys/Han"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 3094,
+            "y": 2390
+          }
+        ]
+      },
+      {
+        "name": "Neil Apestrong",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/Entry/Monkeys/Neil Apestrong"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 952,
+            "y": 378
+          }
+        ]
+      },
+      {
+        "name": "Chelsea",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/Entry/Monkeys/Chelsea"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 346,
+            "y": 443
+          }
+        ]
+      },
+      {
+        "name": "SAL-01",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/Rotating Magnets/Monkeys/SAL-01"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 1562,
+            "y": 402
+          }
+        ]
+      },
+      {
+        "name": "Kubrick",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/Rotating Magnets/Monkeys/Kubrick"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 3033,
+            "y": 510
+          }
+        ]
+      },
+      {
+        "name": "Chewy",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/Rotating Magnets/Monkeys/Chewy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 2894,
+            "y": 481
+          }
+        ]
+      },
+      {
+        "name": "Obi Ook Kenobi",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/Moving Platforms/Monkeys/Obi Ook Kenobi"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 1877,
+            "y": 1340
+          }
+        ]
+      },
+      {
+        "name": "Darth Apester",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/Moving Platforms/Monkeys/Darth Apester"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 2068,
+            "y": 1247
+          }
+        ]
+      },
+      {
+        "name": "Luke Apewalker",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/Moving Platforms/Monkeys/Luke Apewalker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 2112,
+            "y": 1580
+          }
+        ]
+      },
+      {
+        "name": "Neo",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/Inside Climb/Monkeys/Neo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 3488,
+            "y": 317
+          }
+        ]
+      },
+      {
+        "name": "Tsubasa",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/Inside Climb/Monkeys/Tsubasa"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 3320,
+            "y": 338
+          }
+        ]
+      },
+      {
+        "name": "Boba",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/Inside Climb/Monkeys/Boba"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 3770,
+            "y": 330
+          }
+        ]
+      },
+      {
+        "name": "Lister",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/Inside Climb/Monkeys/Lister"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 3805,
+            "y": 309
+          }
+        ]
+      },
+      {
+        "name": "G. Ookas",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/UFO Arena/Monkeys/G. Ookas"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 1096,
+            "y": 1264
+          }
+        ]
+      },
+      {
+        "name": "Scully",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/UFO Arena/Monkeys/Scully"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 1155,
+            "y": 1218
+          }
+        ]
+      },
+      {
+        "name": "Kai",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/Armoured Monkey Arena/Monkeys/Kai"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 1286,
+            "y": 1793
+          }
+        ]
+      },
+      {
+        "name": "Yoshi",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Moon Base/Armoured Monkey Arena/Monkeys/Yoshi"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Moon Base",
+            "x": 1280,
+            "y": 1880
+          }
+        ]
+      }
+    ]
+  }
+]

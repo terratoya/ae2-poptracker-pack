@@ -1,0 +1,368 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Pirate Isle - Map",
+    "children": [
+      {
+        "name": "Pugwash",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Entry/Monkeys/Pugwash"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 945,
+            "y": 612
+          }
+        ]
+      },
+      {
+        "name": "Burt",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Entry/Monkeys/Burt"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 680,
+            "y": 582
+          }
+        ]
+      },
+      {
+        "name": "Hawkins",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Entry/Monkeys/Hawkins"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 993,
+            "y": 628
+          }
+        ]
+      },
+      {
+        "name": "Kelly",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Entry/Monkeys/Kelly"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 585,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Stephenson",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Entry/Monkeys/Stephenson"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 674,
+            "y": 720
+          }
+        ]
+      },
+      {
+        "name": "Mel",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Cave Entrance/Monkeys/Mel"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 2000,
+            "y": 551
+          }
+        ]
+      },
+      {
+        "name": "Dick",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Cave Entrance/Monkeys/Dick"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 1623,
+            "y": 87
+          }
+        ]
+      },
+      {
+        "name": "Bradley",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Cave Entrance/Monkeys/Bradley"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 2006,
+            "y": 623
+          }
+        ]
+      },
+      {
+        "name": "Tabasco",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Boat/Monkeys/Tabasco"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 2872,
+            "y": 702
+          }
+        ]
+      },
+      {
+        "name": "Bonzo",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Boat/Monkeys/Bonzo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 2815,
+            "y": 590
+          }
+        ]
+      },
+      {
+        "name": "Scratchy",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Mine/Monkeys/Scratchy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 1833,
+            "y": 1908
+          }
+        ]
+      },
+      {
+        "name": "Vic",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Mine/Monkeys/Vic"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 2151,
+            "y": 1629
+          }
+        ]
+      },
+      {
+        "name": "Indy",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Mine/Monkeys/Indy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 1770,
+            "y": 1642
+          }
+        ]
+      },
+      {
+        "name": "Bobby",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Mine/Monkeys/Bobby"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 2113,
+            "y": 1320
+          }
+        ]
+      },
+      {
+        "name": "Freddie",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Dungeon/Monkeys/Freddie"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 409,
+            "y": 1552
+          }
+        ]
+      },
+      {
+        "name": "Denis",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Dungeon/Monkeys/Denis"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 1114,
+            "y": 956
+          }
+        ]
+      },
+      {
+        "name": "Oliver",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Dungeon/Monkeys/Oliver"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 552,
+            "y": 1643
+          }
+        ]
+      },
+      {
+        "name": "Captain Ook",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Dungeon/Monkeys/Captain Ook"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 880,
+            "y": 1510
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Dungeon/Monkeys/Jeffrey"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 495,
+            "y": 1794
+          }
+        ]
+      },
+      {
+        "name": "Lee",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Pirate Isle/Dungeon/Monkeys/Lee"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 1044,
+            "y": 883
+          }
+        ]
+      },
+      {
+        "name": "Boat Reminder",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Pirate Isle/Boat/Phones/Boat Reminder"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pirate Isle",
+            "x": 2910,
+            "y": 850,
+            "size": 43,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      }
+    ]
+  }
+]

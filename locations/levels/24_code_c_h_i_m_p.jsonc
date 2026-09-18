@@ -1,0 +1,365 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Code C.H.I.M.P. - Map",
+    "children": [
+      {
+        "name": "Kiki",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Entry/Monkeys/Kiki"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 590,
+            "y": 108
+          }
+        ]
+      },
+      {
+        "name": "Cole",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Entry/Monkeys/Cole"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 447,
+            "y": 274
+          }
+        ]
+      },
+      {
+        "name": "Mimi",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Entry/Monkeys/Mimi"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 634,
+            "y": 132
+          }
+        ]
+      },
+      {
+        "name": "Tanjobi",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Entry/Monkeys/Tanjobi"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 353,
+            "y": 543
+          }
+        ]
+      },
+      {
+        "name": "Major",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Entry/Monkeys/Major"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 395,
+            "y": 557
+          }
+        ]
+      },
+      {
+        "name": "Ebiike",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Entry/Monkeys/Ebiike"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 623,
+            "y": 362
+          }
+        ]
+      },
+      {
+        "name": "Corporal",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Base Entrance/Monkeys/Corporal"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 1787,
+            "y": 66
+          }
+        ]
+      },
+      {
+        "name": "Sloth",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Base Entrance/Monkeys/Sloth"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 2015,
+            "y": 758
+          }
+        ]
+      },
+      {
+        "name": "Heston",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Base Entrance/Monkeys/Heston"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 1810,
+            "y": 190
+          }
+        ]
+      },
+      {
+        "name": "Buzz",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Base Entrance/Monkeys/Buzz"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 1545,
+            "y": 717
+          }
+        ]
+      },
+      {
+        "name": "Matt",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Treadmills/Monkeys/Matt"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 354,
+            "y": 1193
+          }
+        ]
+      },
+      {
+        "name": "Gaelle",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Treadmills/Monkeys/Gaelle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 394,
+            "y": 1168
+          }
+        ]
+      },
+      {
+        "name": "Arnold",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Moving Platforms/Monkeys/Arnold"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 1513,
+            "y": 1524
+          }
+        ]
+      },
+      {
+        "name": "Sylvester",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Moving Platforms/Monkeys/Sylvester"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 1545,
+            "y": 1457
+          }
+        ]
+      },
+      {
+        "name": "Sandra",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Moving Platforms/Monkeys/Sandra"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 1405,
+            "y": 1410
+          }
+        ]
+      },
+      {
+        "name": "Boots",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Moving Platforms/Monkeys/Boots"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 1329,
+            "y": 1690
+          }
+        ]
+      },
+      {
+        "name": "Sinclair",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Magnetic Panels/Monkeys/Sinclair"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 2911,
+            "y": 1391
+          }
+        ]
+      },
+      {
+        "name": "Keeble",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Magnetic Panels/Monkeys/Keeble"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 2851,
+            "y": 1189
+          }
+        ]
+      },
+      {
+        "name": "General",
+        "chest_unopened_img": "images/locations/green.png",
+        "chest_opened_img": "images/locations/green_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Tank/Monkeys/General"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 2443,
+            "y": 575
+          }
+        ]
+      },
+      {
+        "name": "Laura",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Tank/Monkeys/Laura"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 3106,
+            "y": 207
+          }
+        ]
+      },
+      {
+        "name": "The Cleaner",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Code C.H.I.M.P./Tank/Monkeys/The Cleaner"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Code C.H.I.M.P.",
+            "x": 3041,
+            "y": 131
+          }
+        ]
+      }
+    ]
+  }
+]

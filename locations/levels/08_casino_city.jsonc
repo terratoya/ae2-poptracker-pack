@@ -1,0 +1,303 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Casino City - Map",
+    "children": [
+      {
+        "name": "Pelvis",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Casino City/Entry/Monkeys/Pelvis"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Casino City",
+            "x": 631,
+            "y": 180
+          }
+        ]
+      },
+      {
+        "name": "Jessica",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker.png",
+        "sections": [
+          {
+            "ref": "Casino City/Entry/Monkeys/Jessica"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Casino City",
+            "x": 410,
+            "y": 395
+          }
+        ]
+      },
+      {
+        "name": "Vincent",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Casino City/Entry/Monkeys/Vincent"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Casino City",
+            "x": 308,
+            "y": 105
+          }
+        ]
+      },
+      {
+        "name": "Shaft",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Casino City/Entry/Monkeys/Shaft"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Casino City",
+            "x": 90,
+            "y": 290
+          }
+        ]
+      },
+      {
+        "name": "Jackson",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Casino City/Entry/Monkeys/Jackson"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Casino City",
+            "x": 89,
+            "y": 473
+          }
+        ]
+      },
+      {
+        "name": "Oozy",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Casino City/Entry/Monkeys/Oozy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Casino City",
+            "x": 411,
+            "y": 535
+          }
+        ]
+      },
+      {
+        "name": "Simian Seagal",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Casino City/Bar/Monkeys/Simian Seagal"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Casino City",
+            "x": 1355,
+            "y": 295
+          }
+        ]
+      },
+      {
+        "name": "Leo",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Casino City/Bar/Monkeys/Leo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Casino City",
+            "x": 1162,
+            "y": 27
+          }
+        ]
+      },
+      {
+        "name": "Ulysses",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Casino City/Bar/Monkeys/Ulysses"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Casino City",
+            "x": 1320,
+            "y": 726
+          }
+        ]
+      },
+      {
+        "name": "Clint Apewood",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "Casino City/Bar/Monkeys/Clint Apewood"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Casino City",
+            "x": 1352,
+            "y": 168
+          }
+        ]
+      },
+      {
+        "name": "Raymond",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Casino City/Circus/Monkeys/Raymond"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Casino City",
+            "x": 795,
+            "y": 1230
+          }
+        ]
+      },
+      {
+        "name": "Vindy",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Casino City/Circus/Monkeys/Vindy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Casino City",
+            "x": 860,
+            "y": 1102
+          }
+        ]
+      },
+      {
+        "name": "Pierrot",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Casino City/Circus/Monkeys/Pierrot"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Casino City",
+            "x": 834,
+            "y": 1170
+          }
+        ]
+      },
+      {
+        "name": "Jester",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Casino City/Circus/Monkeys/Jester"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Casino City",
+            "x": 990,
+            "y": 959
+          }
+        ]
+      },
+      {
+        "name": "Bubbles",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Casino City/Circus/Monkeys/Bubbles"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Casino City",
+            "x": 770,
+            "y": 1090
+          }
+        ]
+      },
+      {
+        "name": "Black Pants Monkeys",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Casino City/Entry/Phones/Black Pants Monkeys"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Casino City",
+            "x": 409,
+            "y": 600,
+            "size": 32,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      },
+      {
+        "name": "Special Pellets",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Casino City/Entry/Phones/Special Pellets"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Casino City",
+            "x": 403,
+            "y": 152,
+            "size": 32,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      }
+    ]
+  }
+]

@@ -40,11 +40,11 @@
           "type": "tabbed",
           "tabs": [
             {
-              "title": "Level Select",
+              "title": "Travel Station",
               "content": {
                 "type": "map",
                 "maps": [
-                  "Level Select"
+                  "Travel Station"
                 ]
               }
             },
@@ -53,6 +53,258 @@
               "content": {
                 "type": "layout",
                 "key": "entrance_tracker"
+              }
+            },
+            {
+              "title": "Liberty Island",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Liberty Island"
+                ]
+              }
+            },
+            {
+              "title": "Breezy Village",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Breezy Village"
+                ]
+              }
+            },
+            {
+              "title": "Port Calm",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Port Calm"
+                ]
+              }
+            },
+            {
+              "title": "Viva Apespania",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Viva Apespania"
+                ]
+              }
+            },
+            {
+              "title": "Blue Monkey Battle!",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Blue Monkey Battle!"
+                ]
+              }
+            },
+            {
+              "title": "Castle Frightmare",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Castle Frightmare"
+                ]
+              }
+            },
+            {
+              "title": "Vita-Z Factory",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Vita-Z Factory"
+                ]
+              }
+            },
+            {
+              "title": "Casino City",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Casino City"
+                ]
+              }
+            },
+            {
+              "title": "Ninja Hideout",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Ninja Hideout"
+                ]
+              }
+            },
+            {
+              "title": "Yellow Monkey Battle!",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Yellow Monkey Battle!"
+                ]
+              }
+            },
+            {
+              "title": "Snowball Mountain",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Snowball Mountain"
+                ]
+              }
+            },
+            {
+              "title": "Lookout Valley",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Lookout Valley"
+                ]
+              }
+            },
+            {
+              "title": "The Blue Baboon",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "The Blue Baboon"
+                ]
+              }
+            },
+            {
+              "title": "Pink Monkey Battle!",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Pink Monkey Battle!"
+                ]
+              }
+            },
+            {
+              "title": "Enter the Monkey",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Enter the Monkey"
+                ]
+              }
+            },
+            {
+              "title": "Simian Citadel",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Simian Citadel"
+                ]
+              }
+            },
+            {
+              "title": "Panic Pyramid",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Panic Pyramid"
+                ]
+              }
+            },
+            {
+              "title": "White Monkey Battle!",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "White Monkey Battle!"
+                ]
+              }
+            },
+            {
+              "title": "Pirate Isle",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Pirate Isle"
+                ]
+              }
+            },
+            {
+              "title": "Land of the Apes",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Land of the Apes"
+                ]
+              }
+            },
+            {
+              "title": "The Lost World",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "The Lost World"
+                ]
+              }
+            },
+            {
+              "title": "Red Monkey Battle!",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Red Monkey Battle!"
+                ]
+              }
+            },
+            {
+              "title": "Skyscraper City",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Skyscraper City"
+                ]
+              }
+            },
+            {
+              "title": "Code C.H.I.M.P.",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Code C.H.I.M.P."
+                ]
+              }
+            },
+            {
+              "title": "Giant Yellow Monkey Battle!",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Giant Yellow Monkey Battle!"
+                ]
+              }
+            },
+            {
+              "title": "Moon Base",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Moon Base"
+                ]
+              }
+            },
+            {
+              "title": "Showdown with Specter!",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Showdown with Specter!"
+                ]
+              }
+            },
+            {
+              "title": "Final Showdown with Specter!",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Final Showdown with Specter!"
+                ]
               }
             }
           ]

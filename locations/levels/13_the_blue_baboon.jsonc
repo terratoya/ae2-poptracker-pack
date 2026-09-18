@@ -1,0 +1,232 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "The Blue Baboon - Map",
+    "children": [
+      {
+        "name": "Helmut",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "The Blue Baboon/Entry/Monkeys/Helmut"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Blue Baboon",
+            "x": 267,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "Sandy",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "The Blue Baboon/Entry/Monkeys/Sandy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Blue Baboon",
+            "x": 420,
+            "y": 582
+          }
+        ]
+      },
+      {
+        "name": "Gloria",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "The Blue Baboon/Entry/Monkeys/Gloria"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Blue Baboon",
+            "x": 295,
+            "y": 410
+          }
+        ]
+      },
+      {
+        "name": "Michelle",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "The Blue Baboon/Entry/Monkeys/Michelle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Blue Baboon",
+            "x": 550,
+            "y": 863
+          }
+        ]
+      },
+      {
+        "name": "Erin",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "The Blue Baboon/Entry/Monkeys/Erin"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Blue Baboon",
+            "x": 97,
+            "y": 420
+          }
+        ]
+      },
+      {
+        "name": "Brad",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "The Blue Baboon/Entry/Monkeys/Brad"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Blue Baboon",
+            "x": 450,
+            "y": 635
+          }
+        ]
+      },
+      {
+        "name": "Mulder",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "The Blue Baboon/Bananarang Room/Monkeys/Mulder"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Blue Baboon",
+            "x": 2475,
+            "y": 890
+          }
+        ]
+      },
+      {
+        "name": "Rik",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "The Blue Baboon/Bananarang Room/Monkeys/Rik"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Blue Baboon",
+            "x": 2287,
+            "y": 127
+          }
+        ]
+      },
+      {
+        "name": "Montague",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "The Blue Baboon/Ship/Monkeys/Montague"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Blue Baboon",
+            "x": 1505,
+            "y": 937
+          }
+        ]
+      },
+      {
+        "name": "Shorty",
+        "chest_unopened_img": "images/locations/black.png",
+        "chest_opened_img": "images/locations/black_checked.png",
+        "sections": [
+          {
+            "ref": "The Blue Baboon/Ship/Monkeys/Shorty"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Blue Baboon",
+            "x": 1729,
+            "y": 355
+          }
+        ]
+      },
+      {
+        "name": "Speedo",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "The Blue Baboon/Ship/Monkeys/Speedo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Blue Baboon",
+            "x": 1657,
+            "y": 165
+          }
+        ]
+      },
+      {
+        "name": "Sooz",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "The Blue Baboon/Changing Hut/Monkeys/Sooz"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Blue Baboon",
+            "x": 826,
+            "y": 1300
+          }
+        ]
+      },
+      {
+        "name": "Submarine Tutorial",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/The Blue Baboon/Ship/Phones/Submarine Tutorial"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Blue Baboon",
+            "x": 1694,
+            "y": 286,
+            "size": 40,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      }
+    ]
+  }
+]

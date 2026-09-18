@@ -1,0 +1,277 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Enter the Monkey - Map",
+    "children": [
+      {
+        "name": "Entry - Seven Monkeys",
+        "sections": [
+          {
+            "ref": "Enter the Monkey/Entry/Monkeys/Jean Paul",
+            "chest_unopened_img": "images/locations/blue.png",
+            "chest_opened_img": "images/locations/blue_checked.png"
+          },
+          {
+            "ref": "Enter the Monkey/Entry/Monkeys/Simeski",
+            "chest_unopened_img": "images/locations/yellow.png",
+            "chest_opened_img": "images/locations/yellow_checked.png"
+          },
+          {
+            "ref": "Enter the Monkey/Entry/Monkeys/Barry",
+            "chest_unopened_img": "images/locations/lightblue.png",
+            "chest_opened_img": "images/locations/lightblue_checked.png"
+          },
+          {
+            "ref": "Enter the Monkey/Entry/Monkeys/Chan",
+            "chest_unopened_img": "images/locations/red.png",
+            "chest_opened_img": "images/locations/red_checked.png"
+          },
+          {
+            "ref": "Enter the Monkey/Entry/Monkeys/Marshall",
+            "chest_unopened_img": "images/locations/red.png",
+            "chest_opened_img": "images/locations/red_checked.png"
+          },
+          {
+            "ref": "Enter the Monkey/Entry/Monkeys/Wesley",
+            "chest_unopened_img": "images/locations/lightblue.png",
+            "chest_opened_img": "images/locations/lightblue_checked.png"
+          },
+          {
+            "ref": "Enter the Monkey/Entry/Monkeys/Chaz",
+            "chest_unopened_img": "images/locations/yellow.png",
+            "chest_opened_img": "images/locations/yellow_checked.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Enter the Monkey",
+            "x": 223,
+            "y": 360,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Daimion",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Enter the Monkey/Entry/Monkeys/Daimion"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Enter the Monkey",
+            "x": 347,
+            "y": 130
+          }
+        ]
+      },
+      {
+        "name": "Bruce Monkee",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Enter the Monkey/Inside/Monkeys/Bruce Monkee"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Enter the Monkey",
+            "x": 2065,
+            "y": 473
+          }
+        ]
+      },
+      {
+        "name": "Miyazaki",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Enter the Monkey/Inside/Monkeys/Miyazaki"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Enter the Monkey",
+            "x": 1666,
+            "y": 527
+          }
+        ]
+      },
+      {
+        "name": "Johnny",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Enter the Monkey/Inside/Monkeys/Johnny"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Enter the Monkey",
+            "x": 2030,
+            "y": 501
+          }
+        ]
+      },
+      {
+        "name": "Naseem",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Enter the Monkey/Inside/Monkeys/Naseem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Enter the Monkey",
+            "x": 1063,
+            "y": 458
+          }
+        ]
+      },
+      {
+        "name": "Ming",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Enter the Monkey/Wall/Monkeys/Ming"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Enter the Monkey",
+            "x": 1378,
+            "y": 1325
+          }
+        ]
+      },
+      {
+        "name": "Ryan",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Enter the Monkey/Wall/Monkeys/Ryan"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Enter the Monkey",
+            "x": 804,
+            "y": 1011
+          }
+        ]
+      },
+      {
+        "name": "Martin",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Enter the Monkey/Wall/Monkeys/Martin"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Enter the Monkey",
+            "x": 1196,
+            "y": 1395
+          }
+        ]
+      },
+      {
+        "name": "Jools",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Enter the Monkey/Wall/Monkeys/Jools"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Enter the Monkey",
+            "x": 643,
+            "y": 1481
+          }
+        ]
+      },
+      {
+        "name": "James",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Enter the Monkey/Wall/Monkeys/James"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Enter the Monkey",
+            "x": 845,
+            "y": 1240
+          }
+        ]
+      },
+      {
+        "name": "John Ook",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Enter the Monkey/Wall/Monkeys/John Ook"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Enter the Monkey",
+            "x": 791,
+            "y": 1458
+          }
+        ]
+      },
+      {
+        "name": "Goku",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Enter the Monkey/Wall/Monkeys/Goku"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Enter the Monkey",
+            "x": 1335,
+            "y": 1475
+          }
+        ]
+      },
+      {
+        "name": "Daniel C. Ooke",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Enter the Monkey/Wall/Monkeys/Daniel C. Ooke"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Enter the Monkey",
+            "x": 980,
+            "y": 1520
+          }
+        ]
+      }
+    ]
+  }
+]

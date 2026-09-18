@@ -1,0 +1,25 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Showdown with Specter! - Map",
+    "children": [
+      {
+        "name": "Specter",
+        "chest_unopened_img": "images/locations/specter.png",
+        "chest_opened_img": "images/locations/specter_checked.png",
+        "sections": [
+          {
+            "ref": "Showdown with Specter!/Entry/Monkeys/Specter"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Showdown with Specter!",
+            "x": 238,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  }
+]

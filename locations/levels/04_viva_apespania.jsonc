@@ -1,0 +1,272 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Viva Apespania - Map",
+    "children": [
+      {
+        "name": "Pogo",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Viva Apespania/Entry/Monkeys/Pogo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Viva Apespania",
+            "x": 675,
+            "y": 310
+          }
+        ]
+      },
+      {
+        "name": "Slope",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Viva Apespania/Entry/Monkeys/Slope"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Viva Apespania",
+            "x": 632,
+            "y": 407
+          }
+        ]
+      },
+      {
+        "name": "Billy",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Viva Apespania/Entry/Monkeys/Billy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Viva Apespania",
+            "x": 440,
+            "y": 305
+          }
+        ]
+      },
+      {
+        "name": "Ole",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Viva Apespania/Village/Monkeys/Ole"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Viva Apespania",
+            "x": 1830,
+            "y": 790
+          }
+        ]
+      },
+      {
+        "name": "Chutney",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Viva Apespania/Village/Monkeys/Chutney"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Viva Apespania",
+            "x": 2030,
+            "y": 648
+          }
+        ]
+      },
+      {
+        "name": "Wiz",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Viva Apespania/Village/Monkeys/Wiz"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Viva Apespania",
+            "x": 1880,
+            "y": 365
+          }
+        ]
+      },
+      {
+        "name": "Birgit",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Viva Apespania/Village/Monkeys/Birgit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Viva Apespania",
+            "x": 1720,
+            "y": 850
+          }
+        ]
+      },
+      {
+        "name": "Lily",
+        "chest_unopened_img": "images/locations/lightblue.png",
+        "chest_opened_img": "images/locations/lightblue_checked.png",
+        "sections": [
+          {
+            "ref": "Viva Apespania/Village/Monkeys/Lily"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Viva Apespania",
+            "x": 2000,
+            "y": 430
+          }
+        ]
+      },
+      {
+        "name": "Trip",
+        "chest_unopened_img": "images/locations/blue.png",
+        "chest_opened_img": "images/locations/blue_checked.png",
+        "sections": [
+          {
+            "ref": "Viva Apespania/Village/Monkeys/Trip"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Viva Apespania",
+            "x": 1660,
+            "y": 720
+          }
+        ]
+      },
+      {
+        "name": "Toro",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Viva Apespania/Bullring/Monkeys/Toro"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Viva Apespania",
+            "x": 802,
+            "y": 1175
+          }
+        ]
+      },
+      {
+        "name": "Annie",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Viva Apespania/Bullring/Monkeys/Annie"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Viva Apespania",
+            "x": 748,
+            "y": 1215
+          }
+        ]
+      },
+      {
+        "name": "Luis",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Viva Apespania/Bullring/Monkeys/Luis"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Viva Apespania",
+            "x": 675,
+            "y": 1320
+          }
+        ]
+      },
+      {
+        "name": "Blue Pants Monkeys",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Viva Apespania/Entry/Phones/Blue Pants Monkeys"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Viva Apespania",
+            "x": 1020,
+            "y": 395,
+            "size": 42,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      },
+      {
+        "name": "Gadget Select Reminder",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Viva Apespania/Village/Phones/Gadget Select Reminder"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Viva Apespania",
+            "x": 2260,
+            "y": 610,
+            "size": 42,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      },
+      {
+        "name": "Life Tutorial",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Viva Apespania/Bullring/Phones/Life Tutorial"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Viva Apespania",
+            "x": 410,
+            "y": 1165,
+            "size": 42,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      }
+    ]
+  }
+]

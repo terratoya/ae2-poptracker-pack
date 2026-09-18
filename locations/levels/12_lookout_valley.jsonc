@@ -1,0 +1,218 @@
+// Manual marker positions. Edit x/y here; world regeneration does not overwrite this file.
+[
+  {
+    "name": "Lookout Valley - Map",
+    "children": [
+      {
+        "name": "Olivia",
+        "chest_unopened_img": "images/locations/white.png",
+        "chest_opened_img": "images/locations/white_checked.png",
+        "sections": [
+          {
+            "ref": "Lookout Valley/Entry/Monkeys/Olivia"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lookout Valley",
+            "x": 500,
+            "y": 273
+          }
+        ]
+      },
+      {
+        "name": "Ally",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Lookout Valley/Entry/Monkeys/Ally"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lookout Valley",
+            "x": 325,
+            "y": 230
+          }
+        ]
+      },
+      {
+        "name": "Ty",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Lookout Valley/Entry/Monkeys/Ty"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lookout Valley",
+            "x": 123,
+            "y": 113
+          }
+        ]
+      },
+      {
+        "name": "Livingstone",
+        "chest_unopened_img": "images/locations/joker.png",
+        "chest_opened_img": "images/locations/joker_checked.png",
+        "sections": [
+          {
+            "ref": "Lookout Valley/Entry/Monkeys/Livingstone"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lookout Valley",
+            "x": 510,
+            "y": 200
+          }
+        ]
+      },
+      {
+        "name": "Louis",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Lookout Valley/Jungle/Monkeys/Louis"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lookout Valley",
+            "x": 1283,
+            "y": 173
+          }
+        ]
+      },
+      {
+        "name": "Lily",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Lookout Valley/Jungle/Monkeys/Lily"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lookout Valley",
+            "x": 1198,
+            "y": 127
+          }
+        ]
+      },
+      {
+        "name": "Gunn",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Lookout Valley/Jungle/Monkeys/Gunn"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lookout Valley",
+            "x": 1093,
+            "y": 467
+          }
+        ]
+      },
+      {
+        "name": "Gill",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Lookout Valley/Cave/Monkeys/Gill"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lookout Valley",
+            "x": 485,
+            "y": 817
+          }
+        ]
+      },
+      {
+        "name": "Chris",
+        "chest_unopened_img": "images/locations/red.png",
+        "chest_opened_img": "images/locations/red_checked.png",
+        "sections": [
+          {
+            "ref": "Lookout Valley/Cave/Monkeys/Chris"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lookout Valley",
+            "x": 589,
+            "y": 677
+          }
+        ]
+      },
+      {
+        "name": "Simian Tell",
+        "chest_unopened_img": "images/locations/yellow.png",
+        "chest_opened_img": "images/locations/yellow_checked.png",
+        "sections": [
+          {
+            "ref": "Lookout Valley/Cave/Monkeys/Simian Tell"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lookout Valley",
+            "x": 407,
+            "y": 1008
+          }
+        ]
+      },
+      {
+        "name": "Red Pants Monkeys",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Lookout Valley/Entry/Phones/Red Pants Monkeys"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lookout Valley",
+            "x": 340,
+            "y": 260,
+            "size": 23,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      },
+      {
+        "name": "Boat Tutorial",
+        "chest_unopened_img": "images/locations/phone.png",
+        "chest_opened_img": "images/locations/phone_checked.png",
+        "sections": [
+          {
+            "ref": "Phone Logic/Lookout Valley/Entry/Phones/Boat Tutorial"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lookout Valley",
+            "x": 272,
+            "y": 382,
+            "size": 23,
+            "shape": "diamond"
+          }
+        ],
+        "visibility_rules": "setting_message_phones"
+      }
+    ]
+  }
+]
