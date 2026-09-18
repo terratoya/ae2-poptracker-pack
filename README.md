@@ -2,3 +2,4 @@
 
 A PopTracker pack for the Ape Escape 2 Archipelago world using this mod: https://github.com/dannybonz/ae2_archipelago
 
+Maps are based on the Saru Getchu 2 Official Guide Book
