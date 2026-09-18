@@ -135,3 +135,4 @@ end
 Archipelago:AddClearHandler("AE2 reset and slot data", on_clear)
 Archipelago:AddItemHandler("AE2 items", on_item)
 Archipelago:AddLocationHandler("AE2 locations", on_location)
+ScriptHost:LoadScript("scripts/autotracking/maps.lua")

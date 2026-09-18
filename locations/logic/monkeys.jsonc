@@ -2683,8 +2683,8 @@
                 "item_count": 1,
                 "access_rules": "^$monkey_accessibility|241",
                 "visibility_rules": "$is_location_active|241",
-                "chest_unopened_img": "images/locations/bosswhite.png",
-                "chest_opened_img": "images/locations/bosswhite_checked.png"
+                "chest_unopened_img": "images/locations/bossred.png",
+                "chest_opened_img": "images/locations/bossred_checked.png"
               }
             ]
           }

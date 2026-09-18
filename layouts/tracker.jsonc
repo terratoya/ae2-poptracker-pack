@@ -321,7 +321,8 @@
         "character_hikaru",
         "setting_final_specter_goal",
         "setting_message_phones",
-        "logic_normal"
+        "logic_normal",
+        "setting_auto_map_switch"
       ],
       [
         "setting_hidden_monkeys",

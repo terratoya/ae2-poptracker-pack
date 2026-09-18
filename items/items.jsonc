@@ -65,6 +65,7 @@
       { "name": "Logic Difficulty: Expert", "img": "images/items/expert.png", "codes": "logic_expert", "inherit_codes": false }
     ]
   },
+  { "name": "Automatic Map Switching", "type": "toggle", "initial_active_state": true, "img": "images/maps/autotab.png", "codes": "setting_auto_map_switch" },
   { "name": "Hidden Monkey Logic", "type": "toggle", "img": "images/items/hidden.png", "codes": "setting_hidden_monkeys" },
   { "name": "Air Crawl Logic", "type": "toggle", "img": "images/items/aircrawl.png", "codes": "setting_air_crawl" },
   { "name": "Damage Boost Logic", "type": "toggle", "initial_active_state": true, "img": "images/items/damageboost.png", "codes": "setting_damage_boost" },

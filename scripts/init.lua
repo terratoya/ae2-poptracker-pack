@@ -14,7 +14,7 @@ Tracker:AddLocations("locations/logic/gotcha_box.jsonc")
 Tracker:AddLocations("locations/ui/levels.jsonc")
 Tracker:AddLocations("locations/ui/phones.jsonc")
 Tracker:AddLocations("locations/ui/gotcha_box.jsonc")
-if Tracker.ActiveVariantUID ~= "var_itemsonly" and Tracker.ActiveVariantUID ~= "var_levelselect" then
+if Tracker.ActiveVariantUID ~= "var_itemsonly" and Tracker.ActiveVariantUID ~= "var_1_levelselect" then
     Tracker:AddLocations("locations/levels/01_liberty_island.jsonc")
     Tracker:AddLocations("locations/levels/02_breezy_village.jsonc")
     Tracker:AddLocations("locations/levels/03_port_calm.jsonc")
@@ -54,7 +54,7 @@ ScriptHost:LoadScript("scripts/entrances.lua")
 Tracker:AddLayouts("layouts/tracker.jsonc")
 if Tracker.ActiveVariantUID == "var_itemsonly" then
     Tracker:AddLayouts("layouts/tracker_items_only.jsonc")
-elseif Tracker.ActiveVariantUID == "var_levelselect" then
+elseif Tracker.ActiveVariantUID == "var_1_levelselect" then
     Tracker:AddLayouts("layouts/tracker_level_select.jsonc")
 end
 ScriptHost:LoadScript("scripts/layout.lua")

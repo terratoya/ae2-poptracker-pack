@@ -1,8 +1,9 @@
 {
   "name": "Ape Escape 2 Tracker",
   "game_name": "Ape Escape 2",
-  "package_version": "0.3.0",
+  "package_version": "1.0.0",
   "package_uid": "ae2_poptracker_pack",
+  "versions_url": "https://github.com/terratoya/ae2-poptracker-pack/releases/latest/download/versions.json",
   "platform": "ps2",
   "author": "Terratoya and contributors",
   "min_poptracker_version": "0.32.0",
@@ -14,7 +15,7 @@
         "ap"
       ]
     },
-    "var_levelselect": {
+    "var_1_levelselect": {
       "display_name": "Level Overview",
       "flags": [
         "ap"
